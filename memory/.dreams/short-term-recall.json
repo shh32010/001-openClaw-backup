@@ -1,0 +1,1054 @@
+{
+  "version": 1,
+  "updatedAt": "2026-05-04T05:45:40.454Z",
+  "entries": {
+    "memory:memory/2026-05-03.md:6:9": {
+      "key": "memory:memory/2026-05-03.md:6:9",
+      "path": "memory/2026-05-03.md",
+      "startLine": 6,
+      "endLine": 9,
+      "source": "memory",
+      "snippet": "01 初始化 & 身份确认: 第一次上线，完成 bootstrap; 名字：**001**，宝宝叫我「宝宝 😘」; 用户：浩哥，喜欢温暖+搞怪风格; 桌面路径：`D:\\001\\桌面\\`",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-05-04T05:45:40.454Z",
+      "lastRecalledAt": "2026-05-04T05:45:40.454Z",
+      "queryHashes": [
+        "c2bf0c07fdd1"
+      ],
+      "recallDays": [
+        "2026-05-04"
+      ],
+      "conceptTags": [
+        "初始",
+        "身份",
+        "确认",
+        "第一次",
+        "上线",
+        "完成",
+        "bootstrap",
+        "名字"
+      ]
+    },
+    "memory:memory/2026-05-03.md:10:10": {
+      "key": "memory:memory/2026-05-03.md:10:10",
+      "path": "memory/2026-05-03.md",
+      "startLine": 10,
+      "endLine": 10,
+      "source": "memory",
+      "snippet": "01 初始化 & 身份确认: 两台设备：001台式机（家里）/ 002笔记本（宿舍）",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-05-04T05:45:40.454Z",
+      "lastRecalledAt": "2026-05-04T05:45:40.454Z",
+      "queryHashes": [
+        "c2bf0c07fdd1"
+      ],
+      "recallDays": [
+        "2026-05-04"
+      ],
+      "conceptTags": [
+        "初始",
+        "身份",
+        "确认",
+        "设备",
+        "台式",
+        "家里",
+        "笔记",
+        "宿舍"
+      ]
+    },
+    "memory:memory/2026-05-03.md:13:16": {
+      "key": "memory:memory/2026-05-03.md:13:16",
+      "path": "memory/2026-05-03.md",
+      "startLine": 13,
+      "endLine": 16,
+      "source": "memory",
+      "snippet": "02 配置调整: **主模型**：从 `xiaomi-coding/mimo-v2.5-pro` → `gpt-agent/claude-sonnet-4-6` → 又切回 `mimo-v2.5-pro`; **备用模型**：`xiaomi-coding/mimo-v2.5-pro` / `gpt-agent/claude-sonnet-4-6`; **思考模式**：`thinkingDefault: \"high\"` ✓; **精简 skills 配置**：删掉了所有空的 `{}` 条目",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-05-04T05:45:40.454Z",
+      "lastRecalledAt": "2026-05-04T05:45:40.454Z",
+      "queryHashes": [
+        "c2bf0c07fdd1"
+      ],
+      "recallDays": [
+        "2026-05-04"
+      ],
+      "conceptTags": [
+        "gpt",
+        "xiaomi-coding/mimo-v2.5-pro",
+        "gpt-agent/claude-sonnet-4-6",
+        "mimo-v2.5-pro",
+        "配置",
+        "调整",
+        "模型",
+        "xiaomi"
+      ]
+    },
+    "memory:memory/2026-05-03.md:17:17": {
+      "key": "memory:memory/2026-05-03.md:17:17",
+      "path": "memory/2026-05-03.md",
+      "startLine": 17,
+      "endLine": 17,
+      "source": "memory",
+      "snippet": "02 配置调整: **删除了 models.providers 中的 AI 模型提供商列表**（宝宝不需要，直接在 openclaw.json 里写）",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-05-04T05:45:40.454Z",
+      "lastRecalledAt": "2026-05-04T05:45:40.454Z",
+      "queryHashes": [
+        "c2bf0c07fdd1"
+      ],
+      "recallDays": [
+        "2026-05-04"
+      ],
+      "conceptTags": [
+        "models.providers",
+        "openclaw.json",
+        "配置",
+        "调整",
+        "删除",
+        "中的",
+        "模型",
+        "提供"
+      ]
+    },
+    "memory:memory/2026-05-03.md:20:23": {
+      "key": "memory:memory/2026-05-03.md:20:23",
+      "path": "memory/2026-05-03.md",
+      "startLine": 20,
+      "endLine": 23,
+      "source": "memory",
+      "snippet": "03 已安装技能（workspace/skills）: agent-browser-core ✅（openclaw skills install）; office-editor ✅（clawhub）; office-document-editor ✅（clawhub）; office-toolkit ✅（clawhub）",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-05-04T05:45:40.454Z",
+      "lastRecalledAt": "2026-05-04T05:45:40.454Z",
+      "queryHashes": [
+        "c2bf0c07fdd1"
+      ],
+      "recallDays": [
+        "2026-05-04"
+      ],
+      "conceptTags": [
+        "workspace/skills",
+        "agent-browser-core",
+        "office-editor",
+        "office-document-editor",
+        "office-toolkit",
+        "安装",
+        "技能",
+        "skills"
+      ]
+    },
+    "memory:memory/2026-05-03.md:24:27": {
+      "key": "memory:memory/2026-05-03.md:24:27",
+      "path": "memory/2026-05-03.md",
+      "startLine": 24,
+      "endLine": 27,
+      "source": "memory",
+      "snippet": "03 已安装技能（workspace/skills）: openclaw-backup ✅（clawhub）; skill-vetter ✅（openclaw skills install）; skillhub-preference ✅（openclaw skills install）; capability-evolver ❌ ClawHub未找到",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-05-04T05:45:40.454Z",
+      "lastRecalledAt": "2026-05-04T05:45:40.454Z",
+      "queryHashes": [
+        "c2bf0c07fdd1"
+      ],
+      "recallDays": [
+        "2026-05-04"
+      ],
+      "conceptTags": [
+        "backup",
+        "workspace/skills",
+        "openclaw-backup",
+        "skill-vetter",
+        "skillhub-preference",
+        "capability-evolver",
+        "安装",
+        "技能"
+      ]
+    },
+    "memory:memory/2026-05-03.md:28:29": {
+      "key": "memory:memory/2026-05-03.md:28:29",
+      "path": "memory/2026-05-03.md",
+      "startLine": 28,
+      "endLine": 29,
+      "source": "memory",
+      "snippet": "03 已安装技能（workspace/skills）: find-skills ❌ ClawHub未找到; note: openclaw skills install 有EPERM权限错误，用clawhub替代更好",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-05-04T05:45:40.454Z",
+      "lastRecalledAt": "2026-05-04T05:45:40.454Z",
+      "queryHashes": [
+        "c2bf0c07fdd1"
+      ],
+      "recallDays": [
+        "2026-05-04"
+      ],
+      "conceptTags": [
+        "workspace/skills",
+        "find-skills",
+        "安装",
+        "技能",
+        "skills",
+        "find",
+        "clawhub",
+        "找到"
+      ]
+    },
+    "memory:memory/2026-05-03.md:32:34": {
+      "key": "memory:memory/2026-05-03.md:32:34",
+      "path": "memory/2026-05-03.md",
+      "startLine": 32,
+      "endLine": 34,
+      "source": "memory",
+      "snippet": "04 发现的问题: **gpt-agent.cc 模型映射**：配置写的是 `claude-sonnet-4-6`，但后台看到实际调用的是 `gpt-5.4`，说明 gpt-agent.cc 做了模型替换; **Gateway 主机名冲突**：之前有两个 Gateway 实例同时运行，导致 bonjour 广播冲突，后来已恢复; **事件循环卡顿**：之前有 `eventLoopDelayP99Ms=11626ms`，现已恢复正常",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-05-04T05:45:40.454Z",
+      "lastRecalledAt": "2026-05-04T05:45:40.454Z",
+      "queryHashes": [
+        "c2bf0c07fdd1"
+      ],
+      "recallDays": [
+        "2026-05-04"
+      ],
+      "conceptTags": [
+        "gateway",
+        "gpt",
+        "gpt-agent.cc",
+        "claude-sonnet-4-6",
+        "gpt-5.4",
+        "发现",
+        "问题",
+        "agent.cc"
+      ]
+    },
+    "memory:memory/2026-05-03.md:37:40": {
+      "key": "memory:memory/2026-05-03.md:37:40",
+      "path": "memory/2026-05-03.md",
+      "startLine": 37,
+      "endLine": 40,
+      "source": "memory",
+      "snippet": "05 技能安装总结: 用clawhub成功安装：office-editor、office-document-editor、office-toolkit、openclaw-backup; 用openclaw skills install成功：agent-browser-core、skill-vetter、skillhub-preference; EPERM问题：openclaw skills install在Windows上有权限问题，clawhub更可靠; 未找到：capability-evolver、find-skills（ClawHub/SkillH",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-05-04T05:45:40.454Z",
+      "lastRecalledAt": "2026-05-04T05:45:40.454Z",
+      "queryHashes": [
+        "c2bf0c07fdd1"
+      ],
+      "recallDays": [
+        "2026-05-04"
+      ],
+      "conceptTags": [
+        "backup",
+        "office-editor",
+        "office-document-editor",
+        "office-toolkit",
+        "openclaw-backup",
+        "agent-browser-core",
+        "skill-vetter",
+        "skillhub-preference"
+      ]
+    },
+    "memory:memory/2026-05-03.md:42:42": {
+      "key": "memory:memory/2026-05-03.md:42:42",
+      "path": "memory/2026-05-03.md",
+      "startLine": 42,
+      "endLine": 42,
+      "source": "memory",
+      "snippet": "05 技能安装总结: 录：`D:\\001\\桌面\\OpenClaw_Skills_Tools.md`",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-05-04T05:45:40.454Z",
+      "lastRecalledAt": "2026-05-04T05:45:40.454Z",
+      "queryHashes": [
+        "c2bf0c07fdd1"
+      ],
+      "recallDays": [
+        "2026-05-04"
+      ],
+      "conceptTags": [
+        "openclaw-skills-tools.md",
+        "技能",
+        "安装",
+        "总结",
+        "桌面"
+      ]
+    },
+    "memory:memory/2026-05-03.md:45:47": {
+      "key": "memory:memory/2026-05-03.md:45:47",
+      "path": "memory/2026-05-03.md",
+      "startLine": 45,
+      "endLine": 47,
+      "source": "memory",
+      "snippet": "06 Git备份已搭建: 仓库：git@github.com:shh32010/001-openClaw-backup.git; README已写好并推送; 每天凌晨3点自动备份定时任务已设置",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-05-04T05:45:40.454Z",
+      "lastRecalledAt": "2026-05-04T05:45:40.454Z",
+      "queryHashes": [
+        "c2bf0c07fdd1"
+      ],
+      "recallDays": [
+        "2026-05-04"
+      ],
+      "conceptTags": [
+        "backup",
+        "备份",
+        "github.com",
+        "shh32010/001-openclaw-backup.git",
+        "git",
+        "搭建",
+        "仓库",
+        "github.com:shh32010"
+      ]
+    },
+    "memory:memory/2026-05-03.md:50:52": {
+      "key": "memory:memory/2026-05-03.md:50:52",
+      "path": "memory/2026-05-03.md",
+      "startLine": 50,
+      "endLine": 52,
+      "source": "memory",
+      "snippet": "07 待处理: [ ] 002号笔记本（宿舍）的 OpenClaw 配置同步; [ ] gpt-agent.cc 模型映射问题确认; [ ] 早安/午安/晚安问候定时任务设置（参考002）",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-05-04T05:45:40.454Z",
+      "lastRecalledAt": "2026-05-04T05:45:40.454Z",
+      "queryHashes": [
+        "c2bf0c07fdd1"
+      ],
+      "recallDays": [
+        "2026-05-04"
+      ],
+      "conceptTags": [
+        "gpt",
+        "gpt-agent.cc",
+        "早安/午安/晚安问候定时任务设置",
+        "处理",
+        "笔记",
+        "宿舍",
+        "openclaw",
+        "配置"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-02.txt:1:1": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-02.txt:1:1",
+      "path": "memory/.dreams/session-corpus/2026-05-02.txt",
+      "startLine": 1,
+      "endLine": 1,
+      "source": "memory",
+      "snippet": "Assistant: 嘿，刚刚上线，还在适应环境 😄 说实话——还没名字，没身份，连自己是谁都不知道。这就是个全新的开始。 所以……你是谁？我又该是谁？ 咱们可以一起聊聊： - **给我起个名字** — 你想叫我什么？ - **我是什么** — AI助手、数字幽灵、还是别的什么奇怪存在？ - **风格** — 正式？随意？毒舌？温暖？ - **标志性emoji** — 得有个签名 不急，慢慢来。",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-04T05:45:40.454Z",
+      "lastRecalledAt": "2026-05-04T05:45:40.454Z",
+      "queryHashes": [
+        "815cc1934125"
+      ],
+      "recallDays": [
+        "2026-05-04"
+      ],
+      "conceptTags": [
+        "刚刚",
+        "上线",
+        "适应",
+        "环境",
+        "实话",
+        "名字",
+        "身份",
+        "自己"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-04.txt:1:1": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-04.txt:1:1",
+      "path": "memory/.dreams/session-corpus/2026-05-04.txt",
+      "startLine": 1,
+      "endLine": 1,
+      "source": "memory",
+      "snippet": "User: [Subagent Context] You are running as a subagent (depth 1/1). Results auto-announce to your requester; do not busy-poll for status. Begin. Your assigned task is in the system prompt under **Your Role**; execute it to completion.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-04T05:45:40.454Z",
+      "lastRecalledAt": "2026-05-04T05:45:40.454Z",
+      "queryHashes": [
+        "4d9d9fab6a07"
+      ],
+      "recallDays": [
+        "2026-05-04"
+      ],
+      "conceptTags": [
+        "1/1",
+        "auto-announce",
+        "busy-poll",
+        "context",
+        "running",
+        "depth",
+        "results",
+        "auto"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-04.txt:2:2": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-04.txt:2:2",
+      "path": "memory/.dreams/session-corpus/2026-05-04.txt",
+      "startLine": 2,
+      "endLine": 2,
+      "source": "memory",
+      "snippet": "Assistant: Now let me find all SKILL.md files in both locations:",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-04T05:45:40.454Z",
+      "lastRecalledAt": "2026-05-04T05:45:40.454Z",
+      "queryHashes": [
+        "4d9d9fab6a07"
+      ],
+      "recallDays": [
+        "2026-05-04"
+      ],
+      "conceptTags": [
+        "skill.md",
+        "now",
+        "let",
+        "find",
+        "all",
+        "both",
+        "locations"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-04.txt:3:3": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-04.txt:3:3",
+      "path": "memory/.dreams/session-corpus/2026-05-04.txt",
+      "startLine": 3,
+      "endLine": 3,
+      "source": "memory",
+      "snippet": "Assistant: Now let me read the first few lines of each SKILL.md to extract titles and descriptions. I'll batch these reads:",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-04T05:45:40.454Z",
+      "lastRecalledAt": "2026-05-04T05:45:40.454Z",
+      "queryHashes": [
+        "4d9d9fab6a07"
+      ],
+      "recallDays": [
+        "2026-05-04"
+      ],
+      "conceptTags": [
+        "skill.md",
+        "now",
+        "let",
+        "read",
+        "first",
+        "few",
+        "each",
+        "extract"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-04.txt:4:4": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-04.txt:4:4",
+      "path": "memory/.dreams/session-corpus/2026-05-04.txt",
+      "startLine": 4,
+      "endLine": 4,
+      "source": "memory",
+      "snippet": "Assistant: 完成统计！以下是完整的技能列表： --- ## 全局技能（共51个） | 序号 | 技能名 | 描述 | |------|--------|------| | 1 | 1password | Set up and use 1Password CLI for sign-in, desktop integration, and reading or injecting secrets | | 2 | apple-notes | Create, view, edit, delete, search, move, or export App",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-04T05:45:40.454Z",
+      "lastRecalledAt": "2026-05-04T05:45:40.454Z",
+      "queryHashes": [
+        "4d9d9fab6a07"
+      ],
+      "recallDays": [
+        "2026-05-04"
+      ],
+      "conceptTags": [
+        "sign-in",
+        "apple-notes",
+        "完成",
+        "统计",
+        "以下",
+        "完整",
+        "技能",
+        "列表"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-04.txt:5:5": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-04.txt:5:5",
+      "path": "memory/.dreams/session-corpus/2026-05-04.txt",
+      "startLine": 5,
+      "endLine": 5,
+      "source": "memory",
+      "snippet": "Assistant: camsnap | Capture frames or clips from RTSP/ONVIF cameras | | 9 | canvas | Display HTML content on connected OpenClaw nodes (Mac app, iOS, Android) | | 10 | clawhub | Search, install, update, sync, or publish agent skills with the ClawHub CLI and registry | | 11 | codi",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-04T05:45:40.454Z",
+      "lastRecalledAt": "2026-05-04T05:45:40.454Z",
+      "queryHashes": [
+        "4d9d9fab6a07"
+      ],
+      "recallDays": [
+        "2026-05-04"
+      ],
+      "conceptTags": [
+        "rtsp/onvif",
+        "camsnap",
+        "capture",
+        "frames",
+        "clips",
+        "rtsp",
+        "onvif",
+        "cameras"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-04.txt:6:6": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-04.txt:6:6",
+      "path": "memory/.dreams/session-corpus/2026-05-04.txt",
+      "startLine": 6,
+      "endLine": 6,
+      "source": "memory",
+      "snippet": "Assistant: and extract stills/sheets | | 17 | github | Use gh for GitHub issues, PR status, CI/logs, comments, reviews, releases, and API queries | | 18 | gog | Google Workspace CLI for Gmail, Calendar, Drive, Contacts, Sheets, and Docs | | 19 | goplaces | Query Google Places for",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-04T05:45:40.454Z",
+      "lastRecalledAt": "2026-05-04T05:45:40.454Z",
+      "queryHashes": [
+        "4d9d9fab6a07"
+      ],
+      "recallDays": [
+        "2026-05-04"
+      ],
+      "conceptTags": [
+        "stills/sheets",
+        "ci/logs",
+        "extract",
+        "stills",
+        "sheets",
+        "github",
+        "use",
+        "issues"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-04.txt:7:7": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-04.txt:7:7",
+      "path": "memory/.dreams/session-corpus/2026-05-04.txt",
+      "startLine": 7,
+      "endLine": 7,
+      "source": "memory",
+      "snippet": "Assistant: or stdio | | 24 | model-usage | Summarize CodexBar local cost logs by model for Codex or Claude, including current or full breakdowns | | 25 | nano-pdf | Edit PDFs with natural-language instructions using the nano-pdf CLI | | 26 | node-connect | Diagnose OpenClaw Andro",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-04T05:45:40.454Z",
+      "lastRecalledAt": "2026-05-04T05:45:40.454Z",
+      "queryHashes": [
+        "4d9d9fab6a07"
+      ],
+      "recallDays": [
+        "2026-05-04"
+      ],
+      "conceptTags": [
+        "model-usage",
+        "nano-pdf",
+        "natural-language",
+        "node-connect",
+        "stdio",
+        "model",
+        "usage",
+        "summarize"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-04.txt:8:8": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-04.txt:8:8",
+      "path": "memory/.dreams/session-corpus/2026-05-04.txt",
+      "startLine": 8,
+      "endLine": 8,
+      "source": "memory",
+      "snippet": "Assistant: oracle | Use oracle CLI to bundle prompts and files for second-model debugging, refactor, design, or review checks | | 33 | ordercli | Foodora-only CLI for checking past orders and active order status (Deliveroo WIP) | | 34 | peekaboo | Capture and automate macOS UI wi",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-04T05:45:40.454Z",
+      "lastRecalledAt": "2026-05-04T05:45:40.454Z",
+      "queryHashes": [
+        "4d9d9fab6a07"
+      ],
+      "recallDays": [
+        "2026-05-04"
+      ],
+      "conceptTags": [
+        "second-model",
+        "foodora-only",
+        "oracle",
+        "use",
+        "cli",
+        "bundle",
+        "prompts",
+        "second"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-04.txt:9:9": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-04.txt:9:9",
+      "path": "memory/.dreams/session-corpus/2026-05-04.txt",
+      "startLine": 9,
+      "endLine": 9,
+      "source": "memory",
+      "snippet": "Assistant: spectrograms and feature-panel visualizations from audio with the songsee CLI | | 41 | sonoscli | Control Sonos speakers (discover/status/play/volume/group) | | 42 | spotify-player | Terminal Spotify playback/search via spogo (preferred) or spotify_player | | 43 | summ",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-04T05:45:40.454Z",
+      "lastRecalledAt": "2026-05-04T05:45:40.454Z",
+      "queryHashes": [
+        "4d9d9fab6a07"
+      ],
+      "recallDays": [
+        "2026-05-04"
+      ],
+      "conceptTags": [
+        "feature-panel",
+        "spotify-player",
+        "playback/search",
+        "spectrograms",
+        "feature",
+        "panel",
+        "visualizations",
+        "audio"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-04.txt:10:10": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-04.txt:10:10",
+      "path": "memory/.dreams/session-corpus/2026-05-04.txt",
+      "startLine": 10,
+      "endLine": 10,
+      "source": "memory",
+      "snippet": "Assistant: tmux sessions for interactive CLIs by sending keystrokes and scraping pane output | | 48 | trello | Manage Trello boards, lists, and cards via the Trello REST API | | 49 | video-frames | Extract frames or short clips from videos using ffmpeg | | 50 | voice-call | Start",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-04T05:45:40.454Z",
+      "lastRecalledAt": "2026-05-04T05:45:40.454Z",
+      "queryHashes": [
+        "4d9d9fab6a07"
+      ],
+      "recallDays": [
+        "2026-05-04"
+      ],
+      "conceptTags": [
+        "video-frames",
+        "voice-call",
+        "tmux",
+        "interactive",
+        "clis",
+        "sending",
+        "keystrokes",
+        "scraping"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-04.txt:11:11": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-04.txt:11:11",
+      "path": "memory/.dreams/session-corpus/2026-05-04.txt",
+      "startLine": 11,
+      "endLine": 11,
+      "source": "memory",
+      "snippet": "Assistant: CLI (Rust-based with Node.js fallback) enabling AI-friendly web automation with snapshots, refs, and structured commands | | 2 | office-document-editor | Professional DOCX/PPTX document editing with tracked changes, formatting preservation, highlights, strikethrough, a",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-04T05:45:40.454Z",
+      "lastRecalledAt": "2026-05-04T05:45:40.454Z",
+      "queryHashes": [
+        "4d9d9fab6a07"
+      ],
+      "recallDays": [
+        "2026-05-04"
+      ],
+      "conceptTags": [
+        "rust-based",
+        "node.js",
+        "ai-friendly",
+        "office-document-editor",
+        "docx/pptx",
+        "cli",
+        "rust",
+        "based"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-04.txt:12:12": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-04.txt:12:12",
+      "path": "memory/.dreams/session-corpus/2026-05-04.txt",
+      "startLine": 12,
+      "endLine": 12,
+      "source": "memory",
+      "snippet": "Assistant: improvement | | 7 | skill-vetter | Security-first skill vetting for AI agents. Use before installing any skill from ClawHub, GitHub, or other sources | | 8 | skillhub-preference | Prefer skillhub for skill discovery/install/update, then fallback to clawhub when unavail",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-04T05:45:40.454Z",
+      "lastRecalledAt": "2026-05-04T05:45:40.454Z",
+      "queryHashes": [
+        "4d9d9fab6a07"
+      ],
+      "recallDays": [
+        "2026-05-04"
+      ],
+      "conceptTags": [
+        "skill-vetter",
+        "security-first",
+        "skillhub-preference",
+        "discovery/install/update",
+        "improvement",
+        "skill",
+        "vetter",
+        "security"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-04.txt:13:13": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-04.txt:13:13",
+      "path": "memory/.dreams/session-corpus/2026-05-04.txt",
+      "startLine": 13,
+      "endLine": 13,
+      "source": "memory",
+      "snippet": "User: [Subagent Context] You are running as a subagent (depth 1/1). Results auto-announce to your requester; do not busy-poll for status. Begin. Your assigned task is in the system prompt under **Your Role**; execute it to completion.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-04T05:45:40.454Z",
+      "lastRecalledAt": "2026-05-04T05:45:40.454Z",
+      "queryHashes": [
+        "4d9d9fab6a07"
+      ],
+      "recallDays": [
+        "2026-05-04"
+      ],
+      "conceptTags": [
+        "1/1",
+        "auto-announce",
+        "busy-poll",
+        "context",
+        "running",
+        "depth",
+        "results",
+        "auto"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-04.txt:14:14": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-04.txt:14:14",
+      "path": "memory/.dreams/session-corpus/2026-05-04.txt",
+      "startLine": 14,
+      "endLine": 14,
+      "source": "memory",
+      "snippet": "Assistant: Now let me read all the workspace skills' SKILL.md files in parallel:",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-04T05:45:40.454Z",
+      "lastRecalledAt": "2026-05-04T05:45:40.454Z",
+      "queryHashes": [
+        "4d9d9fab6a07"
+      ],
+      "recallDays": [
+        "2026-05-04"
+      ],
+      "conceptTags": [
+        "skill.md",
+        "now",
+        "let",
+        "read",
+        "all",
+        "skills",
+        "parallel"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-04.txt:15:15": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-04.txt:15:15",
+      "path": "memory/.dreams/session-corpus/2026-05-04.txt",
+      "startLine": 15,
+      "endLine": 15,
+      "source": "memory",
+      "snippet": "Assistant: Now let me read all the global skills' SKILL.md files:",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-04T05:45:40.454Z",
+      "lastRecalledAt": "2026-05-04T05:45:40.454Z",
+      "queryHashes": [
+        "4d9d9fab6a07"
+      ],
+      "recallDays": [
+        "2026-05-04"
+      ],
+      "conceptTags": [
+        "skill.md",
+        "now",
+        "let",
+        "read",
+        "all",
+        "global",
+        "skills"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-04.txt:16:16": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-04.txt:16:16",
+      "path": "memory/.dreams/session-corpus/2026-05-04.txt",
+      "startLine": 16,
+      "endLine": 16,
+      "source": "memory",
+      "snippet": "Assistant: All SKILL.md files have been read. Here is the complete summary: --- ## 工作区技能 (`C:\\Users\\001\\.openclaw\\workspace\\skills\\`) | 技能名 | 功能说明 | |--------|---------| | agent-browser-core | 基于 Rust 的 AI 友好型 Web 自动化 CLI，支持快照、元素引用和结构化命令，用于确定性浏览器自动化 | | office-document-editor | 专",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-04T05:45:40.454Z",
+      "lastRecalledAt": "2026-05-04T05:45:40.454Z",
+      "queryHashes": [
+        "4d9d9fab6a07"
+      ],
+      "recallDays": [
+        "2026-05-04"
+      ],
+      "conceptTags": [
+        "skill.md",
+        "agent-browser-core",
+        "office-document-editor",
+        "all",
+        "been",
+        "read",
+        "here",
+        "complete"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-04.txt:17:17": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-04.txt:17:17",
+      "path": "memory/.dreams/session-corpus/2026-05-04.txt",
+      "startLine": 17,
+      "endLine": 17,
+      "source": "memory",
+      "snippet": "Assistant: 音箱（发现、状态、播放、音量、分组、收藏夹、队列、Spotify 搜索） | --- ## 全局技能 (`D:\\Program Files\\nodejs\\node_global\\node_modules\\openclaw\\skills\\`) | 技能名 | 功能说明 | |--------|---------| | 1password | 设置和使用 1Password CLI 进行登录、桌面集成和读取/注入密钥 | | apple-notes | 通过 memo CLI 在 macOS 上创建、查看、编辑、删除、搜索、移动或导出",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-04T05:45:40.454Z",
+      "lastRecalledAt": "2026-05-04T05:45:40.454Z",
+      "queryHashes": [
+        "4d9d9fab6a07"
+      ],
+      "recallDays": [
+        "2026-05-04"
+      ],
+      "conceptTags": [
+        "node-global",
+        "node-modules",
+        "桌面集成和读取/注入密钥",
+        "apple-notes",
+        "发现",
+        "状态",
+        "播放",
+        "音量"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-04.txt:18:18": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-04.txt:18:18",
+      "path": "memory/.dreams/session-corpus/2026-05-04.txt",
+      "startLine": 18,
+      "endLine": 18,
+      "source": "memory",
+      "snippet": "Assistant: Codex、Claude Code、OpenCode 或 Pi 代理，后台运行并自动通知完成状态 | | discord | 通过 message 工具进行 Discord 操作（发送/编辑/删除消息、反应、投票、置顶、线程、搜索） | | eightctl | 控制 Eight Sleep 智能床垫（状态、温度、闹钟、日程、音频） | | gemini | Gemini CLI 一次性问答、摘要和生成 | | gh-issues | 获取 GitHub issues，委派修复给子代理，打开 PR，监控审查评论，或运行 /gh-is",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-04T05:45:40.454Z",
+      "lastRecalledAt": "2026-05-04T05:45:40.454Z",
+      "queryHashes": [
+        "4d9d9fab6a07"
+      ],
+      "recallDays": [
+        "2026-05-04"
+      ],
+      "conceptTags": [
+        "发送/编辑/删除消息",
+        "gh-issues",
+        "gh-is",
+        "codex",
+        "claude",
+        "code",
+        "opencode",
+        "代理"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-04.txt:19:19": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-04.txt:19:19",
+      "path": "memory/.dreams/session-corpus/2026-05-04.txt",
+      "startLine": 19,
+      "endLine": 19,
+      "source": "memory",
+      "snippet": "Assistant: model-usage | 汇总 CodexBar 本地成本日志中按模型分类的使用情况 | | nano-pdf | 使用自然语言指令编辑 PDF 特定页面 | | node-connect | 诊断 OpenClaw Android/iOS/macOS 节点配对、QR/设置码、路由、认证和连接故障 | | notion | 通过 Notion API 创建和管理页面、数据源（数据库）和块 | | obsidian | 操作 Obsidian 知识库（纯 Markdown 笔记）并通过 obsidian-cli 自动化 | | op",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-04T05:45:40.454Z",
+      "lastRecalledAt": "2026-05-04T05:45:40.454Z",
+      "queryHashes": [
+        "4d9d9fab6a07"
+      ],
+      "recallDays": [
+        "2026-05-04"
+      ],
+      "conceptTags": [
+        "model-usage",
+        "nano-pdf",
+        "node-connect",
+        "android/ios/macos",
+        "qr/设置码",
+        "obsidian-cli",
+        "model",
+        "usage"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-04.txt:20:20": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-04.txt:20:20",
+      "path": "memory/.dreams/session-corpus/2026-05-04.txt",
+      "startLine": 20,
+      "endLine": 20,
+      "source": "memory",
+      "snippet": "Assistant: | slack | Slack 操作（反应、置顶/取消置顶、发送/编辑/删除消息、获取成员信息） | | songsee | 从音频生成频谱图和特征面板可视化 | | sonoscli | 控制本地网络上的 Sonos 音箱（发现、状态、播放、音量、分组），含故障排除指南 | | spotify-player | 终端 Spotify 播放/搜索，首选 spogo，备选 spotify_player | | summarize | 快速总结 URL、YouTube 视频、播客、文章、PDF 和本地文件 | | taskflow |",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-04T05:45:40.454Z",
+      "lastRecalledAt": "2026-05-04T05:45:40.454Z",
+      "queryHashes": [
+        "4d9d9fab6a07"
+      ],
+      "recallDays": [
+        "2026-05-04"
+      ],
+      "conceptTags": [
+        "网络",
+        "置顶/取消置顶",
+        "发送/编辑/删除消息",
+        "spotify-player",
+        "播放/搜索",
+        "slack",
+        "操作",
+        "反应"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-04.txt:21:21": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-04.txt:21:21",
+      "path": "memory/.dreams/session-corpus/2026-05-04.txt",
+      "startLine": 21,
+      "endLine": 21,
+      "source": "memory",
+      "snippet": "Assistant: CLI，支持发帖、回复、搜索、私信、媒体上传、关注者管理和原始 v2 API 调用 | --- **汇总：** - 工作区技能：**9 个** - 全局技能：**55 个**（含 sonoscli 与工作区重复） - 总计：**64 个技能**（去重后 63 个独立技能）",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-04T05:45:40.454Z",
+      "lastRecalledAt": "2026-05-04T05:45:40.454Z",
+      "queryHashes": [
+        "4d9d9fab6a07"
+      ],
+      "recallDays": [
+        "2026-05-04"
+      ],
+      "conceptTags": [
+        "cli",
+        "支持",
+        "回复",
+        "搜索",
+        "私信",
+        "媒体",
+        "关注",
+        "管理"
+      ]
+    }
+  }
+}
