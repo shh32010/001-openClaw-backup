@@ -4,3 +4,4 @@
 {"type":"memory.dream.completed","timestamp":"2026-05-04T05:45:40.454Z","phase":"light","reportPath":"C:\\Users\\001\\.openclaw\\workspace\\memory\\dreaming\\light\\2026-05-04.md","lineCount":165,"storageMode":"separate"}
 {"type":"memory.dream.completed","timestamp":"2026-05-04T05:45:40.454Z","phase":"rem","reportPath":"C:\\Users\\001\\.openclaw\\workspace\\memory\\dreaming\\rem\\2026-05-04.md","lineCount":5,"storageMode":"separate"}
 {"type":"memory.dream.completed","timestamp":"2026-05-04T05:45:40.454Z","phase":"deep","reportPath":"C:\\Users\\001\\.openclaw\\workspace\\memory\\dreaming\\deep\\2026-05-04.md","lineCount":2,"storageMode":"separate"}
+{"type":"memory.recall.recorded","timestamp":"2026-05-04T13:14:50.170Z","query":"self improvement skill 学习 改进","resultCount":2,"results":[{"path":"memory/2026-05-03.md","startLine":28,"endLine":53,"score":0.8193188796976641},{"path":"memory/2026-05-03.md","startLine":1,"endLine":32,"score":0.8050699072483085}]}
