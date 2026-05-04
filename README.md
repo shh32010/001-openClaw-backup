@@ -40,7 +40,7 @@
 | 001号台式机 | 主设备 | 家里   | 当前运行 OpenClaw Gateway |
 | 002号笔记本 | 备用   | 宿舍   | 已安装 OpenClaw |
 
-两台设备共享同一个 GitHub 仓库，方便在不同环境恢复工作区。
+两台设备各自独立运行，配置和工作区可能不同步。
 
 ---
 
@@ -142,11 +142,11 @@
 | 状态     | ✅ 已安装，消息收发正常 |
 | 微信 ID  | `170e470b7626-im-bot` |
 
-### 已知问题
+### 使用方式
 
-- `openclaw channels list` CLI 不显示微信 channel，但实际消息收发正常
-- `openclaw channels login --channel openclaw-weixin` CLI 报错 "Unsupported channel"，但扫码登录后可以正常使用
-- 这是 OpenClaw CLI 的显示问题，不影响实际功能
+- 通过 `openclaw channels login --channel openclaw-weixin` 扫码登录
+- 消息收发正常，支持主动推送（cron 定时任务）
+- Control UI 中可通过 `openclaw channels list` 查看已配置的渠道
 
 ---
 
