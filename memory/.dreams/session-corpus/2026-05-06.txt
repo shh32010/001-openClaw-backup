@@ -1,0 +1,1 @@
+[main/sessions/main/b6d7933b-9d33-410f-a085-531ce24258de.jsonl#L12] Assistant: **备份完成** ✅ 📅 **备份时间**: 2026-05-06 03:02 **执行情况**: - ✓ tar 失败（部分目录不存在），自动切换到 PowerShell Compress-Archive - ✓ Git 提交成功 (5 files changed, 98 insertions+) - ✓ Git Push 成功 → `github.com:shh32010/001-openClaw-backup.git` **警告** (非致命): - 1 个 session lock 文件被占用 (b6d7933b-
