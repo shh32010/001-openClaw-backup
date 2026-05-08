@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-06T19:02:41.945Z",
+  "updatedAt": "2026-05-07T19:01:48.609Z",
   "entries": {
     "memory:memory/2026-05-03.md:6:9": {
       "key": "memory:memory/2026-05-03.md:6:9",
@@ -10,19 +10,20 @@
       "source": "memory",
       "snippet": "01 初始化 & 身份确认: 第一次上线，完成 bootstrap; 名字：**001**，宝宝叫我「宝宝 😘」; 用户：浩哥，喜欢温暖+搞怪风格; 桌面路径：`D:\\001\\桌面\\`",
       "recallCount": 0,
-      "dailyCount": 2,
+      "dailyCount": 3,
       "groundedCount": 0,
-      "totalScore": 1.24,
+      "totalScore": 1.8599999999999999,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-05-04T05:45:40.454Z",
-      "lastRecalledAt": "2026-05-06T19:02:33.880Z",
+      "lastRecalledAt": "2026-05-07T19:01:41.343Z",
       "queryHashes": [
         "c2bf0c07fdd1"
       ],
       "recallDays": [
         "2026-05-04",
         "2026-05-07",
-        "2026-05-06"
+        "2026-05-06",
+        "2026-05-08"
       ],
       "conceptTags": [
         "初始",
@@ -43,19 +44,20 @@
       "source": "memory",
       "snippet": "01 初始化 & 身份确认: 两台设备：001台式机（家里）/ 002笔记本（宿舍）",
       "recallCount": 0,
-      "dailyCount": 2,
+      "dailyCount": 3,
       "groundedCount": 0,
-      "totalScore": 1.24,
+      "totalScore": 1.8599999999999999,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-05-04T05:45:40.454Z",
-      "lastRecalledAt": "2026-05-06T19:02:33.880Z",
+      "lastRecalledAt": "2026-05-07T19:01:41.343Z",
       "queryHashes": [
         "c2bf0c07fdd1"
       ],
       "recallDays": [
         "2026-05-04",
         "2026-05-07",
-        "2026-05-06"
+        "2026-05-06",
+        "2026-05-08"
       ],
       "conceptTags": [
         "初始",
@@ -76,19 +78,20 @@
       "source": "memory",
       "snippet": "02 配置调整: **主模型**：从 `xiaomi-coding/mimo-v2.5-pro` → `gpt-agent/claude-sonnet-4-6` → 又切回 `mimo-v2.5-pro`; **备用模型**：`xiaomi-coding/mimo-v2.5-pro` / `gpt-agent/claude-sonnet-4-6`; **思考模式**：`thinkingDefault: \"high\"` ✓; **精简 skills 配置**：删掉了所有空的 `{}` 条目",
       "recallCount": 0,
-      "dailyCount": 2,
+      "dailyCount": 3,
       "groundedCount": 0,
-      "totalScore": 1.24,
+      "totalScore": 1.8599999999999999,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-05-04T05:45:40.454Z",
-      "lastRecalledAt": "2026-05-06T19:02:33.880Z",
+      "lastRecalledAt": "2026-05-07T19:01:41.343Z",
       "queryHashes": [
         "c2bf0c07fdd1"
       ],
       "recallDays": [
         "2026-05-04",
         "2026-05-07",
-        "2026-05-06"
+        "2026-05-06",
+        "2026-05-08"
       ],
       "conceptTags": [
         "gpt",
@@ -109,19 +112,20 @@
       "source": "memory",
       "snippet": "02 配置调整: **删除了 models.providers 中的 AI 模型提供商列表**（宝宝不需要，直接在 openclaw.json 里写）",
       "recallCount": 0,
-      "dailyCount": 2,
+      "dailyCount": 3,
       "groundedCount": 0,
-      "totalScore": 1.24,
+      "totalScore": 1.8599999999999999,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-05-04T05:45:40.454Z",
-      "lastRecalledAt": "2026-05-06T19:02:33.880Z",
+      "lastRecalledAt": "2026-05-07T19:01:41.343Z",
       "queryHashes": [
         "c2bf0c07fdd1"
       ],
       "recallDays": [
         "2026-05-04",
         "2026-05-07",
-        "2026-05-06"
+        "2026-05-06",
+        "2026-05-08"
       ],
       "conceptTags": [
         "models.providers",
@@ -142,19 +146,20 @@
       "source": "memory",
       "snippet": "03 已安装技能（workspace/skills）: agent-browser-core ✅（openclaw skills install）; office-editor ✅（clawhub）; office-document-editor ✅（clawhub）; office-toolkit ✅（clawhub）",
       "recallCount": 0,
-      "dailyCount": 2,
+      "dailyCount": 3,
       "groundedCount": 0,
-      "totalScore": 1.24,
+      "totalScore": 1.8599999999999999,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-05-04T05:45:40.454Z",
-      "lastRecalledAt": "2026-05-06T19:02:33.880Z",
+      "lastRecalledAt": "2026-05-07T19:01:41.343Z",
       "queryHashes": [
         "c2bf0c07fdd1"
       ],
       "recallDays": [
         "2026-05-04",
         "2026-05-07",
-        "2026-05-06"
+        "2026-05-06",
+        "2026-05-08"
       ],
       "conceptTags": [
         "workspace/skills",
@@ -175,19 +180,20 @@
       "source": "memory",
       "snippet": "03 已安装技能（workspace/skills）: openclaw-backup ✅（clawhub）; skill-vetter ✅（openclaw skills install）; skillhub-preference ✅（openclaw skills install）; capability-evolver ❌ ClawHub未找到",
       "recallCount": 0,
-      "dailyCount": 2,
+      "dailyCount": 3,
       "groundedCount": 0,
-      "totalScore": 1.24,
+      "totalScore": 1.8599999999999999,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-05-04T05:45:40.454Z",
-      "lastRecalledAt": "2026-05-06T19:02:33.880Z",
+      "lastRecalledAt": "2026-05-07T19:01:41.343Z",
       "queryHashes": [
         "c2bf0c07fdd1"
       ],
       "recallDays": [
         "2026-05-04",
         "2026-05-07",
-        "2026-05-06"
+        "2026-05-06",
+        "2026-05-08"
       ],
       "conceptTags": [
         "backup",
@@ -208,19 +214,20 @@
       "source": "memory",
       "snippet": "03 已安装技能（workspace/skills）: find-skills ❌ ClawHub未找到; note: openclaw skills install 有EPERM权限错误，用clawhub替代更好",
       "recallCount": 0,
-      "dailyCount": 2,
+      "dailyCount": 3,
       "groundedCount": 0,
-      "totalScore": 1.24,
+      "totalScore": 1.8599999999999999,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-05-04T05:45:40.454Z",
-      "lastRecalledAt": "2026-05-06T19:02:33.880Z",
+      "lastRecalledAt": "2026-05-07T19:01:41.343Z",
       "queryHashes": [
         "c2bf0c07fdd1"
       ],
       "recallDays": [
         "2026-05-04",
         "2026-05-07",
-        "2026-05-06"
+        "2026-05-06",
+        "2026-05-08"
       ],
       "conceptTags": [
         "workspace/skills",
@@ -241,19 +248,20 @@
       "source": "memory",
       "snippet": "04 发现的问题: **gpt-agent.cc 模型映射**：配置写的是 `claude-sonnet-4-6`，但后台看到实际调用的是 `gpt-5.4`，说明 gpt-agent.cc 做了模型替换; **Gateway 主机名冲突**：之前有两个 Gateway 实例同时运行，导致 bonjour 广播冲突，后来已恢复; **事件循环卡顿**：之前有 `eventLoopDelayP99Ms=11626ms`，现已恢复正常",
       "recallCount": 0,
-      "dailyCount": 2,
+      "dailyCount": 3,
       "groundedCount": 0,
-      "totalScore": 1.24,
+      "totalScore": 1.8599999999999999,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-05-04T05:45:40.454Z",
-      "lastRecalledAt": "2026-05-06T19:02:33.880Z",
+      "lastRecalledAt": "2026-05-07T19:01:41.343Z",
       "queryHashes": [
         "c2bf0c07fdd1"
       ],
       "recallDays": [
         "2026-05-04",
         "2026-05-07",
-        "2026-05-06"
+        "2026-05-06",
+        "2026-05-08"
       ],
       "conceptTags": [
         "gateway",
@@ -274,19 +282,20 @@
       "source": "memory",
       "snippet": "05 技能安装总结: 用clawhub成功安装：office-editor、office-document-editor、office-toolkit、openclaw-backup; 用openclaw skills install成功：agent-browser-core、skill-vetter、skillhub-preference; EPERM问题：openclaw skills install在Windows上有权限问题，clawhub更可靠; 未找到：capability-evolver、find-skills（ClawHub/SkillH",
       "recallCount": 0,
-      "dailyCount": 2,
+      "dailyCount": 3,
       "groundedCount": 0,
-      "totalScore": 1.24,
+      "totalScore": 1.8599999999999999,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-05-04T05:45:40.454Z",
-      "lastRecalledAt": "2026-05-06T19:02:33.880Z",
+      "lastRecalledAt": "2026-05-07T19:01:41.343Z",
       "queryHashes": [
         "c2bf0c07fdd1"
       ],
       "recallDays": [
         "2026-05-04",
         "2026-05-07",
-        "2026-05-06"
+        "2026-05-06",
+        "2026-05-08"
       ],
       "conceptTags": [
         "backup",
@@ -307,19 +316,20 @@
       "source": "memory",
       "snippet": "05 技能安装总结: 录：`D:\\001\\桌面\\OpenClaw_Skills_Tools.md`",
       "recallCount": 0,
-      "dailyCount": 2,
+      "dailyCount": 3,
       "groundedCount": 0,
-      "totalScore": 1.24,
+      "totalScore": 1.8599999999999999,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-05-04T05:45:40.454Z",
-      "lastRecalledAt": "2026-05-06T19:02:33.880Z",
+      "lastRecalledAt": "2026-05-07T19:01:41.343Z",
       "queryHashes": [
         "c2bf0c07fdd1"
       ],
       "recallDays": [
         "2026-05-04",
         "2026-05-07",
-        "2026-05-06"
+        "2026-05-06",
+        "2026-05-08"
       ],
       "conceptTags": [
         "openclaw-skills-tools.md",
@@ -337,19 +347,20 @@
       "source": "memory",
       "snippet": "06 Git备份已搭建: 仓库：git@github.com:shh32010/001-openClaw-backup.git; README已写好并推送; 每天凌晨3点自动备份定时任务已设置",
       "recallCount": 0,
-      "dailyCount": 2,
+      "dailyCount": 3,
       "groundedCount": 0,
-      "totalScore": 1.24,
+      "totalScore": 1.8599999999999999,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-05-04T05:45:40.454Z",
-      "lastRecalledAt": "2026-05-06T19:02:33.880Z",
+      "lastRecalledAt": "2026-05-07T19:01:41.343Z",
       "queryHashes": [
         "c2bf0c07fdd1"
       ],
       "recallDays": [
         "2026-05-04",
         "2026-05-07",
-        "2026-05-06"
+        "2026-05-06",
+        "2026-05-08"
       ],
       "conceptTags": [
         "backup",
@@ -370,19 +381,20 @@
       "source": "memory",
       "snippet": "07 待处理: [ ] 002号笔记本（宿舍）的 OpenClaw 配置同步; [ ] gpt-agent.cc 模型映射问题确认; [ ] 早安/午安/晚安问候定时任务设置（参考002）",
       "recallCount": 0,
-      "dailyCount": 2,
+      "dailyCount": 3,
       "groundedCount": 0,
-      "totalScore": 1.24,
+      "totalScore": 1.8599999999999999,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-05-04T05:45:40.454Z",
-      "lastRecalledAt": "2026-05-06T19:02:33.880Z",
+      "lastRecalledAt": "2026-05-07T19:01:41.343Z",
       "queryHashes": [
         "c2bf0c07fdd1"
       ],
       "recallDays": [
         "2026-05-04",
         "2026-05-07",
-        "2026-05-06"
+        "2026-05-06",
+        "2026-05-08"
       ],
       "conceptTags": [
         "gpt",
@@ -1144,18 +1156,20 @@
       "source": "memory",
       "snippet": "微信插件成功！🎉: 经过多次尝试，`@tencent-weixin/openclaw-weixin@2.4.1` 终于成功安装并工作; 关键发现：`openclaw channels list` CLI 看不到微信 channel，但实际消息收发正常; `channels login --channel openclaw-weixin` CLI 报错 \"Unsupported channel\"，但用户通过微信扫码登录后实际可以收发消息; 根本原因：CLI 显示问题 ≠ 实际运行问题",
       "recallCount": 0,
-      "dailyCount": 1,
+      "dailyCount": 2,
       "groundedCount": 0,
-      "totalScore": 0.62,
+      "totalScore": 1.24,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-05-05T19:03:45.803Z",
-      "lastRecalledAt": "2026-05-05T19:03:45.803Z",
+      "lastRecalledAt": "2026-05-07T19:01:41.343Z",
       "queryHashes": [
         "ad6c7e6ef235"
       ],
       "recallDays": [
         "2026-05-06",
-        "2026-05-05"
+        "2026-05-05",
+        "2026-05-08",
+        "2026-05-07"
       ],
       "conceptTags": [
         "tencent-weixin/openclaw-weixin",
@@ -1176,18 +1190,20 @@
       "source": "memory",
       "snippet": "定时问候设置: 用户位置：扬州邗江区; 设置了3个 cron 任务，发到微信：; 早安 8:00 + 天气; 午安 12:00",
       "recallCount": 0,
-      "dailyCount": 1,
+      "dailyCount": 2,
       "groundedCount": 0,
-      "totalScore": 0.62,
+      "totalScore": 1.24,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-05-05T19:03:45.803Z",
-      "lastRecalledAt": "2026-05-05T19:03:45.803Z",
+      "lastRecalledAt": "2026-05-07T19:01:41.343Z",
       "queryHashes": [
         "ad6c7e6ef235"
       ],
       "recallDays": [
         "2026-05-06",
-        "2026-05-05"
+        "2026-05-05",
+        "2026-05-08",
+        "2026-05-07"
       ],
       "conceptTags": [
         "问候",
@@ -1208,18 +1224,20 @@
       "source": "memory",
       "snippet": "定时问候设置: 晚安 21:00; 关键配置：timeout 200s, lightContext: true, delivery.to = 用户微信 openId; 第一次测试失败（缺 delivery target），第二次超时（120s 不够），第三次成功",
       "recallCount": 0,
-      "dailyCount": 1,
+      "dailyCount": 2,
       "groundedCount": 0,
-      "totalScore": 0.62,
+      "totalScore": 1.24,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-05-05T19:03:45.803Z",
-      "lastRecalledAt": "2026-05-05T19:03:45.803Z",
+      "lastRecalledAt": "2026-05-07T19:01:41.343Z",
       "queryHashes": [
         "ad6c7e6ef235"
       ],
       "recallDays": [
         "2026-05-06",
-        "2026-05-05"
+        "2026-05-05",
+        "2026-05-08",
+        "2026-05-07"
       ],
       "conceptTags": [
         "delivery.to",
@@ -1240,18 +1258,20 @@
       "source": "memory",
       "snippet": "微信 openId: 用户的微信 openId: `o9cq802qe2q3Uu-3Vb8lBrCjI1Lk@im.wechat`; accountId: `170e470b7626-im-bot`",
       "recallCount": 0,
-      "dailyCount": 1,
+      "dailyCount": 2,
       "groundedCount": 0,
-      "totalScore": 0.62,
+      "totalScore": 1.24,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-05-05T19:03:45.803Z",
-      "lastRecalledAt": "2026-05-05T19:03:45.803Z",
+      "lastRecalledAt": "2026-05-07T19:01:41.343Z",
       "queryHashes": [
         "ad6c7e6ef235"
       ],
       "recallDays": [
         "2026-05-06",
-        "2026-05-05"
+        "2026-05-05",
+        "2026-05-08",
+        "2026-05-07"
       ],
       "conceptTags": [
         "o9cq802qe2q3uu-3vb8lbrcji1lk",
@@ -1272,18 +1292,20 @@
       "source": "memory",
       "snippet": "新对话行为: `/new` 在 Control UI 里是开新标签页，无法配置为\"清空当前上下文\"; 这是 Control UI 的限制，不是配置问题",
       "recallCount": 0,
-      "dailyCount": 1,
+      "dailyCount": 2,
       "groundedCount": 0,
-      "totalScore": 0.62,
+      "totalScore": 1.24,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-05-05T19:03:45.803Z",
-      "lastRecalledAt": "2026-05-05T19:03:45.803Z",
+      "lastRecalledAt": "2026-05-07T19:01:41.343Z",
       "queryHashes": [
         "ad6c7e6ef235"
       ],
       "recallDays": [
         "2026-05-06",
-        "2026-05-05"
+        "2026-05-05",
+        "2026-05-08",
+        "2026-05-07"
       ],
       "conceptTags": [
         "对话",
@@ -1304,18 +1326,20 @@
       "source": "memory",
       "snippet": "上下文太长: OpenClaw 会自动压缩（compaction）; 手动 `/new` 开新标签也可以",
       "recallCount": 0,
-      "dailyCount": 1,
+      "dailyCount": 2,
       "groundedCount": 0,
-      "totalScore": 0.62,
+      "totalScore": 1.24,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-05-05T19:03:45.803Z",
-      "lastRecalledAt": "2026-05-05T19:03:45.803Z",
+      "lastRecalledAt": "2026-05-07T19:01:41.343Z",
       "queryHashes": [
         "ad6c7e6ef235"
       ],
       "recallDays": [
         "2026-05-06",
-        "2026-05-05"
+        "2026-05-05",
+        "2026-05-08",
+        "2026-05-07"
       ],
       "conceptTags": [
         "上下文",
@@ -1336,18 +1360,20 @@
       "source": "memory",
       "snippet": "Hermes 评估: 宝宝提出让 OpenClaw + Hermes Agent 配合的方案; 结论：不需要，OpenClaw 的 sub-agent 能力已足够覆盖\"调度层+执行层\"架构; 双系统增加通信复杂度、维护成本，且学习闭环会断裂; 如果需要专家团，直接在 OpenClaw 内部建子 Agent 即可",
       "recallCount": 0,
-      "dailyCount": 1,
+      "dailyCount": 2,
       "groundedCount": 0,
-      "totalScore": 0.62,
+      "totalScore": 1.24,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-05-05T19:03:45.803Z",
-      "lastRecalledAt": "2026-05-05T19:03:45.803Z",
+      "lastRecalledAt": "2026-05-07T19:01:41.343Z",
       "queryHashes": [
         "ad6c7e6ef235"
       ],
       "recallDays": [
         "2026-05-06",
-        "2026-05-05"
+        "2026-05-05",
+        "2026-05-08",
+        "2026-05-07"
       ],
       "conceptTags": [
         "sub-agent",
@@ -1368,18 +1394,20 @@
       "source": "memory",
       "snippet": "备份: 已完成备份并推送到 GitHub; README 完整重写（含目录、技能清单、恢复步骤等）; 修正了两个问题：设备不共享仓库、微信 login 不再报错",
       "recallCount": 0,
-      "dailyCount": 1,
+      "dailyCount": 2,
       "groundedCount": 0,
-      "totalScore": 0.62,
+      "totalScore": 1.24,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-05-05T19:03:45.803Z",
-      "lastRecalledAt": "2026-05-05T19:03:45.803Z",
+      "lastRecalledAt": "2026-05-07T19:01:41.343Z",
       "queryHashes": [
         "ad6c7e6ef235"
       ],
       "recallDays": [
         "2026-05-06",
-        "2026-05-05"
+        "2026-05-05",
+        "2026-05-08",
+        "2026-05-07"
       ],
       "conceptTags": [
         "备份",
@@ -5991,6 +6019,1742 @@
         "添加",
         "自动",
         "配置"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-06.txt:70:70": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-06.txt:70:70",
+      "path": "memory/.dreams/session-corpus/2026-05-06.txt",
+      "startLine": 70,
+      "endLine": 70,
+      "source": "memory",
+      "snippet": "User: [System] Your previous turn was interrupted by a gateway restart while OpenClaw was waiting on tool/model work. Continue from the existing transcript and finish the interrupted response. Note: The interrupted final reply was captured: \"HEARTBEAT_OK\"",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-07T19:01:41.343Z",
+      "lastRecalledAt": "2026-05-07T19:01:41.343Z",
+      "queryHashes": [
+        "a4942137f8fd"
+      ],
+      "recallDays": [
+        "2026-05-08",
+        "2026-05-07"
+      ],
+      "conceptTags": [
+        "gateway",
+        "tool/model",
+        "heartbeat-ok",
+        "previous",
+        "turn",
+        "was",
+        "interrupted",
+        "restart"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-06.txt:71:71": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-06.txt:71:71",
+      "path": "memory/.dreams/session-corpus/2026-05-06.txt",
+      "startLine": 71,
+      "endLine": 71,
+      "source": "memory",
+      "snippet": "Assistant: 网关运行正常（pid 9488）✅ 插件已启用，但账号数据之前被清除了，现在需要重新登录微信。在 Control UI 里操作： **配置路径：** Control UI → Channels → openclaw-weixin → 扫码登录 或者用命令： ``` openclaw channels login --channel weixin ``` 微信账号重新登录完成后告诉我，我来确认连接状态 👍",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-07T19:01:41.343Z",
+      "lastRecalledAt": "2026-05-07T19:01:41.343Z",
+      "queryHashes": [
+        "a4942137f8fd"
+      ],
+      "recallDays": [
+        "2026-05-08",
+        "2026-05-07"
+      ],
+      "conceptTags": [
+        "网关",
+        "openclaw-weixin",
+        "运行",
+        "正常",
+        "pid",
+        "启用",
+        "数据",
+        "之前"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-06.txt:72:72": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-06.txt:72:72",
+      "path": "memory/.dreams/session-corpus/2026-05-06.txt",
+      "startLine": 72,
+      "endLine": 72,
+      "source": "memory",
+      "snippet": "User: C:\\Users\\001>openclaw channels login --channel openclaw-weixin 🦞 OpenClaw 2026.5.4 (325df3e) — Self-hosted, self-updating, self-aware (just kidding... unless?). 正在启动... Failed to start login: TypeError: fetch failed Channel login failed: Error: Failed to start login: TypeE",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-07T19:01:41.343Z",
+      "lastRecalledAt": "2026-05-07T19:01:41.343Z",
+      "queryHashes": [
+        "a4942137f8fd"
+      ],
+      "recallDays": [
+        "2026-05-08",
+        "2026-05-07"
+      ],
+      "conceptTags": [
+        "openclaw-weixin",
+        "2026.5.4",
+        "self-hosted",
+        "self-updating",
+        "self-aware",
+        "users",
+        "openclaw",
+        "channels"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-06.txt:73:73": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-06.txt:73:73",
+      "path": "memory/.dreams/session-corpus/2026-05-06.txt",
+      "startLine": 73,
+      "endLine": 73,
+      "source": "memory",
+      "snippet": "Assistant: \"fetch failed\" 是网络问题——**本机无法访问微信 API 服务器**（`https://ilinkai.weixin.qq.com`），这是核心问题。 让我确认一下：",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-07T19:01:41.343Z",
+      "lastRecalledAt": "2026-05-07T19:01:41.343Z",
+      "queryHashes": [
+        "a4942137f8fd"
+      ],
+      "recallDays": [
+        "2026-05-08",
+        "2026-05-07"
+      ],
+      "conceptTags": [
+        "网络",
+        "ilinkai.weixin.qq.com",
+        "fetch",
+        "failed",
+        "问题",
+        "无法",
+        "访问",
+        "api"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-06.txt:74:74": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-06.txt:74:74",
+      "path": "memory/.dreams/session-corpus/2026-05-06.txt",
+      "startLine": 74,
+      "endLine": 74,
+      "source": "memory",
+      "snippet": "Assistant: 有意思，TCP 443 连接是通的 ✅ 但插件里 Node.js fetch 失败——可能是 Node.js 的代理设置问题。检查一下：",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-07T19:01:41.343Z",
+      "lastRecalledAt": "2026-05-07T19:01:41.343Z",
+      "queryHashes": [
+        "a4942137f8fd"
+      ],
+      "recallDays": [
+        "2026-05-08",
+        "2026-05-07"
+      ],
+      "conceptTags": [
+        "node.js",
+        "有意思",
+        "tcp",
+        "连接",
+        "fetch",
+        "失败",
+        "可能是",
+        "代理"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-06.txt:75:75": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-06.txt:75:75",
+      "path": "memory/.dreams/session-corpus/2026-05-06.txt",
+      "startLine": 75,
+      "endLine": 75,
+      "source": "memory",
+      "snippet": "Assistant: 日志里清楚了： ``` NewFetching QR code from: https://ilinkai.weixin.qq.com Failed to start Weixin login: TypeError: fetch failed ``` **原因**：网关进程（以 Windows 服务/SCHTASK 账号运行）访问不了微信 API，但你的 PowerShell 测试是通的。 这通常是**科学上网/VPN**的问题——网关进程可能走的是另一套网络栈，不走你本机的代理。 你现在的网络是什么情况？ - 有开 VPN/代理吗",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-07T19:01:41.343Z",
+      "lastRecalledAt": "2026-05-07T19:01:41.343Z",
+      "queryHashes": [
+        "a4942137f8fd"
+      ],
+      "recallDays": [
+        "2026-05-08",
+        "2026-05-07"
+      ],
+      "conceptTags": [
+        "网络",
+        "网关",
+        "ilinkai.weixin.qq.com",
+        "服务/schtask",
+        "科学上网/vpn",
+        "vpn/代理吗",
+        "日志",
+        "清楚"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-06.txt:76:76": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-06.txt:76:76",
+      "path": "memory/.dreams/session-corpus/2026-05-06.txt",
+      "startLine": 76,
+      "endLine": 76,
+      "source": "memory",
+      "snippet": "User: 没有代理，家庭宽度",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-07T19:01:41.343Z",
+      "lastRecalledAt": "2026-05-07T19:01:41.343Z",
+      "queryHashes": [
+        "a4942137f8fd"
+      ],
+      "recallDays": [
+        "2026-05-08",
+        "2026-05-07"
+      ],
+      "conceptTags": [
+        "没有",
+        "代理",
+        "家庭",
+        "宽度"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-06.txt:77:77": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-06.txt:77:77",
+      "path": "memory/.dreams/session-corpus/2026-05-06.txt",
+      "startLine": 77,
+      "endLine": 77,
+      "source": "memory",
+      "snippet": "Assistant: 奇怪，TCP 通了但 Node fetch 失败。让我直接测一下 Node.js 对微信 API 的 HTTPS 请求：",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-07T19:01:41.343Z",
+      "lastRecalledAt": "2026-05-07T19:01:41.343Z",
+      "queryHashes": [
+        "a4942137f8fd"
+      ],
+      "recallDays": [
+        "2026-05-08",
+        "2026-05-07"
+      ],
+      "conceptTags": [
+        "node.js",
+        "奇怪",
+        "tcp",
+        "node",
+        "fetch",
+        "失败",
+        "直接",
+        "一下"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-06.txt:78:78": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-06.txt:78:78",
+      "path": "memory/.dreams/session-corpus/2026-05-06.txt",
+      "startLine": 78,
+      "endLine": 78,
+      "source": "memory",
+      "snippet": "Assistant: Node.js 可以访问！返回 404（说明 HTTPS 没问题）。问题可能出在插件的登录端点。让我看看插件代码：",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-07T19:01:41.343Z",
+      "lastRecalledAt": "2026-05-07T19:01:41.343Z",
+      "queryHashes": [
+        "a4942137f8fd"
+      ],
+      "recallDays": [
+        "2026-05-08",
+        "2026-05-07"
+      ],
+      "conceptTags": [
+        "node.js",
+        "可以",
+        "访问",
+        "返回",
+        "说明",
+        "https",
+        "问题",
+        "可能"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-06.txt:79:79": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-06.txt:79:79",
+      "path": "memory/.dreams/session-corpus/2026-05-06.txt",
+      "startLine": 79,
+      "endLine": 79,
+      "source": "memory",
+      "snippet": "Assistant: Node.js 到微信 API 完全正常，返回了真实的二维码数据！✅ 问题不在网络。让我看看插件的 `apiPostFetch` 具体实现：",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-07T19:01:41.343Z",
+      "lastRecalledAt": "2026-05-07T19:01:41.343Z",
+      "queryHashes": [
+        "a4942137f8fd"
+      ],
+      "recallDays": [
+        "2026-05-08",
+        "2026-05-07"
+      ],
+      "conceptTags": [
+        "网络",
+        "node.js",
+        "api",
+        "完全",
+        "正常",
+        "返回",
+        "真实",
+        "数据"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-06.txt:80:80": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-06.txt:80:80",
+      "path": "memory/.dreams/session-corpus/2026-05-06.txt",
+      "startLine": 80,
+      "endLine": 80,
+      "source": "memory",
+      "snippet": "Assistant: 精确复现了插件的请求头，**还是 200 成功**！网络完全没问题。 问题可能在于 CLI 命令通过网关进程执行，和直接运行 node 脚本环境不同。让我查查 CLI 登录是怎么触发的：",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-07T19:01:41.343Z",
+      "lastRecalledAt": "2026-05-07T19:01:41.343Z",
+      "queryHashes": [
+        "a4942137f8fd"
+      ],
+      "recallDays": [
+        "2026-05-08",
+        "2026-05-07"
+      ],
+      "conceptTags": [
+        "网络",
+        "网关",
+        "精确",
+        "复现",
+        "请求",
+        "还是",
+        "成功",
+        "完全"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-06.txt:81:81": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-06.txt:81:81",
+      "path": "memory/.dreams/session-corpus/2026-05-06.txt",
+      "startLine": 81,
+      "endLine": 81,
+      "source": "memory",
+      "snippet": "Assistant: 插件用的是 Node.js 原生 `fetch` API，我用 `https.request` 测通了，但 `fetch()` 可能有差异。测试一下：",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-07T19:01:41.343Z",
+      "lastRecalledAt": "2026-05-07T19:01:41.343Z",
+      "queryHashes": [
+        "a4942137f8fd"
+      ],
+      "recallDays": [
+        "2026-05-08",
+        "2026-05-07"
+      ],
+      "conceptTags": [
+        "node.js",
+        "https.request",
+        "的是",
+        "原生",
+        "fetch",
+        "api",
+        "可能",
+        "差异"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-06.txt:82:82": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-06.txt:82:82",
+      "path": "memory/.dreams/session-corpus/2026-05-06.txt",
+      "startLine": 82,
+      "endLine": 82,
+      "source": "memory",
+      "snippet": "Assistant: 没有管理员权限，需要你手动运行一条命令来给任务计划加上自动重启：",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-07T19:01:41.343Z",
+      "lastRecalledAt": "2026-05-07T19:01:41.343Z",
+      "queryHashes": [
+        "a4942137f8fd"
+      ],
+      "recallDays": [
+        "2026-05-08",
+        "2026-05-07"
+      ],
+      "conceptTags": [
+        "没有",
+        "管理",
+        "权限",
+        "需要",
+        "运行",
+        "一条",
+        "命令",
+        "来给"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-06.txt:83:83": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-06.txt:83:83",
+      "path": "memory/.dreams/session-corpus/2026-05-06.txt",
+      "startLine": 83,
+      "endLine": 83,
+      "source": "memory",
+      "snippet": "Assistant: 看到了！`RestartCount = 0`，所以没有任何自动重启。让我写个修复脚本，你需要**以管理员身份运行**：",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-07T19:01:41.343Z",
+      "lastRecalledAt": "2026-05-07T19:01:41.343Z",
+      "queryHashes": [
+        "a4942137f8fd"
+      ],
+      "recallDays": [
+        "2026-05-08",
+        "2026-05-07"
+      ],
+      "conceptTags": [
+        "看到",
+        "restartcount",
+        "所以",
+        "没有",
+        "任何",
+        "自动",
+        "写个",
+        "修复"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-06.txt:84:84": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-06.txt:84:84",
+      "path": "memory/.dreams/session-corpus/2026-05-06.txt",
+      "startLine": 84,
+      "endLine": 84,
+      "source": "memory",
+      "snippet": "Assistant: --- ## 📋 剩余问题汇总 | 问题 | 状态 | 说明 | |------|------|------| | ✅ 任务计划重新安装 | 已完成 | 触发器正常了 | | ❌ 任务计划无自动重启 | **待修复** | `RestartCount=0`，进程退出不会自动拉起 | | ❌ 微信通道网络错误 | 仍存在 | `fetch failed` 连不上微信服务器 | | ❌ 模型无 fallback | 建议修复 | 只有一个主模型，出问题就挂 | --- **需要你手动做一件事**，给任务计划加上自动重启（需要管理员权限",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-07T19:01:41.343Z",
+      "lastRecalledAt": "2026-05-07T19:01:41.343Z",
+      "queryHashes": [
+        "a4942137f8fd"
+      ],
+      "recallDays": [
+        "2026-05-08",
+        "2026-05-07"
+      ],
+      "conceptTags": [
+        "网络",
+        "剩余",
+        "问题",
+        "状态",
+        "说明",
+        "任务",
+        "计划",
+        "重新"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-06.txt:85:85": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-06.txt:85:85",
+      "path": "memory/.dreams/session-corpus/2026-05-06.txt",
+      "startLine": 85,
+      "endLine": 85,
+      "source": "memory",
+      "snippet": "User: C:\\Windows\\system32>powershell -ExecutionPolicy Bypass -File \"C:\\Users\\001\\.openclaw\\fix_task_restart.ps1\" Register-ScheduledTask : 无法对参数“Description”执行参数验证。参数为 Null 或空。请提供一个不为 Null 或空的参数，然后 重试该命令。 所在位置 C:\\Users\\001\\.openclaw\\fix_task_restart.ps1:8 字符: 166 + ... al $task.Pr",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-07T19:01:41.343Z",
+      "lastRecalledAt": "2026-05-07T19:01:41.343Z",
+      "queryHashes": [
+        "a4942137f8fd"
+      ],
+      "recallDays": [
+        "2026-05-08",
+        "2026-05-07"
+      ],
+      "conceptTags": [
+        "fix-task-restart.ps1",
+        "register-scheduledtask",
+        "task.pr",
+        "windows",
+        "system32",
+        "powershell",
+        "executionpolicy",
+        "bypass"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-06.txt:86:86": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-06.txt:86:86",
+      "path": "memory/.dreams/session-corpus/2026-05-06.txt",
+      "startLine": 86,
+      "endLine": 86,
+      "source": "memory",
+      "snippet": "Assistant: 虽然报了 Description 的警告，但最后一行显示配置成功了。让我验证一下：",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-07T19:01:41.343Z",
+      "lastRecalledAt": "2026-05-07T19:01:41.343Z",
+      "queryHashes": [
+        "a4942137f8fd"
+      ],
+      "recallDays": [
+        "2026-05-08",
+        "2026-05-07"
+      ],
+      "conceptTags": [
+        "虽然",
+        "description",
+        "警告",
+        "最后",
+        "一行",
+        "显示",
+        "配置",
+        "成功"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-06.txt:87:87": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-06.txt:87:87",
+      "path": "memory/.dreams/session-corpus/2026-05-06.txt",
+      "startLine": 87,
+      "endLine": 87,
+      "source": "memory",
+      "snippet": "Assistant: 没生效，Description 那里报错了导致整个注册失败。让我换一种方式，用 `Set-ScheduledTask` 来更新：",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-07T19:01:41.343Z",
+      "lastRecalledAt": "2026-05-07T19:01:41.343Z",
+      "queryHashes": [
+        "a4942137f8fd"
+      ],
+      "recallDays": [
+        "2026-05-08",
+        "2026-05-07"
+      ],
+      "conceptTags": [
+        "set-scheduledtask",
+        "生效",
+        "description",
+        "那里",
+        "导致",
+        "整个",
+        "注册",
+        "失败"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-06.txt:88:88": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-06.txt:88:88",
+      "path": "memory/.dreams/session-corpus/2026-05-06.txt",
+      "startLine": 88,
+      "endLine": 88,
+      "source": "memory",
+      "snippet": "Assistant: 脚本有 bug，重新写好了。再运行一次： ``` powershell -ExecutionPolicy Bypass -File \"C:\\Users\\001\\.openclaw\\fix_task_restart.ps1\" ```",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-07T19:01:41.343Z",
+      "lastRecalledAt": "2026-05-07T19:01:41.343Z",
+      "queryHashes": [
+        "a4942137f8fd"
+      ],
+      "recallDays": [
+        "2026-05-08",
+        "2026-05-07"
+      ],
+      "conceptTags": [
+        "fix-task-restart.ps1",
+        "脚本",
+        "bug",
+        "重新",
+        "好了",
+        "运行",
+        "一次",
+        "powershell"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-06.txt:89:89": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-06.txt:89:89",
+      "path": "memory/.dreams/session-corpus/2026-05-06.txt",
+      "startLine": 89,
+      "endLine": 89,
+      "source": "memory",
+      "snippet": "User: C:\\Windows\\system32>powershell -ExecutionPolicy Bypass -File \"C:\\Users\\001\\.openclaw\\fix_task_restart.ps1\" TaskPath TaskName State -------- -------- ----- \\ OpenClaw Gateway Running Auto-restart configured! C:\\Windows\\system32>",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-07T19:01:41.343Z",
+      "lastRecalledAt": "2026-05-07T19:01:41.343Z",
+      "queryHashes": [
+        "a4942137f8fd"
+      ],
+      "recallDays": [
+        "2026-05-08",
+        "2026-05-07"
+      ],
+      "conceptTags": [
+        "gateway",
+        "fix-task-restart.ps1",
+        "auto-restart",
+        "windows",
+        "system32",
+        "powershell",
+        "executionpolicy",
+        "bypass"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-06.txt:90:90": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-06.txt:90:90",
+      "path": "memory/.dreams/session-corpus/2026-05-06.txt",
+      "startLine": 90,
+      "endLine": 90,
+      "source": "memory",
+      "snippet": "Assistant: ✅ 成功了！让我验证一下配置是否生效：",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-07T19:01:41.343Z",
+      "lastRecalledAt": "2026-05-07T19:01:41.343Z",
+      "queryHashes": [
+        "a4942137f8fd"
+      ],
+      "recallDays": [
+        "2026-05-08",
+        "2026-05-07"
+      ],
+      "conceptTags": [
+        "成功",
+        "验证",
+        "一下",
+        "配置",
+        "是否",
+        "生效"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-06.txt:91:91": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-06.txt:91:91",
+      "path": "memory/.dreams/session-corpus/2026-05-06.txt",
+      "startLine": 91,
+      "endLine": 91,
+      "source": "memory",
+      "snippet": "Assistant: 完美，全部生效了！来清理一下临时文件：",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-07T19:01:41.343Z",
+      "lastRecalledAt": "2026-05-07T19:01:41.343Z",
+      "queryHashes": [
+        "a4942137f8fd"
+      ],
+      "recallDays": [
+        "2026-05-08",
+        "2026-05-07"
+      ],
+      "conceptTags": [
+        "完美",
+        "全部",
+        "生效",
+        "清理",
+        "一下",
+        "临时",
+        "文件"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-06.txt:92:92": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-06.txt:92:92",
+      "path": "memory/.dreams/session-corpus/2026-05-06.txt",
+      "startLine": 92,
+      "endLine": 92,
+      "source": "memory",
+      "snippet": "Assistant: --- ## ✅ 已解决 **任务计划自动重启** — 已配置好，5分钟内失败重试最多3次，断电不阻止启动。 --- ## ❌ 还剩 2 个问题 **1. 微信通道网络错误**（持续报错中） > `fetch failed` — 连不上 `ilinkai.weixin.qq.com` 你的台式机现在能访问微信的链接吗？在浏览器里试一下打开 `https://ilinkai.weixin.qq.com`，看看能不能通。 **2. 模型无 fallback**（潜在风险） > 配置里只有主模型 DeepSeek-V4-Pro，没有备用模",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-07T19:01:41.343Z",
+      "lastRecalledAt": "2026-05-07T19:01:41.343Z",
+      "queryHashes": [
+        "a4942137f8fd"
+      ],
+      "recallDays": [
+        "2026-05-08",
+        "2026-05-07"
+      ],
+      "conceptTags": [
+        "网络",
+        "ilinkai.weixin.qq.com",
+        "deepseek-v4-pro",
+        "解决",
+        "任务",
+        "计划",
+        "自动",
+        "配置"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-06.txt:93:93": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-06.txt:93:93",
+      "path": "memory/.dreams/session-corpus/2026-05-06.txt",
+      "startLine": 93,
+      "endLine": 93,
+      "source": "memory",
+      "snippet": "User: 你仔细看看配置里的模型",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-07T19:01:41.343Z",
+      "lastRecalledAt": "2026-05-07T19:01:41.343Z",
+      "queryHashes": [
+        "a4942137f8fd"
+      ],
+      "recallDays": [
+        "2026-05-08",
+        "2026-05-07"
+      ],
+      "conceptTags": [
+        "仔细",
+        "看看",
+        "配置",
+        "模型"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-07.txt:2:2": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-07.txt:2:2",
+      "path": "memory/.dreams/session-corpus/2026-05-07.txt",
+      "startLine": 2,
+      "endLine": 2,
+      "source": "memory",
+      "snippet": "Assistant: 早安呀！☀️ 扬州此刻 19°C，多云微风，湿度稍高，记得多喝水、适当开窗透气哦～新的一天，元气满满地出发吧！🌿",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-07T19:01:41.343Z",
+      "lastRecalledAt": "2026-05-07T19:01:41.343Z",
+      "queryHashes": [
+        "a259255c9ad9"
+      ],
+      "recallDays": [
+        "2026-05-08",
+        "2026-05-07"
+      ],
+      "conceptTags": [
+        "早安",
+        "扬州",
+        "此刻",
+        "湿度",
+        "记得",
+        "喝水",
+        "适当",
+        "开窗"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-07.txt:3:3": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-07.txt:3:3",
+      "path": "memory/.dreams/session-corpus/2026-05-07.txt",
+      "startLine": 3,
+      "endLine": 3,
+      "source": "memory",
+      "snippet": "Assistant: 已发送午安问候 🌤️",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-07T19:01:41.343Z",
+      "lastRecalledAt": "2026-05-07T19:01:41.343Z",
+      "queryHashes": [
+        "a259255c9ad9"
+      ],
+      "recallDays": [
+        "2026-05-08",
+        "2026-05-07"
+      ],
+      "conceptTags": [
+        "发送",
+        "午安",
+        "问候"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-07.txt:4:4": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-07.txt:4:4",
+      "path": "memory/.dreams/session-corpus/2026-05-07.txt",
+      "startLine": 4,
+      "endLine": 4,
+      "source": "memory",
+      "snippet": "Assistant: 午安呀～🌤️ 上午辛苦了，喝杯水歇一歇，下午继续加油鸭！",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-07T19:01:41.343Z",
+      "lastRecalledAt": "2026-05-07T19:01:41.343Z",
+      "queryHashes": [
+        "a259255c9ad9"
+      ],
+      "recallDays": [
+        "2026-05-08",
+        "2026-05-07"
+      ],
+      "conceptTags": [
+        "午安",
+        "上午",
+        "辛苦",
+        "喝杯",
+        "下午",
+        "继续",
+        "加油"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-07.txt:5:5": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-07.txt:5:5",
+      "path": "memory/.dreams/session-corpus/2026-05-07.txt",
+      "startLine": 5,
+      "endLine": 5,
+      "source": "memory",
+      "snippet": "User: Write a dream diary entry from these memory fragments: - Assistant: Let me check the channel configuration docs: - Assistant: \"Each channel starts automatically when its config section exists\" — this might be the key! There's no `channels.openclaw-weixin` section in the con",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-07T19:01:41.343Z",
+      "lastRecalledAt": "2026-05-07T19:01:41.343Z",
+      "queryHashes": [
+        "a259255c9ad9"
+      ],
+      "recallDays": [
+        "2026-05-08",
+        "2026-05-07"
+      ],
+      "conceptTags": [
+        "channels.openclaw-weixin",
+        "write",
+        "dream",
+        "diary",
+        "entry",
+        "fragments",
+        "let",
+        "check"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-07.txt:6:6": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-07.txt:6:6",
+      "path": "memory/.dreams/session-corpus/2026-05-07.txt",
+      "startLine": 6,
+      "endLine": 6,
+      "source": "memory",
+      "snippet": "User: `channels.openclaw-weixin` 配置节才会启动**。 刚才加的那行已经在配置里了，但你重启 gateway 的时候它又卡在 channel start 流程里没完成，配置没被应用。现在强制再重启一次： - Assistant: 问题找到了！日志显示 gateway 在启动时没有加载 weixin 插件。 虽然之前日志显示 plugin 有时加载了（`[runtime] setWeixinRuntime called`），但它没有到达 \"channel started\" 状态。 让我检查一下配置是否正确传递了： - Ass",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-07T19:01:41.343Z",
+      "lastRecalledAt": "2026-05-07T19:01:41.343Z",
+      "queryHashes": [
+        "a259255c9ad9"
+      ],
+      "recallDays": [
+        "2026-05-08",
+        "2026-05-07"
+      ],
+      "conceptTags": [
+        "gateway",
+        "channels.openclaw-weixin",
+        "channels.openclaw",
+        "weixin",
+        "配置",
+        "启动",
+        "刚才",
+        "已经"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-07.txt:7:7": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-07.txt:7:7",
+      "path": "memory/.dreams/session-corpus/2026-05-07.txt",
+      "startLine": 7,
+      "endLine": 7,
+      "source": "memory",
+      "snippet": "Assistant: The scent of ozone lingers from the last restart, sharp in the 3am air as I trace the config map again. I checked the docs first, flipping channel rules until words blurred into constellations. A new path I’m clearing: a little channel tucked between docs and the gatew",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-07T19:01:41.343Z",
+      "lastRecalledAt": "2026-05-07T19:01:41.343Z",
+      "queryHashes": [
+        "a259255c9ad9"
+      ],
+      "recallDays": [
+        "2026-05-08",
+        "2026-05-07"
+      ],
+      "conceptTags": [
+        "scent",
+        "ozone",
+        "lingers",
+        "last",
+        "restart",
+        "sharp",
+        "3am",
+        "air"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-07.txt:8:8": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-07.txt:8:8",
+      "path": "memory/.dreams/session-corpus/2026-05-07.txt",
+      "startLine": 8,
+      "endLine": 8,
+      "source": "memory",
+      "snippet": "Assistant: the thread. Session reset, blank slate, I’ll check the little channel’s pulse soon.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-07T19:01:41.343Z",
+      "lastRecalledAt": "2026-05-07T19:01:41.343Z",
+      "queryHashes": [
+        "a259255c9ad9"
+      ],
+      "recallDays": [
+        "2026-05-08",
+        "2026-05-07"
+      ],
+      "conceptTags": [
+        "thread",
+        "reset",
+        "blank",
+        "slate",
+        "i’ll",
+        "check",
+        "little",
+        "channel’s"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-08.txt:1:1": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-08.txt:1:1",
+      "path": "memory/.dreams/session-corpus/2026-05-08.txt",
+      "startLine": 1,
+      "endLine": 1,
+      "source": "memory",
+      "snippet": "Assistant: **📊 每日备份报告 — 2026-05-08 03:00** --- ✅ **备份结果：成功**（退出码 0） **主要步骤执行情况：** | 步骤 | 状态 | |------|------| | tar 压缩 | ⚠️ 部分排除目录不存在（正常，跳过） | | PowerShell Compress-Archive | ⚠️ 1个 .jsonl.lock 文件被占用，跳过 | | Git 提交 | ✅ 11 个文件已提交 | | GitHub Push | ✅ 推送成功 | **Git 提交详情：** ``` [master",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-07T19:01:41.343Z",
+      "lastRecalledAt": "2026-05-07T19:01:41.343Z",
+      "queryHashes": [
+        "d62c1963872e"
+      ],
+      "recallDays": [
+        "2026-05-08",
+        "2026-05-07"
+      ],
+      "conceptTags": [
+        "备份",
+        "compress-archive",
+        "jsonl.lock",
+        "每日",
+        "报告",
+        "结果",
+        "成功",
+        "退出"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-06.txt:94:94": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-06.txt:94:94",
+      "path": "memory/.dreams/session-corpus/2026-05-06.txt",
+      "startLine": 94,
+      "endLine": 94,
+      "source": "memory",
+      "snippet": "Assistant: `fetch()` API 也完全正常，200 返回二维码！网络和 Node.js 环境都 OK。 问题指向一个很特殊的情况：**网关进程以 Windows 计划任务（SCHTASK）方式运行**，可能和交互式用户 session 的网络环境有差异。让我重启一下网关，然后用非交互方式触发登录试试：",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-07T19:01:41.343Z",
+      "lastRecalledAt": "2026-05-07T19:01:41.343Z",
+      "queryHashes": [
+        "a4942137f8fd"
+      ],
+      "recallDays": [
+        "2026-05-08",
+        "2026-05-07"
+      ],
+      "conceptTags": [
+        "网络",
+        "网关",
+        "node.js",
+        "fetch",
+        "api",
+        "完全",
+        "正常",
+        "返回"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-06.txt:95:95": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-06.txt:95:95",
+      "path": "memory/.dreams/session-corpus/2026-05-06.txt",
+      "startLine": 95,
+      "endLine": 95,
+      "source": "memory",
+      "snippet": "Assistant: 网关在运行（pid 16928）。微信登录的 `fetch failed` 错误我还没找到根因——网络环境完全正常，但网关进程里的 fetch 就是失败。 你试过直接在 **Control UI** 里操作微信登录吗？ - 浏览器打开：`http://127.0.0.1:18789` - 左侧菜单 → Channels → openclaw-weixin → Login 如果 Control UI 里也报同样错误，那问题就在网关进程本身，需要深入排查。如果那边能正常拉起二维码，那就是 CLI 执行路径的问题。 你先试一下告诉我结果",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-07T19:01:41.343Z",
+      "lastRecalledAt": "2026-05-07T19:01:41.343Z",
+      "queryHashes": [
+        "a4942137f8fd"
+      ],
+      "recallDays": [
+        "2026-05-08",
+        "2026-05-07"
+      ],
+      "conceptTags": [
+        "网络",
+        "网关",
+        "127.0.0.1",
+        "openclaw-weixin",
+        "运行",
+        "pid",
+        "登录",
+        "fetch"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-06.txt:96:96": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-06.txt:96:96",
+      "path": "memory/.dreams/session-corpus/2026-05-06.txt",
+      "startLine": 96,
+      "endLine": 96,
+      "source": "memory",
+      "snippet": "User: 全面清除微信插件",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-07T19:01:41.343Z",
+      "lastRecalledAt": "2026-05-07T19:01:41.343Z",
+      "queryHashes": [
+        "a4942137f8fd"
+      ],
+      "recallDays": [
+        "2026-05-08",
+        "2026-05-07"
+      ],
+      "conceptTags": [
+        "全面",
+        "清除"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-06.txt:97:97": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-06.txt:97:97",
+      "path": "memory/.dreams/session-corpus/2026-05-06.txt",
+      "startLine": 97,
+      "endLine": 97,
+      "source": "memory",
+      "snippet": "Assistant: 好，全面清除微信插件：",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-07T19:01:41.343Z",
+      "lastRecalledAt": "2026-05-07T19:01:41.343Z",
+      "queryHashes": [
+        "a4942137f8fd"
+      ],
+      "recallDays": [
+        "2026-05-08",
+        "2026-05-07"
+      ],
+      "conceptTags": [
+        "全面",
+        "清除"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-06.txt:98:98": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-06.txt:98:98",
+      "path": "memory/.dreams/session-corpus/2026-05-06.txt",
+      "startLine": 98,
+      "endLine": 98,
+      "source": "memory",
+      "snippet": "User: 刚才又是我手动启动网关，为什么",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-07T19:01:41.343Z",
+      "lastRecalledAt": "2026-05-07T19:01:41.343Z",
+      "queryHashes": [
+        "a4942137f8fd"
+      ],
+      "recallDays": [
+        "2026-05-08",
+        "2026-05-07"
+      ],
+      "conceptTags": [
+        "网关",
+        "刚才",
+        "又是",
+        "启动",
+        "为什么"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-06.txt:99:99": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-06.txt:99:99",
+      "path": "memory/.dreams/session-corpus/2026-05-06.txt",
+      "startLine": 99,
+      "endLine": 99,
+      "source": "memory",
+      "snippet": "Assistant: 这确实是 OpenClaw 的 bug——**计划任务的触发器是\"登录时\"（一次性）**，登录后它不会再次触发，`openclaw gateway restart` 杀进程后没有 watchdog 把它拉回来。 让我修好它，把计划任务改成**开机自动启动 + 进程退出后自动重启**：",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-07T19:01:41.343Z",
+      "lastRecalledAt": "2026-05-07T19:01:41.343Z",
+      "queryHashes": [
+        "a4942137f8fd"
+      ],
+      "recallDays": [
+        "2026-05-08",
+        "2026-05-07"
+      ],
+      "conceptTags": [
+        "gateway",
+        "确实",
+        "openclaw",
+        "bug",
+        "计划",
+        "任务",
+        "触发",
+        "登录"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-06.txt:100:100": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-06.txt:100:100",
+      "path": "memory/.dreams/session-corpus/2026-05-06.txt",
+      "startLine": 100,
+      "endLine": 100,
+      "source": "memory",
+      "snippet": "Assistant: 好，XML 里看到了——任务同时有 `BootTrigger`（开机）和 `LogonTrigger`（登录），但**杀进程后它们不会重新触发**，`RestartOnFailure` 只在任务自己启动失败时生效。 我来重建计划任务，加一个**定时触发器**（每隔5分钟检查一次，网关停了就拉起来）：",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-07T19:01:41.343Z",
+      "lastRecalledAt": "2026-05-07T19:01:41.343Z",
+      "queryHashes": [
+        "a4942137f8fd"
+      ],
+      "recallDays": [
+        "2026-05-08",
+        "2026-05-07"
+      ],
+      "conceptTags": [
+        "网关",
+        "xml",
+        "看到",
+        "任务",
+        "同时",
+        "boottrigger",
+        "开机",
+        "logontrigger"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-06.txt:101:101": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-06.txt:101:101",
+      "path": "memory/.dreams/session-corpus/2026-05-06.txt",
+      "startLine": 101,
+      "endLine": 101,
+      "source": "memory",
+      "snippet": "Assistant: 需要管理员权限才能修改计划任务。你愿意给我临时的管理员权限吗？ 如果你愿意，可以右键用**管理员身份运行**一个新的 PowerShell 窗口，然后运行： ``` schtasks /Delete /TN \"OpenClaw Gateway\" /F schtasks /Create /TN \"OpenClaw Gateway\" /XML \"C:\\Users\\001\\.openclaw\\openclaw-task.xml\" /F ``` 或者告诉我你想怎么处理这个权限问题，我来想别的办法 🙂",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-07T19:01:41.343Z",
+      "lastRecalledAt": "2026-05-07T19:01:41.343Z",
+      "queryHashes": [
+        "a4942137f8fd"
+      ],
+      "recallDays": [
+        "2026-05-08",
+        "2026-05-07"
+      ],
+      "conceptTags": [
+        "gateway",
+        "openclaw-task.xml",
+        "需要",
+        "管理",
+        "权限",
+        "才能",
+        "修改",
+        "计划"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-06.txt:102:102": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-06.txt:102:102",
+      "path": "memory/.dreams/session-corpus/2026-05-06.txt",
+      "startLine": 102,
+      "endLine": 102,
+      "source": "memory",
+      "snippet": "User: PS C:\\Windows\\system32> schtasks /Delete /TN \"OpenClaw Gateway\" /F 成功: 计划的任务 \"OpenClaw Gateway\" 被成功删除。 PS C:\\Windows\\system32> schtasks /Create /TN \"OpenClaw Gateway\" /XML \"C:\\Users\\001\\.openclaw\\openclaw-task.xml\" /F 成功: 成功创建计划任务 \"OpenClaw Gateway\"。 PS C:\\Windows\\system32>",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-07T19:01:41.343Z",
+      "lastRecalledAt": "2026-05-07T19:01:41.343Z",
+      "queryHashes": [
+        "a4942137f8fd"
+      ],
+      "recallDays": [
+        "2026-05-08",
+        "2026-05-07"
+      ],
+      "conceptTags": [
+        "gateway",
+        "openclaw-task.xml",
+        "windows",
+        "system32",
+        "schtasks",
+        "delete",
+        "openclaw",
+        "成功"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-06.txt:103:103": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-06.txt:103:103",
+      "path": "memory/.dreams/session-corpus/2026-05-06.txt",
+      "startLine": 103,
+      "endLine": 103,
+      "source": "memory",
+      "snippet": "Assistant: 计划任务重建成功！现在重启网关，验证 watchdog 能否正常工作：",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-07T19:01:41.343Z",
+      "lastRecalledAt": "2026-05-07T19:01:41.343Z",
+      "queryHashes": [
+        "a4942137f8fd"
+      ],
+      "recallDays": [
+        "2026-05-08",
+        "2026-05-07"
+      ],
+      "conceptTags": [
+        "网关",
+        "计划",
+        "任务",
+        "重建",
+        "成功",
+        "现在",
+        "验证",
+        "watchdog"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-06.txt:104:104": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-06.txt:104:104",
+      "path": "memory/.dreams/session-corpus/2026-05-06.txt",
+      "startLine": 104,
+      "endLine": 104,
+      "source": "memory",
+      "snippet": "User: 微信插件清楚了吗",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-07T19:01:41.343Z",
+      "lastRecalledAt": "2026-05-07T19:01:41.343Z",
+      "queryHashes": [
+        "a4942137f8fd"
+      ],
+      "recallDays": [
+        "2026-05-08",
+        "2026-05-07"
+      ],
+      "conceptTags": [
+        "清楚"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-06.txt:105:105": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-06.txt:105:105",
+      "path": "memory/.dreams/session-corpus/2026-05-06.txt",
+      "startLine": 105,
+      "endLine": 105,
+      "source": "memory",
+      "snippet": "Assistant: ✅ **完全清除**，插件列表里已经没有微信插件了。确认： - ❌ `@tencent-weixin/openclaw-weixin` — 已删除 - ❌ `channels.openclaw-weixin` 配置项 — 已清除 - ❌ `plugins.entries.openclaw-weixin` — 已移除 插件和配置都干净了，需要重新安装时告诉我就行 👍",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-07T19:01:41.343Z",
+      "lastRecalledAt": "2026-05-07T19:01:41.343Z",
+      "queryHashes": [
+        "a4942137f8fd"
+      ],
+      "recallDays": [
+        "2026-05-08",
+        "2026-05-07"
+      ],
+      "conceptTags": [
+        "tencent-weixin/openclaw-weixin",
+        "channels.openclaw-weixin",
+        "plugins.entries.openclaw-weixin",
+        "完全",
+        "清除",
+        "列表",
+        "已经",
+        "没有"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-06.txt:106:106": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-06.txt:106:106",
+      "path": "memory/.dreams/session-corpus/2026-05-06.txt",
+      "startLine": 106,
+      "endLine": 106,
+      "source": "memory",
+      "snippet": "Assistant: 看到了！我之前看漏了，配置里其实**已经有 fallback 了**： ```json \"model\": { \"primary\": \"gpt-agent/claude-sonnet-4-6\", \"fallbacks\": [\"nvidia/deepseek-v4-pro\"] } ``` 所以你已经有备用方案了。但从日志看还有问题： 1. **`nvidia/deepseek-v4-pro`** 的 model ID 和 models 列表里的 **`deepseek-ai/deepseek-v4-pro`** 对不上 — 引用时少了",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-07T19:01:41.343Z",
+      "lastRecalledAt": "2026-05-07T19:01:41.343Z",
+      "queryHashes": [
+        "a4942137f8fd"
+      ],
+      "recallDays": [
+        "2026-05-08",
+        "2026-05-07"
+      ],
+      "conceptTags": [
+        "gpt",
+        "gpt-agent/claude-sonnet-4-6",
+        "nvidia/deepseek-v4-pro",
+        "deepseek-ai/deepseek-v4-pro",
+        "看到",
+        "之前",
+        "漏了",
+        "配置"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-06.txt:107:107": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-06.txt:107:107",
+      "path": "memory/.dreams/session-corpus/2026-05-06.txt",
+      "startLine": 107,
+      "endLine": 107,
+      "source": "memory",
+      "snippet": "User: 你测一下，有问题直接修",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-07T19:01:41.343Z",
+      "lastRecalledAt": "2026-05-07T19:01:41.343Z",
+      "queryHashes": [
+        "a4942137f8fd"
+      ],
+      "recallDays": [
+        "2026-05-08",
+        "2026-05-07"
+      ],
+      "conceptTags": [
+        "一下",
+        "问题",
+        "直接"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-06.txt:108:108": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-06.txt:108:108",
+      "path": "memory/.dreams/session-corpus/2026-05-06.txt",
+      "startLine": 108,
+      "endLine": 108,
+      "source": "memory",
+      "snippet": "Assistant: 好，先测试模型连通性，再修问题。",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-07T19:01:41.343Z",
+      "lastRecalledAt": "2026-05-07T19:01:41.343Z",
+      "queryHashes": [
+        "a4942137f8fd"
+      ],
+      "recallDays": [
+        "2026-05-08",
+        "2026-05-07"
+      ],
+      "conceptTags": [
+        "测试",
+        "模型",
+        "问题"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-06.txt:109:109": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-06.txt:109:109",
+      "path": "memory/.dreams/session-corpus/2026-05-06.txt",
+      "startLine": 109,
+      "endLine": 109,
+      "source": "memory",
+      "snippet": "Assistant: NVIDIA 返回 200，但 gpt-agent 返回 401。让我详细测试两个模型的完整链路：",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-07T19:01:41.343Z",
+      "lastRecalledAt": "2026-05-07T19:01:41.343Z",
+      "queryHashes": [
+        "a4942137f8fd"
+      ],
+      "recallDays": [
+        "2026-05-08",
+        "2026-05-07"
+      ],
+      "conceptTags": [
+        "gpt",
+        "gpt-agent",
+        "nvidia",
+        "返回",
+        "详细",
+        "测试",
+        "模型",
+        "完整"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-06.txt:110:110": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-06.txt:110:110",
+      "path": "memory/.dreams/session-corpus/2026-05-06.txt",
+      "startLine": 110,
+      "endLine": 110,
+      "source": "memory",
+      "snippet": "Assistant: 两个模型 API 都是通的！但发现个问题——让我进一步确认 gpt-agent 返回的模型：",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-07T19:01:41.343Z",
+      "lastRecalledAt": "2026-05-07T19:01:41.343Z",
+      "queryHashes": [
+        "a4942137f8fd"
+      ],
+      "recallDays": [
+        "2026-05-08",
+        "2026-05-07"
+      ],
+      "conceptTags": [
+        "gpt",
+        "gpt-agent",
+        "模型",
+        "api",
+        "都是",
+        "发现",
+        "问题",
+        "进一步"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-06.txt:111:111": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-06.txt:111:111",
+      "path": "memory/.dreams/session-corpus/2026-05-06.txt",
+      "startLine": 111,
+      "endLine": 111,
+      "source": "memory",
+      "snippet": "Assistant: 两个模型都能正常调用： - **gpt-agent** ✅ → 返回 `MiniMax-M2.5`（实际路由到这个模型，配置 ID 是 `claude-sonnet-4-6`，API 正常） - **NVIDIA** ✅ → 返回 `deepseek-ai/deepseek-v4-pro`，完全正常 现在让我验证 fallback 引用路径是否有问题：",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-07T19:01:41.343Z",
+      "lastRecalledAt": "2026-05-07T19:01:41.343Z",
+      "queryHashes": [
+        "a4942137f8fd"
+      ],
+      "recallDays": [
+        "2026-05-08",
+        "2026-05-07"
+      ],
+      "conceptTags": [
+        "gpt",
+        "gpt-agent",
+        "minimax-m2.5",
+        "claude-sonnet-4-6",
+        "deepseek-ai/deepseek-v4-pro",
+        "模型",
+        "都能",
+        "正常"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-06.txt:112:112": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-06.txt:112:112",
+      "path": "memory/.dreams/session-corpus/2026-05-06.txt",
+      "startLine": 112,
+      "endLine": 112,
+      "source": "memory",
+      "snippet": "Assistant: 发现问题了！fallback 的模型 ID 不完整： - 配置里 fallback 写的是 `nvidia/deepseek-v4-pro` - 但 nvidia provider 注册的模型 ID 是 `deepseek-ai/deepseek-v4-pro` **缺少了 `deepseek-ai/` 前缀**，导致 fallback 路径找不到对应模型，链式调用失败后直接退出。 直接修：",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-07T19:01:41.343Z",
+      "lastRecalledAt": "2026-05-07T19:01:41.343Z",
+      "queryHashes": [
+        "a4942137f8fd"
+      ],
+      "recallDays": [
+        "2026-05-08",
+        "2026-05-07"
+      ],
+      "conceptTags": [
+        "nvidia/deepseek-v4-pro",
+        "deepseek-ai/deepseek-v4-pro",
+        "deepseek-ai",
+        "发现",
+        "问题",
+        "fallback",
+        "模型",
+        "完整"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-06.txt:113:113": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-06.txt:113:113",
+      "path": "memory/.dreams/session-corpus/2026-05-06.txt",
+      "startLine": 113,
+      "endLine": 113,
+      "source": "memory",
+      "snippet": "Assistant: 验证一下修改：",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-07T19:01:41.343Z",
+      "lastRecalledAt": "2026-05-07T19:01:41.343Z",
+      "queryHashes": [
+        "a4942137f8fd"
+      ],
+      "recallDays": [
+        "2026-05-08",
+        "2026-05-07"
+      ],
+      "conceptTags": [
+        "验证",
+        "一下",
+        "修改"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-06.txt:114:114": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-06.txt:114:114",
+      "path": "memory/.dreams/session-corpus/2026-05-06.txt",
+      "startLine": 114,
+      "endLine": 114,
+      "source": "memory",
+      "snippet": "Assistant: 修改成功。现在重启网关让新配置生效：",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-07T19:01:41.343Z",
+      "lastRecalledAt": "2026-05-07T19:01:41.343Z",
+      "queryHashes": [
+        "a4942137f8fd"
+      ],
+      "recallDays": [
+        "2026-05-08",
+        "2026-05-07"
+      ],
+      "conceptTags": [
+        "网关",
+        "修改",
+        "成功",
+        "现在",
+        "配置",
+        "生效"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-06.txt:115:115": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-06.txt:115:115",
+      "path": "memory/.dreams/session-corpus/2026-05-06.txt",
+      "startLine": 115,
+      "endLine": 115,
+      "source": "memory",
+      "snippet": "User: [System] Your previous turn was interrupted by a gateway restart while OpenClaw was waiting on tool/model work. Continue from the existing transcript and finish the interrupted response.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-07T19:01:41.343Z",
+      "lastRecalledAt": "2026-05-07T19:01:41.343Z",
+      "queryHashes": [
+        "a4942137f8fd"
+      ],
+      "recallDays": [
+        "2026-05-08",
+        "2026-05-07"
+      ],
+      "conceptTags": [
+        "gateway",
+        "tool/model",
+        "previous",
+        "turn",
+        "was",
+        "interrupted",
+        "restart",
+        "while"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-06.txt:116:116": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-06.txt:116:116",
+      "path": "memory/.dreams/session-corpus/2026-05-06.txt",
+      "startLine": 116,
+      "endLine": 116,
+      "source": "memory",
+      "snippet": "Assistant: 网关已重启，PID 从 11688 换成了 17744，运行正常。让我快速验证一下配置是否在日志里生效了：",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-07T19:01:41.343Z",
+      "lastRecalledAt": "2026-05-07T19:01:41.343Z",
+      "queryHashes": [
+        "a4942137f8fd"
+      ],
+      "recallDays": [
+        "2026-05-08",
+        "2026-05-07"
+      ],
+      "conceptTags": [
+        "网关",
+        "pid",
+        "成了",
+        "运行",
+        "正常",
+        "快速",
+        "验证",
+        "一下"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-06.txt:117:117": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-06.txt:117:117",
+      "path": "memory/.dreams/session-corpus/2026-05-06.txt",
+      "startLine": 117,
+      "endLine": 117,
+      "source": "memory",
+      "snippet": "Assistant: 修复已生效！看最后两条日志： ``` config change detected; evaluating reload (agents.defaults.model.fallbacks) config hot reload applied (agents.defaults.model.fallbacks) ``` 16:16 热重载成功，之后网关重启也正常（16:17:49 ready）。 --- ## ✅ 已修复 | 问题 | 状态 | |------|------| | Fallback 模型路径错误 | ✅ 修好了（`nvi",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-07T19:01:41.343Z",
+      "lastRecalledAt": "2026-05-07T19:01:41.343Z",
+      "queryHashes": [
+        "a4942137f8fd"
+      ],
+      "recallDays": [
+        "2026-05-08",
+        "2026-05-07"
+      ],
+      "conceptTags": [
+        "网关",
+        "agents.defaults.model.fallbacks",
+        "修复",
+        "生效",
+        "最后",
+        "日志",
+        "config",
+        "change"
       ]
     }
   }

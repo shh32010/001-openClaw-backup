@@ -1,0 +1,1 @@
+[main/sessions/main/eb3930f7-a829-4909-a7cf-fff4762f9c5a.jsonl#L12] Assistant: **📊 每日备份报告 — 2026-05-08 03:00** --- ✅ **备份结果：成功**（退出码 0） **主要步骤执行情况：** | 步骤 | 状态 | |------|------| | tar 压缩 | ⚠️ 部分排除目录不存在（正常，跳过） | | PowerShell Compress-Archive | ⚠️ 1个 .jsonl.lock 文件被占用，跳过 | | Git 提交 | ✅ 11 个文件已提交 | | GitHub Push | ✅ 推送成功 | **Git 提交详情：** ``` [ma
