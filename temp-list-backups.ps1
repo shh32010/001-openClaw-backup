@@ -1,0 +1,1 @@
+Get-ChildItem 'C:\Users\001\*openclaw-backup*' | Sort-Object LastWriteTime -Descending | ForEach-Object { "$($_.Name) - $([math]::Round($_.Length/1MB,1)) MB - $($_.LastWriteTime)" }

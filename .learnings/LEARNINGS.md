@@ -58,3 +58,29 @@ Markdown 表格对齐的核心是：**每行每个单元格的文字内容必须
 - Source: user_request
 - Tags: openclaw, control-ui, session, limitation
 - Pattern-Key: openclaw.new_tab_behavior
+
+---
+
+## [LRN-20260509-005] insight — 自我改进技能的执行依赖主动意识
+
+**Logged**: 2026-05-09T13:28:00Z
+**Priority**: high
+**Status**: pending
+**Area**: self-improvement
+
+### Summary
+self-improvement 技能不是真正的自动钩子，执行依赖我在会话中主动判断并写入文件。实际情况是：修完 bug 就翻篇了，很少主动记录。
+
+### Key insight
+- 我没有“自动反思”能力，行为完全取决于当前上下文和指令
+- 修正错误后如果没有主动记录，下次会话不会记得
+- 应在每次“自己修好一个问题”后主动写入 `.learnings/ERRORS.md`
+- 应在每次“用户纠正我”后主动写入 `.learnings/LEARNINGS.md`
+
+### Suggested Action
+养成习惯：修完问题 → 立即记录，不等用户提醒。
+
+### Metadata
+- Source: self_reflection
+- Tags: self-improvement, memory, habit
+- Pattern-Key: self_improvement.proactive_logging

@@ -1,0 +1,2 @@
+[main/sessions/main/e3dc57eb-0ff7-4d2a-b231-f44e9cce7ac7.jsonl#L8] Assistant: 备份脚本 `C:\Users\001\.openclaw\backup-task.ps1` 不存在。让我检查一下是否有其他备份相关文件，或者使用 openclaw-backup skill 来完成备份。
+[main/sessions/main/e3dc57eb-0ff7-4d2a-b231-f44e9cce7ac7.jsonl#L31] Assistant: 备份执行完成 ✅ **备份结果：** - 📦 文件：`C:\Users\001\2026-05-09T19-01-08.848Z-openclaw-backup.tar.gz` - 📏 大小：**109 MB** - ✅ 状态：成功（exit code 0） - 📂 包含：`~\.openclaw` 目录（config、credentials、sessions、workspace 等） --- ⚠️ **注意**：原定时任务引用的脚本 `C:\Users\001\.openclaw\backup-task.ps1` 不
