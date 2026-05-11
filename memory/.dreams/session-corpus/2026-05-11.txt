@@ -1,0 +1,2 @@
+[main/sessions/main/43df242c-f07b-4dd8-b39a-a35485edf4b5.jsonl#L6] Assistant: 先运行备份脚本。
+[main/sessions/main/43df242c-f07b-4dd8-b39a-a35485edf4b5.jsonl#L10] Assistant: ✅ **每日备份完成** (2026-05-11 07:28) | 步骤 | 结果 | |------|------| | 压缩备份 | `openclaw-2026-05-11_0728.zip` (18.3 MB) → `C:\Users\001\openclaw-backups\` | | Git commit | 成功 | | Git push | 已推送到 `master` (`c8d1b6b..0eaca44`) | | 备份总数 | 5 个 |
