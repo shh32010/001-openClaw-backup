@@ -1,0 +1,1 @@
+[main/sessions/main/8bae5f7d-4e00-4b59-a318-e84ecdbabe8c.jsonl#L12] Assistant: ✅ **每日备份完成** — 2026-05-14 03:00 | 步骤 | 结果 | |------|------| | 压缩备份 | `C:\Users\001\openclaw-backups\openclaw-2026-05-14_0300.zip` (19.7 MB) | | Git 提交 | 已提交 | | Git 推送 | `master -> master` (f365d94..57250ee) | | 旧备份清理 | 已删除 `openclaw-2026-05-06_0302.tar.gz`，保留 7 个备

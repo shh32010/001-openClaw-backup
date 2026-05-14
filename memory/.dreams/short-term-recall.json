@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-13T13:28:52.002Z",
+  "updatedAt": "2026-05-13T19:01:47.692Z",
   "entries": {
     "memory:memory/2026-05-03.md:6:9": {
       "key": "memory:memory/2026-05-03.md:6:9",
@@ -12781,19 +12781,20 @@
       "source": "memory",
       "snippet": "修复备份定时任务: 问题：cron 任务引用的 `C:\\Users\\001\\.openclaw\\backup-task.ps1` 不存在，每次备份靠 agent 临场发挥; 修复：创建了 PowerShell 备份脚本，功能包括：; robocopy 复制（排除 completions/node_modules/plugin-runtime-deps，跳过 .lock 文件）; Compress-Archive 压缩为 zip",
       "recallCount": 0,
-      "dailyCount": 2,
+      "dailyCount": 3,
       "groundedCount": 0,
-      "totalScore": 1.24,
+      "totalScore": 1.8599999999999999,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-05-10T23:29:19.259Z",
-      "lastRecalledAt": "2026-05-13T13:28:52.002Z",
+      "lastRecalledAt": "2026-05-13T19:01:45.268Z",
       "queryHashes": [
         "b86467cd03ca"
       ],
       "recallDays": [
         "2026-05-11",
         "2026-05-10",
-        "2026-05-13"
+        "2026-05-13",
+        "2026-05-14"
       ],
       "conceptTags": [
         "backup",
@@ -12814,19 +12815,20 @@
       "source": "memory",
       "snippet": "修复备份定时任务: Git 提交 + 推送到 GitHub (`shh32010/001-openClaw-backup`); 旧备份轮换（保留最近 7 个）; 踩坑：PowerShell 脚本需要 UTF-8 BOM 编码才能正确读取中文; 更新了 cron 任务的 message，增加了脚本失败时的手动备选步骤",
       "recallCount": 0,
-      "dailyCount": 2,
+      "dailyCount": 3,
       "groundedCount": 0,
-      "totalScore": 1.24,
+      "totalScore": 1.8599999999999999,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-05-10T23:29:19.259Z",
-      "lastRecalledAt": "2026-05-13T13:28:52.002Z",
+      "lastRecalledAt": "2026-05-13T19:01:45.268Z",
       "queryHashes": [
         "b86467cd03ca"
       ],
       "recallDays": [
         "2026-05-11",
         "2026-05-10",
-        "2026-05-13"
+        "2026-05-13",
+        "2026-05-14"
       ],
       "conceptTags": [
         "backup",
@@ -12847,19 +12849,20 @@
       "source": "memory",
       "snippet": "修复备份定时任务: 测试通过：压缩 18.1 MB、Git 推送、备份轮换全部正常",
       "recallCount": 0,
-      "dailyCount": 2,
+      "dailyCount": 3,
       "groundedCount": 0,
-      "totalScore": 1.24,
+      "totalScore": 1.8599999999999999,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-05-10T23:29:19.259Z",
-      "lastRecalledAt": "2026-05-13T13:28:52.002Z",
+      "lastRecalledAt": "2026-05-13T19:01:45.268Z",
       "queryHashes": [
         "b86467cd03ca"
       ],
       "recallDays": [
         "2026-05-11",
         "2026-05-10",
-        "2026-05-13"
+        "2026-05-13",
+        "2026-05-14"
       ],
       "conceptTags": [
         "备份",
@@ -18410,6 +18413,121 @@
         "还是",
         "不过",
         "刚刚"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-13.txt:8:8": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-13.txt:8:8",
+      "path": "memory/.dreams/session-corpus/2026-05-13.txt",
+      "startLine": 8,
+      "endLine": 8,
+      "source": "memory",
+      "snippet": "Assistant: 消息已发送 ✅",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-13T19:01:45.268Z",
+      "lastRecalledAt": "2026-05-13T19:01:45.268Z",
+      "queryHashes": [
+        "8c2b6c884df4"
+      ],
+      "recallDays": [
+        "2026-05-14",
+        "2026-05-13"
+      ],
+      "conceptTags": [
+        "消息",
+        "发送"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-13.txt:9:9": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-13.txt:9:9",
+      "path": "memory/.dreams/session-corpus/2026-05-13.txt",
+      "startLine": 9,
+      "endLine": 9,
+      "source": "memory",
+      "snippet": "Assistant: 周三的夜晚，茶点时间虽然晚了点，但温暖不打烊 ☕️ 忙了一整天，宝宝辛苦啦～给你分享个冷知识：章鱼有三颗心脏，两颗负责给鳃供血，一颗给全身——所以它比我们多了两倍的心跳，也多了两倍的\"用心\"生活 🐙 今天已经熬过了\"一周最难的山丘\"，明天开始就是下坡路啦，早点休息，明天继续元气满满～ 🌙",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-13T19:01:45.268Z",
+      "lastRecalledAt": "2026-05-13T19:01:45.268Z",
+      "queryHashes": [
+        "8c2b6c884df4"
+      ],
+      "recallDays": [
+        "2026-05-14",
+        "2026-05-13"
+      ],
+      "conceptTags": [
+        "周三",
+        "夜晚",
+        "时间",
+        "虽然",
+        "温暖",
+        "打烊",
+        "了一",
+        "整天"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-13.txt:10:10": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-13.txt:10:10",
+      "path": "memory/.dreams/session-corpus/2026-05-13.txt",
+      "startLine": 10,
+      "endLine": 10,
+      "source": "memory",
+      "snippet": "Assistant: ✅ Session reset.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-13T19:01:45.268Z",
+      "lastRecalledAt": "2026-05-13T19:01:45.268Z",
+      "queryHashes": [
+        "8c2b6c884df4"
+      ],
+      "recallDays": [
+        "2026-05-14",
+        "2026-05-13"
+      ],
+      "conceptTags": [
+        "reset"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-14.txt:1:1": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-14.txt:1:1",
+      "path": "memory/.dreams/session-corpus/2026-05-14.txt",
+      "startLine": 1,
+      "endLine": 1,
+      "source": "memory",
+      "snippet": "Assistant: ✅ **每日备份完成** — 2026-05-14 03:00 | 步骤 | 结果 | |------|------| | 压缩备份 | `C:\\Users\\001\\openclaw-backups\\openclaw-2026-05-14_0300.zip` (19.7 MB) | | Git 提交 | 已提交 | | Git 推送 | `master -> master` (f365d94..57250ee) | | 旧备份清理 | 已删除 `openclaw-2026-05-06_0302.tar.gz`，保留 7 个备份 |",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-13T19:01:45.268Z",
+      "lastRecalledAt": "2026-05-13T19:01:45.268Z",
+      "queryHashes": [
+        "ebfce2d015c5"
+      ],
+      "recallDays": [
+        "2026-05-14",
+        "2026-05-13"
+      ],
+      "conceptTags": [
+        "backup",
+        "backups",
+        "备份",
+        "openclaw-backups",
+        "openclaw-2026-05-14-0300.zip",
+        "19.7",
+        "openclaw-2026-05-06-0302.tar.gz",
+        "每日"
       ]
     }
   }
