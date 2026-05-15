@@ -1,0 +1,1 @@
+[main/sessions/main/fc3a9e8d-4205-4972-8cf9-3f9d5bff4945.jsonl#L10] Assistant: 备份脚本执行成功 ✅ **结果汇总：** - 📦 压缩完成：`openclaw-2026-05-15_0300.zip`（20 MB）→ `C:\Users\001\openclaw-backups\` - 🔄 Git 已提交并推送到 GitHub（`57250ee..3e9585c master`） - 🗑️ 已清理旧备份：`openclaw-2026-05-07_0300.tar.gz`，当前保留 7 份 - ⚠️ 仅有 LF/CRLF 换行符警告（无影响）

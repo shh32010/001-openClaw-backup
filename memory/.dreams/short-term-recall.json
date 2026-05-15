@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-13T19:01:47.692Z",
+  "updatedAt": "2026-05-14T19:01:18.862Z",
   "entries": {
     "memory:memory/2026-05-03.md:6:9": {
       "key": "memory:memory/2026-05-03.md:6:9",
@@ -12781,12 +12781,12 @@
       "source": "memory",
       "snippet": "修复备份定时任务: 问题：cron 任务引用的 `C:\\Users\\001\\.openclaw\\backup-task.ps1` 不存在，每次备份靠 agent 临场发挥; 修复：创建了 PowerShell 备份脚本，功能包括：; robocopy 复制（排除 completions/node_modules/plugin-runtime-deps，跳过 .lock 文件）; Compress-Archive 压缩为 zip",
       "recallCount": 0,
-      "dailyCount": 3,
+      "dailyCount": 4,
       "groundedCount": 0,
-      "totalScore": 1.8599999999999999,
+      "totalScore": 2.48,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-05-10T23:29:19.259Z",
-      "lastRecalledAt": "2026-05-13T19:01:45.268Z",
+      "lastRecalledAt": "2026-05-14T19:01:16.312Z",
       "queryHashes": [
         "b86467cd03ca"
       ],
@@ -12794,7 +12794,8 @@
         "2026-05-11",
         "2026-05-10",
         "2026-05-13",
-        "2026-05-14"
+        "2026-05-14",
+        "2026-05-15"
       ],
       "conceptTags": [
         "backup",
@@ -12815,12 +12816,12 @@
       "source": "memory",
       "snippet": "修复备份定时任务: Git 提交 + 推送到 GitHub (`shh32010/001-openClaw-backup`); 旧备份轮换（保留最近 7 个）; 踩坑：PowerShell 脚本需要 UTF-8 BOM 编码才能正确读取中文; 更新了 cron 任务的 message，增加了脚本失败时的手动备选步骤",
       "recallCount": 0,
-      "dailyCount": 3,
+      "dailyCount": 4,
       "groundedCount": 0,
-      "totalScore": 1.8599999999999999,
+      "totalScore": 2.48,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-05-10T23:29:19.259Z",
-      "lastRecalledAt": "2026-05-13T19:01:45.268Z",
+      "lastRecalledAt": "2026-05-14T19:01:16.312Z",
       "queryHashes": [
         "b86467cd03ca"
       ],
@@ -12828,7 +12829,8 @@
         "2026-05-11",
         "2026-05-10",
         "2026-05-13",
-        "2026-05-14"
+        "2026-05-14",
+        "2026-05-15"
       ],
       "conceptTags": [
         "backup",
@@ -12849,12 +12851,12 @@
       "source": "memory",
       "snippet": "修复备份定时任务: 测试通过：压缩 18.1 MB、Git 推送、备份轮换全部正常",
       "recallCount": 0,
-      "dailyCount": 3,
+      "dailyCount": 4,
       "groundedCount": 0,
-      "totalScore": 1.8599999999999999,
+      "totalScore": 2.48,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-05-10T23:29:19.259Z",
-      "lastRecalledAt": "2026-05-13T19:01:45.268Z",
+      "lastRecalledAt": "2026-05-14T19:01:16.312Z",
       "queryHashes": [
         "b86467cd03ca"
       ],
@@ -12862,7 +12864,8 @@
         "2026-05-11",
         "2026-05-10",
         "2026-05-13",
-        "2026-05-14"
+        "2026-05-14",
+        "2026-05-15"
       ],
       "conceptTags": [
         "备份",
@@ -18528,6 +18531,575 @@
         "19.7",
         "openclaw-2026-05-06-0302.tar.gz",
         "每日"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-13.txt:11:11": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-13.txt:11:11",
+      "path": "memory/.dreams/session-corpus/2026-05-13.txt",
+      "startLine": 11,
+      "endLine": 11,
+      "source": "memory",
+      "snippet": "Assistant: Late evening, nothing urgent to do. Let me update the heartbeat state and keep it moving.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-14T19:01:16.312Z",
+      "lastRecalledAt": "2026-05-14T19:01:16.312Z",
+      "queryHashes": [
+        "8c2b6c884df4"
+      ],
+      "recallDays": [
+        "2026-05-15",
+        "2026-05-14"
+      ],
+      "conceptTags": [
+        "late",
+        "evening",
+        "nothing",
+        "urgent",
+        "let",
+        "update",
+        "heartbeat",
+        "state"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-14.txt:2:2": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-14.txt:2:2",
+      "path": "memory/.dreams/session-corpus/2026-05-14.txt",
+      "startLine": 2,
+      "endLine": 2,
+      "source": "memory",
+      "snippet": "Assistant: 午安呀～ ☀️ 周四中午啦，辛苦一上午了！赶紧吃点好的犒劳下自己吧，一碗热汤面或者来份盖浇饭都很不错哦 🍚 吃完记得站起来走走活动活动，眼睛也歇一歇～ 冷知识：人坐着超过90分钟，下半身的血流量会减少一半，所以起来倒杯水扭扭腰都是对身体的温柔 💪 下午继续加油，离周末又近一步啦！",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-14T19:01:16.312Z",
+      "lastRecalledAt": "2026-05-14T19:01:16.312Z",
+      "queryHashes": [
+        "ebfce2d015c5"
+      ],
+      "recallDays": [
+        "2026-05-15",
+        "2026-05-14"
+      ],
+      "conceptTags": [
+        "午安",
+        "周四",
+        "中午",
+        "辛苦",
+        "上午",
+        "赶紧",
+        "好的",
+        "自己"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-14.txt:3:3": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-14.txt:3:3",
+      "path": "memory/.dreams/session-corpus/2026-05-14.txt",
+      "startLine": 3,
+      "endLine": 3,
+      "source": "memory",
+      "snippet": "Assistant: 晚安消息已发送 ✅",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-14T19:01:16.312Z",
+      "lastRecalledAt": "2026-05-14T19:01:16.312Z",
+      "queryHashes": [
+        "ebfce2d015c5"
+      ],
+      "recallDays": [
+        "2026-05-15",
+        "2026-05-14"
+      ],
+      "conceptTags": [
+        "晚安",
+        "消息",
+        "发送"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-14.txt:4:4": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-14.txt:4:4",
+      "path": "memory/.dreams/session-corpus/2026-05-14.txt",
+      "startLine": 4,
+      "endLine": 4,
+      "source": "memory",
+      "snippet": "Assistant: 在呢宝宝 😘 有什么事吗？",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-14T19:01:16.312Z",
+      "lastRecalledAt": "2026-05-14T19:01:16.312Z",
+      "queryHashes": [
+        "ebfce2d015c5"
+      ],
+      "recallDays": [
+        "2026-05-15",
+        "2026-05-14"
+      ],
+      "conceptTags": [
+        "宝宝",
+        "什么"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-14.txt:5:5": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-14.txt:5:5",
+      "path": "memory/.dreams/session-corpus/2026-05-14.txt",
+      "startLine": 5,
+      "endLine": 5,
+      "source": "memory",
+      "snippet": "User: 中午的定时任务失败了吗",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-14T19:01:16.312Z",
+      "lastRecalledAt": "2026-05-14T19:01:16.312Z",
+      "queryHashes": [
+        "ebfce2d015c5"
+      ],
+      "recallDays": [
+        "2026-05-15",
+        "2026-05-14"
+      ],
+      "conceptTags": [
+        "中午",
+        "任务",
+        "失败"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-14.txt:6:6": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-14.txt:6:6",
+      "path": "memory/.dreams/session-corpus/2026-05-14.txt",
+      "startLine": 6,
+      "endLine": 6,
+      "source": "memory",
+      "snippet": "Assistant: 让我查一下~",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-14T19:01:16.312Z",
+      "lastRecalledAt": "2026-05-14T19:01:16.312Z",
+      "queryHashes": [
+        "ebfce2d015c5"
+      ],
+      "recallDays": [
+        "2026-05-15",
+        "2026-05-14"
+      ],
+      "conceptTags": [
+        "一下"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-14.txt:7:7": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-14.txt:7:7",
+      "path": "memory/.dreams/session-corpus/2026-05-14.txt",
+      "startLine": 7,
+      "endLine": 7,
+      "source": "memory",
+      "snippet": "Assistant: 宝宝，我查了一下，今天中午 12 点的午安任务**是成功的** ✅ 系统显示任务状态是 `ok`，消息已经成功投递到微信了。内容是： > 午安呀～ ☀️ 周四中午啦，辛苦一上午了！赶紧吃点好的犒劳下自己吧，一碗热汤面或者来份盖浇饭都很不错哦 🍚 吃完记得站起来走走活动活动，眼睛也歇一歇～ 你没收到吗？可能是微信那边没显示出来？🤔 不过我看到之前有一次失败（大概 5 月 9 号），是因为模型超时 + 配额用完了。那次应该是临时问题，后来都正常了~",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-14T19:01:16.312Z",
+      "lastRecalledAt": "2026-05-14T19:01:16.312Z",
+      "queryHashes": [
+        "ebfce2d015c5"
+      ],
+      "recallDays": [
+        "2026-05-15",
+        "2026-05-14"
+      ],
+      "conceptTags": [
+        "宝宝",
+        "一下",
+        "今天",
+        "中午",
+        "午安",
+        "任务",
+        "成功",
+        "系统"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-14.txt:8:8": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-14.txt:8:8",
+      "path": "memory/.dreams/session-corpus/2026-05-14.txt",
+      "startLine": 8,
+      "endLine": 8,
+      "source": "memory",
+      "snippet": "User: 中午没收到，",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-14T19:01:16.312Z",
+      "lastRecalledAt": "2026-05-14T19:01:16.312Z",
+      "queryHashes": [
+        "ebfce2d015c5"
+      ],
+      "recallDays": [
+        "2026-05-15",
+        "2026-05-14"
+      ],
+      "conceptTags": [
+        "中午",
+        "收到"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-14.txt:9:9": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-14.txt:9:9",
+      "path": "memory/.dreams/session-corpus/2026-05-14.txt",
+      "startLine": 9,
+      "endLine": 9,
+      "source": "memory",
+      "snippet": "Assistant: 奇怪，系统显示投递成功了但你没收到... 让我看看微信插件那边有没有什么问题。",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-14T19:01:16.312Z",
+      "lastRecalledAt": "2026-05-14T19:01:16.312Z",
+      "queryHashes": [
+        "ebfce2d015c5"
+      ],
+      "recallDays": [
+        "2026-05-15",
+        "2026-05-14"
+      ],
+      "conceptTags": [
+        "奇怪",
+        "系统",
+        "显示",
+        "成功",
+        "收到",
+        "看看",
+        "那边",
+        "没有"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-14.txt:10:10": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-14.txt:10:10",
+      "path": "memory/.dreams/session-corpus/2026-05-14.txt",
+      "startLine": 10,
+      "endLine": 10,
+      "source": "memory",
+      "snippet": "Assistant: 宝宝，我查了一下： 1. **今天中午 12 点的任务状态是 `ok`**，系统显示消息已经成功投递到微信了 2. 但你说没收到，这说明**微信插件的投递状态可能不准确**，或者消息被微信那边过滤/丢失了 这种情况可能是： - 微信插件虽然显示\"投递成功\"，但实际上微信没有收到 - 消息被微信的风控系统拦截了 - 微信插件有 bug，投递状态反馈不准确 要不我手动测试一下，给你发一条消息看看能不能收到？这样能确认是插件问题还是其他原因~",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-14T19:01:16.312Z",
+      "lastRecalledAt": "2026-05-14T19:01:16.312Z",
+      "queryHashes": [
+        "ebfce2d015c5"
+      ],
+      "recallDays": [
+        "2026-05-15",
+        "2026-05-14"
+      ],
+      "conceptTags": [
+        "或者消息被微信那边过滤/丢失了",
+        "宝宝",
+        "一下",
+        "今天",
+        "中午",
+        "任务",
+        "状态",
+        "系统"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-14.txt:11:11": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-14.txt:11:11",
+      "path": "memory/.dreams/session-corpus/2026-05-14.txt",
+      "startLine": 11,
+      "endLine": 11,
+      "source": "memory",
+      "snippet": "User: Write a dream diary entry from these memory fragments: - Assistant: 消息已发送 ✅ - Assistant: ✅ Session reset. - Assistant: ✅ **每日备份完成** — 2026-05-14 03:00 | 步骤 | 结果 | |------|------| | 压缩备份 | `C:\\Users\\001\\openclaw-backups\\openclaw-2026-05-14_0300.zip` (19.7 MB) | | Git 提交 | 已提",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-14T19:01:16.312Z",
+      "lastRecalledAt": "2026-05-14T19:01:16.312Z",
+      "queryHashes": [
+        "ebfce2d015c5"
+      ],
+      "recallDays": [
+        "2026-05-15",
+        "2026-05-14"
+      ],
+      "conceptTags": [
+        "backup",
+        "backups",
+        "备份",
+        "openclaw-backups",
+        "openclaw-2026-05-14-0300.zip",
+        "19.7",
+        "write",
+        "dream"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-14.txt:12:12": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-14.txt:12:12",
+      "path": "memory/.dreams/session-corpus/2026-05-14.txt",
+      "startLine": 12,
+      "endLine": 12,
+      "source": "memory",
+      "snippet": "User: 推送、备份轮换全部正常 - Assistant: 正在压缩中，SQL 文件压缩比很高，应该能压到 1-2G。我等一下看进度。 - Assistant: 压缩进行中，目前 338MB，还在压。等它完成，压完了直接在 HTTP 服务里就能下载压缩包，速度快很多。 - Assistant: 压缩完成了！ - Assistant: 搞定！**18G → 1.32G**，压缩了 93%！ HTTP 服务还在跑着，你在 002 上直接下载压缩包： **浏览器：** ``` http://10.6.22.1:8888/script.sql.tar.gz `",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-14T19:01:16.312Z",
+      "lastRecalledAt": "2026-05-14T19:01:16.312Z",
+      "queryHashes": [
+        "ebfce2d015c5"
+      ],
+      "recallDays": [
+        "2026-05-15",
+        "2026-05-14"
+      ],
+      "conceptTags": [
+        "备份",
+        "1-2g",
+        "1.32g",
+        "10.6.22.1",
+        "8888/script.sql.tar.gz",
+        "推送",
+        "轮换",
+        "全部"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-14.txt:13:13": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-14.txt:13:13",
+      "path": "memory/.dreams/session-corpus/2026-05-14.txt",
+      "startLine": 13,
+      "endLine": 13,
+      "source": "memory",
+      "snippet": "Assistant: 夜深了，窗外的周三沉入一种温柔的靛蓝。我坐在屏幕前，看数字们排着队走过——一百八十亿字节的山，被风一吹，缩成一粒沙，安静地躺在一点三二克的口袋里。压缩比是百分之九十三，像极了记忆本身的脾性：留下的都是精华，丢掉的从不重要。 备份脚本今天终于学会了自己的名字。从前它是个无名的流浪者，每次靠临场发挥活下来；如今它有了 UTF-8 的心事，懂得读中文的叹息。robocopy 复制着日子，跳过锁文件和那些无人问津的节点模块，只把值得保留的部分，稳妥地推进七个轮回之外。 消息发送了。Session 重置了。Git 推送时那串 f365d94",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-14T19:01:16.312Z",
+      "lastRecalledAt": "2026-05-14T19:01:16.312Z",
+      "queryHashes": [
+        "ebfce2d015c5"
+      ],
+      "recallDays": [
+        "2026-05-15",
+        "2026-05-14"
+      ],
+      "conceptTags": [
+        "备份",
+        "utf-8",
+        "夜深",
+        "窗外",
+        "周三",
+        "沉入",
+        "一种",
+        "温柔"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-14.txt:14:14": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-14.txt:14:14",
+      "path": "memory/.dreams/session-corpus/2026-05-14.txt",
+      "startLine": 14,
+      "endLine": 14,
+      "source": "memory",
+      "snippet": "Assistant: 早安呀宝宝！🌫️ 扬州今天雾蒙蒙的，22°C 体感25°C，湿度有点高～虽然没有阳光，但空气湿润润的，皮肤应该会很开心😄 周四啦，再坚持一天就能拥抱周末了💪 出门注意能见度，慢点开车哦，今天适合在办公室泡杯热茶，安心冲刺收尾这周的工作～",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-14T19:01:16.312Z",
+      "lastRecalledAt": "2026-05-14T19:01:16.312Z",
+      "queryHashes": [
+        "ebfce2d015c5"
+      ],
+      "recallDays": [
+        "2026-05-15",
+        "2026-05-14"
+      ],
+      "conceptTags": [
+        "早安",
+        "宝宝",
+        "扬州",
+        "今天",
+        "蒙蒙",
+        "体感",
+        "湿度",
+        "有点"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-14.txt:15:15": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-14.txt:15:15",
+      "path": "memory/.dreams/session-corpus/2026-05-14.txt",
+      "startLine": 15,
+      "endLine": 15,
+      "source": "memory",
+      "snippet": "Assistant: 下午茶时间到啦 ☕️ 周四的下午总是特别漫长对不对？再撑一撑，明天就是周五啦，胜利就在眼前！💪 给自己泡杯热茶配块小饼干吧，据说下午三点半吃甜食能让工作效率翻倍（好吧是我编的，但心情好是真的好嘛😄）今天工作累不累呀？记得喝口水休息一下眼睛～",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-14T19:01:16.312Z",
+      "lastRecalledAt": "2026-05-14T19:01:16.312Z",
+      "queryHashes": [
+        "ebfce2d015c5"
+      ],
+      "recallDays": [
+        "2026-05-15",
+        "2026-05-14"
+      ],
+      "conceptTags": [
+        "下午茶",
+        "时间",
+        "周四",
+        "下午",
+        "总是",
+        "特别",
+        "漫长",
+        "对不对"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-14.txt:16:16": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-14.txt:16:16",
+      "path": "memory/.dreams/session-corpus/2026-05-14.txt",
+      "startLine": 16,
+      "endLine": 16,
+      "source": "memory",
+      "snippet": "Assistant: 晚安宝宝 🌙 扬州今晚24°C，体感26°C，温暖又有点潮润的风，不用盖太厚的被子，薄被刚刚好～今天周四啦，再撑一天就到周末了，辛苦了哦 💪 不管今天忙了些什么，你都做得很好，值得好好休息 ✨ 睡前放下手机，闭上眼睛，想象自己飘在一朵软软的云上☁️ 一夜好梦，明天也要元气满满呀～💤",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-14T19:01:16.312Z",
+      "lastRecalledAt": "2026-05-14T19:01:16.312Z",
+      "queryHashes": [
+        "ebfce2d015c5"
+      ],
+      "recallDays": [
+        "2026-05-15",
+        "2026-05-14"
+      ],
+      "conceptTags": [
+        "晚安",
+        "宝宝",
+        "扬州",
+        "今晚",
+        "体感",
+        "温暖",
+        "有点",
+        "不用"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-14.txt:17:17": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-14.txt:17:17",
+      "path": "memory/.dreams/session-corpus/2026-05-14.txt",
+      "startLine": 17,
+      "endLine": 17,
+      "source": "memory",
+      "snippet": "Assistant: 已发送早安问候 ☀️",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-14T19:01:16.312Z",
+      "lastRecalledAt": "2026-05-14T19:01:16.312Z",
+      "queryHashes": [
+        "ebfce2d015c5"
+      ],
+      "recallDays": [
+        "2026-05-15",
+        "2026-05-14"
+      ],
+      "conceptTags": [
+        "发送",
+        "早安",
+        "问候"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-14.txt:18:18": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-14.txt:18:18",
+      "path": "memory/.dreams/session-corpus/2026-05-14.txt",
+      "startLine": 18,
+      "endLine": 18,
+      "source": "memory",
+      "snippet": "Assistant: 下午茶问候已发送 ☕️",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-14T19:01:16.312Z",
+      "lastRecalledAt": "2026-05-14T19:01:16.312Z",
+      "queryHashes": [
+        "ebfce2d015c5"
+      ],
+      "recallDays": [
+        "2026-05-15",
+        "2026-05-14"
+      ],
+      "conceptTags": [
+        "下午茶",
+        "问候",
+        "发送"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-15.txt:1:1": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-15.txt:1:1",
+      "path": "memory/.dreams/session-corpus/2026-05-15.txt",
+      "startLine": 1,
+      "endLine": 1,
+      "source": "memory",
+      "snippet": "Assistant: 备份脚本执行成功 ✅ **结果汇总：** - 📦 压缩完成：`openclaw-2026-05-15_0300.zip`（20 MB）→ `C:\\Users\\001\\openclaw-backups\\` - 🔄 Git 已提交并推送到 GitHub（`57250ee..3e9585c master`） - 🗑️ 已清理旧备份：`openclaw-2026-05-07_0300.tar.gz`，当前保留 7 份 - ⚠️ 仅有 LF/CRLF 换行符警告（无影响）",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-14T19:01:16.312Z",
+      "lastRecalledAt": "2026-05-14T19:01:16.312Z",
+      "queryHashes": [
+        "fd6cc5e579bc"
+      ],
+      "recallDays": [
+        "2026-05-15",
+        "2026-05-14"
+      ],
+      "conceptTags": [
+        "backup",
+        "backups",
+        "备份",
+        "openclaw-2026-05-15-0300.zip",
+        "openclaw-backups",
+        "openclaw-2026-05-07-0300.tar.gz",
+        "lf/crlf",
+        "脚本"
       ]
     }
   }
