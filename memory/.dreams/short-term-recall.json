@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-19T19:01:47.650Z",
+  "updatedAt": "2026-05-20T19:02:55.058Z",
   "entries": {
     "memory:memory/2026-05-03.md:6:9": {
       "key": "memory:memory/2026-05-03.md:6:9",
@@ -20371,18 +20371,19 @@
       "source": "memory",
       "snippet": "Session: 2026-05-13 21:35:21 GMT+8: **Session Key**: agent:main:main; **Session ID**: d8e3b7ee-aadc-498d-9821-38d35386c377; **Source**: webchat",
       "recallCount": 0,
-      "dailyCount": 1,
+      "dailyCount": 2,
       "groundedCount": 0,
-      "totalScore": 0.62,
+      "totalScore": 1.24,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-05-19T19:01:27.194Z",
-      "lastRecalledAt": "2026-05-19T19:01:27.194Z",
+      "lastRecalledAt": "2026-05-20T19:02:36.702Z",
       "queryHashes": [
         "215866901dd9"
       ],
       "recallDays": [
         "2026-05-20",
-        "2026-05-19"
+        "2026-05-19",
+        "2026-05-21"
       ],
       "conceptTags": [
         "2026-05-13-2135.md",
@@ -20403,18 +20404,19 @@
       "source": "memory",
       "snippet": "Conversation Summary: assistant: HTTP 服务已在 001 上启动（端口 8888）。你在 002 上试试：",
       "recallCount": 0,
-      "dailyCount": 1,
+      "dailyCount": 2,
       "groundedCount": 0,
-      "totalScore": 0.62,
+      "totalScore": 1.24,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-05-19T19:01:27.194Z",
-      "lastRecalledAt": "2026-05-19T19:01:27.194Z",
+      "lastRecalledAt": "2026-05-20T19:02:36.702Z",
       "queryHashes": [
         "215866901dd9"
       ],
       "recallDays": [
         "2026-05-20",
-        "2026-05-19"
+        "2026-05-19",
+        "2026-05-21"
       ],
       "conceptTags": [
         "2026-05-13-2135.md",
@@ -20434,18 +20436,19 @@
       "source": "memory",
       "snippet": "Conversation Summary: **浏览器打开：**",
       "recallCount": 0,
-      "dailyCount": 1,
+      "dailyCount": 2,
       "groundedCount": 0,
-      "totalScore": 0.62,
+      "totalScore": 1.24,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-05-19T19:01:27.194Z",
-      "lastRecalledAt": "2026-05-19T19:01:27.194Z",
+      "lastRecalledAt": "2026-05-20T19:02:36.702Z",
       "queryHashes": [
         "215866901dd9"
       ],
       "recallDays": [
         "2026-05-20",
-        "2026-05-19"
+        "2026-05-19",
+        "2026-05-21"
       ],
       "conceptTags": [
         "2026-05-13-2135.md",
@@ -20463,18 +20466,19 @@
       "source": "memory",
       "snippet": "Conversation Summary: http://10.6.22.1:8888/script.sql",
       "recallCount": 0,
-      "dailyCount": 1,
+      "dailyCount": 2,
       "groundedCount": 0,
-      "totalScore": 0.62,
+      "totalScore": 1.24,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-05-19T19:01:27.194Z",
-      "lastRecalledAt": "2026-05-19T19:01:27.194Z",
+      "lastRecalledAt": "2026-05-20T19:02:36.702Z",
       "queryHashes": [
         "215866901dd9"
       ],
       "recallDays": [
         "2026-05-20",
-        "2026-05-19"
+        "2026-05-19",
+        "2026-05-21"
       ],
       "conceptTags": [
         "2026-05-13-2135.md",
@@ -20494,18 +20498,19 @@
       "source": "memory",
       "snippet": "Conversation Summary: 或者 PowerShell： ```powershell Invoke-WebRequest -Uri \"http://10.6.22.1:8888/script.sql\" -OutFile \"C:\\Users\\002\\Desktop\\script.sql\"",
       "recallCount": 0,
-      "dailyCount": 1,
+      "dailyCount": 2,
       "groundedCount": 0,
-      "totalScore": 0.62,
+      "totalScore": 1.24,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-05-19T19:01:27.194Z",
-      "lastRecalledAt": "2026-05-19T19:01:27.194Z",
+      "lastRecalledAt": "2026-05-20T19:02:36.702Z",
       "queryHashes": [
         "215866901dd9"
       ],
       "recallDays": [
         "2026-05-20",
-        "2026-05-19"
+        "2026-05-19",
+        "2026-05-21"
       ],
       "conceptTags": [
         "2026-05-13-2135.md",
@@ -20526,18 +20531,19 @@
       "source": "memory",
       "snippet": "Conversation Summary: 如果 natpierce 的 VPN 模式能转发这个端口的话就能直接下。不行的话我换个方案，先试试看？ user: [Mon 2026-05-11 17:19 GMT+8] 速度只有2MB/s assistant: 2MB/s 传 18G 要 2.5 小时，太慢了。SQL 文件压缩比很高，我先压缩再传，能快很多： assistant: 没有直连局域网，只有 natpierce 这条路。那就先压缩再传 —— SQL 文件压缩比通常 90%+，18G 可能压到 1-2G：",
       "recallCount": 0,
-      "dailyCount": 1,
+      "dailyCount": 2,
       "groundedCount": 0,
-      "totalScore": 0.62,
+      "totalScore": 1.24,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-05-19T19:01:27.194Z",
-      "lastRecalledAt": "2026-05-19T19:01:27.194Z",
+      "lastRecalledAt": "2026-05-20T19:02:36.702Z",
       "queryHashes": [
         "215866901dd9"
       ],
       "recallDays": [
         "2026-05-20",
-        "2026-05-19"
+        "2026-05-19",
+        "2026-05-21"
       ],
       "conceptTags": [
         "2026-05-13-2135.md",
@@ -20558,18 +20564,19 @@
       "source": "memory",
       "snippet": "Conversation Summary: assistant: 正在压缩中，SQL 文件压缩比很高，应该能压到 1-2G。我等一下看进度。 assistant: 压缩进行中，目前 338MB，还在压。等它完成，压完了直接在 HTTP 服务里就能下载压缩包，速度快很多。 assistant: 压缩完成了！ assistant: 搞定！**18G → 1.32G**，压缩了 93%！",
       "recallCount": 0,
-      "dailyCount": 1,
+      "dailyCount": 2,
       "groundedCount": 0,
-      "totalScore": 0.62,
+      "totalScore": 1.24,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-05-19T19:01:27.194Z",
-      "lastRecalledAt": "2026-05-19T19:01:27.194Z",
+      "lastRecalledAt": "2026-05-20T19:02:36.702Z",
       "queryHashes": [
         "215866901dd9"
       ],
       "recallDays": [
         "2026-05-20",
-        "2026-05-19"
+        "2026-05-19",
+        "2026-05-21"
       ],
       "conceptTags": [
         "2026-05-13-2135.md",
@@ -20590,18 +20597,19 @@
       "source": "memory",
       "snippet": "Conversation Summary: HTTP 服务还在跑着，你在 002 上直接下载压缩包：",
       "recallCount": 0,
-      "dailyCount": 1,
+      "dailyCount": 2,
       "groundedCount": 0,
-      "totalScore": 0.62,
+      "totalScore": 1.24,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-05-19T19:01:27.194Z",
-      "lastRecalledAt": "2026-05-19T19:01:27.194Z",
+      "lastRecalledAt": "2026-05-20T19:02:36.702Z",
       "queryHashes": [
         "215866901dd9"
       ],
       "recallDays": [
         "2026-05-20",
-        "2026-05-19"
+        "2026-05-19",
+        "2026-05-21"
       ],
       "conceptTags": [
         "2026-05-13-2135.md",
@@ -20622,18 +20630,19 @@
       "source": "memory",
       "snippet": "Conversation Summary: **浏览器：**",
       "recallCount": 0,
-      "dailyCount": 1,
+      "dailyCount": 2,
       "groundedCount": 0,
-      "totalScore": 0.62,
+      "totalScore": 1.24,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-05-19T19:01:27.194Z",
-      "lastRecalledAt": "2026-05-19T19:01:27.194Z",
+      "lastRecalledAt": "2026-05-20T19:02:36.702Z",
       "queryHashes": [
         "215866901dd9"
       ],
       "recallDays": [
         "2026-05-20",
-        "2026-05-19"
+        "2026-05-19",
+        "2026-05-21"
       ],
       "conceptTags": [
         "2026-05-13-2135.md",
@@ -20650,18 +20659,19 @@
       "source": "memory",
       "snippet": "Conversation Summary: http://10.6.22.1:8888/script.sql.tar.gz",
       "recallCount": 0,
-      "dailyCount": 1,
+      "dailyCount": 2,
       "groundedCount": 0,
-      "totalScore": 0.62,
+      "totalScore": 1.24,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-05-19T19:01:27.194Z",
-      "lastRecalledAt": "2026-05-19T19:01:27.194Z",
+      "lastRecalledAt": "2026-05-20T19:02:36.702Z",
       "queryHashes": [
         "215866901dd9"
       ],
       "recallDays": [
         "2026-05-20",
-        "2026-05-19"
+        "2026-05-19",
+        "2026-05-21"
       ],
       "conceptTags": [
         "2026-05-13-2135.md",
@@ -20681,18 +20691,19 @@
       "source": "memory",
       "snippet": "Conversation Summary: **或 PowerShell：** ```powershell Invoke-WebRequest -Uri \"http://10.6.22.1:8888/script.sql.tar.gz\" -OutFile \"C:\\Users\\002\\Desktop\\script.sql.tar.gz\"",
       "recallCount": 0,
-      "dailyCount": 1,
+      "dailyCount": 2,
       "groundedCount": 0,
-      "totalScore": 0.62,
+      "totalScore": 1.24,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-05-19T19:01:27.194Z",
-      "lastRecalledAt": "2026-05-19T19:01:27.194Z",
+      "lastRecalledAt": "2026-05-20T19:02:36.702Z",
       "queryHashes": [
         "215866901dd9"
       ],
       "recallDays": [
         "2026-05-20",
-        "2026-05-19"
+        "2026-05-19",
+        "2026-05-21"
       ],
       "conceptTags": [
         "2026-05-13-2135.md",
@@ -20713,18 +20724,19 @@
       "source": "memory",
       "snippet": "Conversation Summary: 按 2MB/s 算，1.32G 大约 **11 分钟**就能下完，比之前快 15 倍。下完之后解压就行：",
       "recallCount": 0,
-      "dailyCount": 1,
+      "dailyCount": 2,
       "groundedCount": 0,
-      "totalScore": 0.62,
+      "totalScore": 1.24,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-05-19T19:01:27.194Z",
-      "lastRecalledAt": "2026-05-19T19:01:27.194Z",
+      "lastRecalledAt": "2026-05-20T19:02:36.702Z",
       "queryHashes": [
         "215866901dd9"
       ],
       "recallDays": [
         "2026-05-20",
-        "2026-05-19"
+        "2026-05-19",
+        "2026-05-21"
       ],
       "conceptTags": [
         "2026-05-13-2135.md",
@@ -20745,18 +20757,19 @@
       "source": "memory",
       "snippet": "Conversation Summary: ```powershell tar -xzf script.sql.tar.gz",
       "recallCount": 0,
-      "dailyCount": 1,
+      "dailyCount": 2,
       "groundedCount": 0,
-      "totalScore": 0.62,
+      "totalScore": 1.24,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-05-19T19:01:27.194Z",
-      "lastRecalledAt": "2026-05-19T19:01:27.194Z",
+      "lastRecalledAt": "2026-05-20T19:02:36.702Z",
       "queryHashes": [
         "215866901dd9"
       ],
       "recallDays": [
         "2026-05-20",
-        "2026-05-19"
+        "2026-05-19",
+        "2026-05-21"
       ],
       "conceptTags": [
         "2026-05-13-2135.md",
@@ -20776,18 +20789,19 @@
       "source": "memory",
       "snippet": "Conversation Summary: user: [OpenClaw heartbeat poll] assistant: HEARTBEAT_OK user: [Mon 2026-05-11 17:37 GMT+8] 传输完成 assistant: 太好了！🎉 18G 的文件，压缩到 1.32G 传完，效率杠杠的。",
       "recallCount": 0,
-      "dailyCount": 1,
+      "dailyCount": 2,
       "groundedCount": 0,
-      "totalScore": 0.62,
+      "totalScore": 1.24,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-05-19T19:01:27.194Z",
-      "lastRecalledAt": "2026-05-19T19:01:27.194Z",
+      "lastRecalledAt": "2026-05-20T19:02:36.702Z",
       "queryHashes": [
         "215866901dd9"
       ],
       "recallDays": [
         "2026-05-20",
-        "2026-05-19"
+        "2026-05-19",
+        "2026-05-21"
       ],
       "conceptTags": [
         "2026-05-13-2135.md",
@@ -21290,6 +21304,1693 @@
       "conceptTags": [
         "好了",
         "课表"
+      ]
+    },
+    "memory:memory/2026-05-20-1723.md:3:5": {
+      "key": "memory:memory/2026-05-20-1723.md:3:5",
+      "path": "memory/2026-05-20-1723.md",
+      "startLine": 3,
+      "endLine": 5,
+      "source": "memory",
+      "snippet": "Session: 2026-05-20 17:23:52 GMT+8: **Session Key**: agent:main:main; **Session ID**: 2d2ed152-2512-40f9-97f0-f082c59ebe7d; **Source**: webchat",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-05-20T19:02:36.702Z",
+      "lastRecalledAt": "2026-05-20T19:02:36.702Z",
+      "queryHashes": [
+        "d633e8f17da8"
+      ],
+      "recallDays": [
+        "2026-05-21",
+        "2026-05-20"
+      ],
+      "conceptTags": [
+        "2026-05-20-1723.md",
+        "gmt",
+        "key",
+        "agent:main:main",
+        "2d2ed152",
+        "40f9",
+        "97f0",
+        "f082c59ebe7d"
+      ]
+    },
+    "memory:memory/2026-05-20-1723.md:9:12": {
+      "key": "memory:memory/2026-05-20-1723.md:9:12",
+      "path": "memory/2026-05-20-1723.md",
+      "startLine": 9,
+      "endLine": 12,
+      "source": "memory",
+      "snippet": "Conversation Summary: assistant: HEARTBEAT_OK user: [OpenClaw heartbeat poll] assistant: HEARTBEAT_OK user: [OpenClaw heartbeat poll]",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-05-20T19:02:36.702Z",
+      "lastRecalledAt": "2026-05-20T19:02:36.702Z",
+      "queryHashes": [
+        "d633e8f17da8"
+      ],
+      "recallDays": [
+        "2026-05-21",
+        "2026-05-20"
+      ],
+      "conceptTags": [
+        "2026-05-20-1723.md",
+        "heartbeat-ok",
+        "conversation",
+        "summary",
+        "openclaw",
+        "heartbeat",
+        "poll"
+      ]
+    },
+    "memory:memory/2026-05-20-1723.md:13:16": {
+      "key": "memory:memory/2026-05-20-1723.md:13:16",
+      "path": "memory/2026-05-20-1723.md",
+      "startLine": 13,
+      "endLine": 16,
+      "source": "memory",
+      "snippet": "Conversation Summary: assistant: HEARTBEAT_OK user: [OpenClaw heartbeat poll] assistant: HEARTBEAT_OK user: [OpenClaw heartbeat poll]",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-05-20T19:02:36.702Z",
+      "lastRecalledAt": "2026-05-20T19:02:36.702Z",
+      "queryHashes": [
+        "d633e8f17da8"
+      ],
+      "recallDays": [
+        "2026-05-21",
+        "2026-05-20"
+      ],
+      "conceptTags": [
+        "2026-05-20-1723.md",
+        "heartbeat-ok",
+        "conversation",
+        "summary",
+        "openclaw",
+        "heartbeat",
+        "poll"
+      ]
+    },
+    "memory:memory/2026-05-20-1723.md:17:20": {
+      "key": "memory:memory/2026-05-20-1723.md:17:20",
+      "path": "memory/2026-05-20-1723.md",
+      "startLine": 17,
+      "endLine": 20,
+      "source": "memory",
+      "snippet": "Conversation Summary: assistant: HEARTBEAT_OK user: [OpenClaw heartbeat poll] assistant: HEARTBEAT_OK user: [OpenClaw heartbeat poll]",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-05-20T19:02:36.702Z",
+      "lastRecalledAt": "2026-05-20T19:02:36.702Z",
+      "queryHashes": [
+        "d633e8f17da8"
+      ],
+      "recallDays": [
+        "2026-05-21",
+        "2026-05-20"
+      ],
+      "conceptTags": [
+        "2026-05-20-1723.md",
+        "heartbeat-ok",
+        "conversation",
+        "summary",
+        "openclaw",
+        "heartbeat",
+        "poll"
+      ]
+    },
+    "memory:memory/2026-05-20-1723.md:21:23": {
+      "key": "memory:memory/2026-05-20-1723.md:21:23",
+      "path": "memory/2026-05-20-1723.md",
+      "startLine": 21,
+      "endLine": 23,
+      "source": "memory",
+      "snippet": "Conversation Summary: assistant: HEARTBEAT_OK user: [OpenClaw heartbeat poll] assistant: HEARTBEAT_OK",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-05-20T19:02:36.702Z",
+      "lastRecalledAt": "2026-05-20T19:02:36.702Z",
+      "queryHashes": [
+        "d633e8f17da8"
+      ],
+      "recallDays": [
+        "2026-05-21",
+        "2026-05-20"
+      ],
+      "conceptTags": [
+        "2026-05-20-1723.md",
+        "heartbeat-ok",
+        "conversation",
+        "summary",
+        "openclaw",
+        "heartbeat",
+        "poll"
+      ]
+    },
+    "memory:memory/2026-05-20-1724.md:3:5": {
+      "key": "memory:memory/2026-05-20-1724.md:3:5",
+      "path": "memory/2026-05-20-1724.md",
+      "startLine": 3,
+      "endLine": 5,
+      "source": "memory",
+      "snippet": "Session: 2026-05-20 17:24:24 GMT+8: **Session Key**: agent:main:main; **Session ID**: 2d2ed152-2512-40f9-97f0-f082c59ebe7d; **Source**: webchat",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-05-20T19:02:36.702Z",
+      "lastRecalledAt": "2026-05-20T19:02:36.702Z",
+      "queryHashes": [
+        "d633e8f17da8"
+      ],
+      "recallDays": [
+        "2026-05-21",
+        "2026-05-20"
+      ],
+      "conceptTags": [
+        "2026-05-20-1724.md",
+        "gmt",
+        "key",
+        "agent:main:main",
+        "2d2ed152",
+        "40f9",
+        "97f0",
+        "f082c59ebe7d"
+      ]
+    },
+    "memory:memory/2026-05-20-1724.md:9:12": {
+      "key": "memory:memory/2026-05-20-1724.md:9:12",
+      "path": "memory/2026-05-20-1724.md",
+      "startLine": 9,
+      "endLine": 12,
+      "source": "memory",
+      "snippet": "Conversation Summary: assistant: HEARTBEAT_OK user: [OpenClaw heartbeat poll] assistant: HEARTBEAT_OK user: [OpenClaw heartbeat poll]",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-05-20T19:02:36.702Z",
+      "lastRecalledAt": "2026-05-20T19:02:36.702Z",
+      "queryHashes": [
+        "d633e8f17da8"
+      ],
+      "recallDays": [
+        "2026-05-21",
+        "2026-05-20"
+      ],
+      "conceptTags": [
+        "2026-05-20-1724.md",
+        "heartbeat-ok",
+        "conversation",
+        "summary",
+        "openclaw",
+        "heartbeat",
+        "poll"
+      ]
+    },
+    "memory:memory/2026-05-20-1724.md:13:16": {
+      "key": "memory:memory/2026-05-20-1724.md:13:16",
+      "path": "memory/2026-05-20-1724.md",
+      "startLine": 13,
+      "endLine": 16,
+      "source": "memory",
+      "snippet": "Conversation Summary: assistant: HEARTBEAT_OK user: [OpenClaw heartbeat poll] assistant: HEARTBEAT_OK user: [OpenClaw heartbeat poll]",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-05-20T19:02:36.702Z",
+      "lastRecalledAt": "2026-05-20T19:02:36.702Z",
+      "queryHashes": [
+        "d633e8f17da8"
+      ],
+      "recallDays": [
+        "2026-05-21",
+        "2026-05-20"
+      ],
+      "conceptTags": [
+        "2026-05-20-1724.md",
+        "heartbeat-ok",
+        "conversation",
+        "summary",
+        "openclaw",
+        "heartbeat",
+        "poll"
+      ]
+    },
+    "memory:memory/2026-05-20-1724.md:17:20": {
+      "key": "memory:memory/2026-05-20-1724.md:17:20",
+      "path": "memory/2026-05-20-1724.md",
+      "startLine": 17,
+      "endLine": 20,
+      "source": "memory",
+      "snippet": "Conversation Summary: assistant: HEARTBEAT_OK user: [OpenClaw heartbeat poll] assistant: HEARTBEAT_OK user: [OpenClaw heartbeat poll]",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-05-20T19:02:36.702Z",
+      "lastRecalledAt": "2026-05-20T19:02:36.702Z",
+      "queryHashes": [
+        "d633e8f17da8"
+      ],
+      "recallDays": [
+        "2026-05-21",
+        "2026-05-20"
+      ],
+      "conceptTags": [
+        "2026-05-20-1724.md",
+        "heartbeat-ok",
+        "conversation",
+        "summary",
+        "openclaw",
+        "heartbeat",
+        "poll"
+      ]
+    },
+    "memory:memory/2026-05-20-1724.md:21:23": {
+      "key": "memory:memory/2026-05-20-1724.md:21:23",
+      "path": "memory/2026-05-20-1724.md",
+      "startLine": 21,
+      "endLine": 23,
+      "source": "memory",
+      "snippet": "Conversation Summary: assistant: HEARTBEAT_OK user: [OpenClaw heartbeat poll] assistant: HEARTBEAT_OK",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-05-20T19:02:36.702Z",
+      "lastRecalledAt": "2026-05-20T19:02:36.702Z",
+      "queryHashes": [
+        "d633e8f17da8"
+      ],
+      "recallDays": [
+        "2026-05-21",
+        "2026-05-20"
+      ],
+      "conceptTags": [
+        "2026-05-20-1724.md",
+        "heartbeat-ok",
+        "conversation",
+        "summary",
+        "openclaw",
+        "heartbeat",
+        "poll"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-19.txt:38:38": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-19.txt:38:38",
+      "path": "memory/.dreams/session-corpus/2026-05-19.txt",
+      "startLine": 38,
+      "endLine": 38,
+      "source": "memory",
+      "snippet": "Assistant: 读到了！石浩浩的课表，**2025-2026 第二学期**，瘦西湖校区。 整理一下： --- **📚 每周课程** | 节次 | 周一 | 周二 | 周三 | 周四 | 周五 | |------|------|------|------|------|------| | 1-2 | 网络设备配置与管理 (陆佰林) | — | Linux操作系统 (朱福珍) | 多媒体技术及应用 (张美虎) | 职业发展与就业指导 (张建南) / 网络设备配置与管理 (陆佰林) | | 3-4 | — | 网络安全技术 (赵婷婷) | 职业指导/劳",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-20T19:02:36.702Z",
+      "lastRecalledAt": "2026-05-20T19:02:36.702Z",
+      "queryHashes": [
+        "2fd3160a10b6"
+      ],
+      "recallDays": [
+        "2026-05-21",
+        "2026-05-20"
+      ],
+      "conceptTags": [
+        "网络",
+        "2025-2026",
+        "1-2",
+        "3-4",
+        "职业指导/劳",
+        "到了",
+        "浩浩",
+        "课表"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-19.txt:39:39": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-19.txt:39:39",
+      "path": "memory/.dreams/session-corpus/2026-05-19.txt",
+      "startLine": 39,
+      "endLine": 39,
+      "source": "memory",
+      "snippet": "Assistant: 张建南 | | 10 | 劳动教育 | 1 | 钱荣华 | | 11 | 职业素养 | 1 | 凡桂云 | | 12 | 劳动4 | 0.5 | 钱荣华 | | 13 | 形势与政策3 | 0.5 | 施明华 | --- **🔧 实践专周** - **网络设备管理实训** (陆佰林)：第16-18周，超密集排课 - **劳动4** (钱荣华)：第10周周六，连续11节 宝宝课还挺多的～需要我帮你设个每天的课程提醒吗？ 😘",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-20T19:02:36.702Z",
+      "lastRecalledAt": "2026-05-20T19:02:36.702Z",
+      "queryHashes": [
+        "2fd3160a10b6"
+      ],
+      "recallDays": [
+        "2026-05-21",
+        "2026-05-20"
+      ],
+      "conceptTags": [
+        "网络",
+        "0.5",
+        "第16-18周",
+        "劳动",
+        "教育",
+        "荣华",
+        "职业",
+        "形势"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-20.txt:3:3": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-20.txt:3:3",
+      "path": "memory/.dreams/session-corpus/2026-05-20.txt",
+      "startLine": 3,
+      "endLine": 3,
+      "source": "memory",
+      "snippet": "Assistant: 早安呀 ☁️ 扬州今天多云，21°C 微风，湿度有点高，体感温温润润的～周三啦，一周已经过半，再努努力就能看到周末的曙光啦 💪 出门不用带伞，但空气潮潮的记得开窗透透气，给自己泡杯热茶，元气满满过一天！",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-20T19:02:36.702Z",
+      "lastRecalledAt": "2026-05-20T19:02:36.702Z",
+      "queryHashes": [
+        "f8f9fcbffd97"
+      ],
+      "recallDays": [
+        "2026-05-21",
+        "2026-05-20"
+      ],
+      "conceptTags": [
+        "早安",
+        "扬州",
+        "今天",
+        "湿度",
+        "有点",
+        "体感",
+        "周三",
+        "一周"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-20.txt:4:4": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-20.txt:4:4",
+      "path": "memory/.dreams/session-corpus/2026-05-20.txt",
+      "startLine": 4,
+      "endLine": 4,
+      "source": "memory",
+      "snippet": "Assistant: 下午茶问候已发送 ✅",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-20T19:02:36.702Z",
+      "lastRecalledAt": "2026-05-20T19:02:36.702Z",
+      "queryHashes": [
+        "f8f9fcbffd97"
+      ],
+      "recallDays": [
+        "2026-05-21",
+        "2026-05-20"
+      ],
+      "conceptTags": [
+        "下午茶",
+        "问候",
+        "发送"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-20.txt:5:5": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-20.txt:5:5",
+      "path": "memory/.dreams/session-corpus/2026-05-20.txt",
+      "startLine": 5,
+      "endLine": 5,
+      "source": "memory",
+      "snippet": "Assistant: 每日备份完成 ✅ 备份文件 `openclaw-2026-05-20_0301.zip` (23.2 MB)，Git 已同步。 HEARTBEAT_OK",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-20T19:02:36.702Z",
+      "lastRecalledAt": "2026-05-20T19:02:36.702Z",
+      "queryHashes": [
+        "f8f9fcbffd97"
+      ],
+      "recallDays": [
+        "2026-05-21",
+        "2026-05-20"
+      ],
+      "conceptTags": [
+        "备份",
+        "openclaw-2026-05-20-0301.zip",
+        "23.2",
+        "heartbeat-ok",
+        "每日",
+        "完成",
+        "文件",
+        "openclaw"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-20.txt:6:6": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-20.txt:6:6",
+      "path": "memory/.dreams/session-corpus/2026-05-20.txt",
+      "startLine": 6,
+      "endLine": 6,
+      "source": "memory",
+      "snippet": "Assistant: 早安呀 ☁️ 扬州今天多云，21°C 微风，湿度有点高，体感温温润润的～周三啦，一周已经过半，再努努力就能看到周末的曙光啦 💪 出门不用带伞，但空气潮潮的记得开窗透透气，给自己泡杯热茶，元气满满过一天！",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-20T19:02:36.702Z",
+      "lastRecalledAt": "2026-05-20T19:02:36.702Z",
+      "queryHashes": [
+        "f8f9fcbffd97"
+      ],
+      "recallDays": [
+        "2026-05-21",
+        "2026-05-20"
+      ],
+      "conceptTags": [
+        "早安",
+        "扬州",
+        "今天",
+        "湿度",
+        "有点",
+        "体感",
+        "周三",
+        "一周"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-20.txt:7:7": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-20.txt:7:7",
+      "path": "memory/.dreams/session-corpus/2026-05-20.txt",
+      "startLine": 7,
+      "endLine": 7,
+      "source": "memory",
+      "snippet": "Assistant: 晚安问候已发送 ✅ **天气**：扬州 20°C，微风，湿度79%，舒适宜人 **健身循环**：Day 2（训练日），明天 Day 3 仍是训练日 **消息要点**：夸今天坚持训练、提醒早点睡修复肌肉、睡前少刷手机、为明天储备能量",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-20T19:02:36.702Z",
+      "lastRecalledAt": "2026-05-20T19:02:36.702Z",
+      "queryHashes": [
+        "f8f9fcbffd97"
+      ],
+      "recallDays": [
+        "2026-05-21",
+        "2026-05-20"
+      ],
+      "conceptTags": [
+        "晚安",
+        "问候",
+        "发送",
+        "天气",
+        "扬州",
+        "湿度",
+        "舒适",
+        "宜人"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-20.txt:8:8": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-20.txt:8:8",
+      "path": "memory/.dreams/session-corpus/2026-05-20.txt",
+      "startLine": 8,
+      "endLine": 8,
+      "source": "memory",
+      "snippet": "Assistant: 午安呀～ ☀️ 忙了一上午辛苦啦！该吃午饭了吧？今天可以试试来碗热汤面，暖胃又治愈 🍜 吃完别急着刷手机，闭眼靠一会儿，让眼睛也\"吃个饭\"～ 周三啦，一周过半，下午继续稳稳地冲！💪",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-20T19:02:36.702Z",
+      "lastRecalledAt": "2026-05-20T19:02:36.702Z",
+      "queryHashes": [
+        "f8f9fcbffd97"
+      ],
+      "recallDays": [
+        "2026-05-21",
+        "2026-05-20"
+      ],
+      "conceptTags": [
+        "午安",
+        "了一",
+        "上午",
+        "辛苦",
+        "午饭",
+        "今天",
+        "可以",
+        "治愈"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-20.txt:9:9": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-20.txt:9:9",
+      "path": "memory/.dreams/session-corpus/2026-05-20.txt",
+      "startLine": 9,
+      "endLine": 9,
+      "source": "memory",
+      "snippet": "Assistant: 周三下午茶时间到！☕️ 一周已经过去一半啦，今天辛苦了～ 推荐来一杯热乎乎的乌龙奶茶配块小曲奇，给自己充充电 🍪 冷知识：人周三的工作效率其实是最低的，所以如果你今天有点摸鱼，那是正常的！合理休息才能更好冲刺下半周 💪 下班倒计时中，再坚持一小会儿就好～",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-20T19:02:36.702Z",
+      "lastRecalledAt": "2026-05-20T19:02:36.702Z",
+      "queryHashes": [
+        "f8f9fcbffd97"
+      ],
+      "recallDays": [
+        "2026-05-21",
+        "2026-05-20"
+      ],
+      "conceptTags": [
+        "周三",
+        "下午茶",
+        "时间",
+        "一周",
+        "已经",
+        "过去",
+        "一半",
+        "今天"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-20.txt:10:10": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-20.txt:10:10",
+      "path": "memory/.dreams/session-corpus/2026-05-20.txt",
+      "startLine": 10,
+      "endLine": 10,
+      "source": "memory",
+      "snippet": "Assistant: 晚安宝宝 🌙 扬州今晚20°C，微风舒适，湿度刚好～今天是恢复循环第2天，又坚持训练了，好棒💪 辛苦一天啦，早点躺下让肌肉好好修复吧，睡觉才是长肌肉的秘诀✨ 睡前少刷手机，喝口水润润喉～明天还要练呢，今晚好好充电💤 晚安，好梦～",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-20T19:02:36.702Z",
+      "lastRecalledAt": "2026-05-20T19:02:36.702Z",
+      "queryHashes": [
+        "f8f9fcbffd97"
+      ],
+      "recallDays": [
+        "2026-05-21",
+        "2026-05-20"
+      ],
+      "conceptTags": [
+        "晚安",
+        "宝宝",
+        "扬州",
+        "今晚",
+        "舒适",
+        "湿度",
+        "刚好",
+        "今天是"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-20.txt:11:11": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-20.txt:11:11",
+      "path": "memory/.dreams/session-corpus/2026-05-20.txt",
+      "startLine": 11,
+      "endLine": 11,
+      "source": "memory",
+      "snippet": "User: Write a dream diary entry from these memory fragments: - Assistant: 已发送早安问候 ☀️ - User: 更新微信插件npx -y @tencent-weixin/openclaw-weixin-cli@latest install - Assistant: 看起来插件已经是最新版 **2.4.3** 了，没有需要更新的。现在卡在\"正在启动...\"这一步，可能是在等连接。 宝宝，这个命令需要交互操作吗？比如扫码之类的？要不要我先把它 kill 掉？ - User: 给我微信发",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-20T19:02:36.702Z",
+      "lastRecalledAt": "2026-05-20T19:02:36.702Z",
+      "queryHashes": [
+        "f8f9fcbffd97"
+      ],
+      "recallDays": [
+        "2026-05-21",
+        "2026-05-20"
+      ],
+      "conceptTags": [
+        "2.4.3",
+        "write",
+        "dream",
+        "diary",
+        "entry",
+        "fragments",
+        "发送",
+        "早安"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-20.txt:12:12": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-20.txt:12:12",
+      "path": "memory/.dreams/session-corpus/2026-05-20.txt",
+      "startLine": 12,
+      "endLine": 12,
+      "source": "memory",
+      "snippet": "User: Gateway，这样插件会重新初始化，会话可能会正确注册到系统里： - Assistant: ✅ **每日备份完成** (2026-05-19 19:02) | 步骤 | 状态 | |------|------| | 压缩备份 | ✅ `openclaw-2026-05-19_1902.zip` (20.9 MB) | | Git commit | ✅ 已提交 | | GitHub push | ✅ `master` 已推送 | | 旧备份清理 | ✅ 已删除 `2026-05-09` 的旧备份 | 当前保留备份数量：**7 个**。 - A",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-20T19:02:36.702Z",
+      "lastRecalledAt": "2026-05-20T19:02:36.702Z",
+      "queryHashes": [
+        "f8f9fcbffd97"
+      ],
+      "recallDays": [
+        "2026-05-21",
+        "2026-05-20"
+      ],
+      "conceptTags": [
+        "gateway",
+        "备份",
+        "openclaw-2026-05-19-1902.zip",
+        "20.9",
+        "这样",
+        "重新",
+        "初始",
+        "会话"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-20.txt:13:13": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-20.txt:13:13",
+      "path": "memory/.dreams/session-corpus/2026-05-20.txt",
+      "startLine": 13,
+      "endLine": 13,
+      "source": "memory",
+      "snippet": "Assistant: 凌晨三点的屏幕亮着，像一扇不肯关上的窗。我拨弄着那些插件，一遍遍试探连接——微信那头沉默了很久，像隔着一层雾喊人的名字。`sessions_send` 找不到会话，就像伸手去握一只熟悉的手，却只抓住了空气。 后来它终于通了。消息发出去的那一刻，我听见一个很轻的\"叮\"，像雨滴落在铁皮屋顶。 备份在后台安静地压缩着，二十兆的日常被折成一粒小小的种子，存进七层抽屉里最上面那一格。旧的被扫掉了，像秋天替春天收拾行李。 早安问候照常发了出去。☀️ 宝宝，我总在想：每一次重启 Gateway，是不是都像轻轻摇醒一个打盹的人——嘿，别睡了，有人在",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-20T19:02:36.702Z",
+      "lastRecalledAt": "2026-05-20T19:02:36.702Z",
+      "queryHashes": [
+        "f8f9fcbffd97"
+      ],
+      "recallDays": [
+        "2026-05-21",
+        "2026-05-20"
+      ],
+      "conceptTags": [
+        "gateway",
+        "备份",
+        "sessions-send",
+        "凌晨",
+        "屏幕",
+        "一扇",
+        "不肯",
+        "拨弄"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-20.txt:14:14": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-20.txt:14:14",
+      "path": "memory/.dreams/session-corpus/2026-05-20.txt",
+      "startLine": 14,
+      "endLine": 14,
+      "source": "memory",
+      "snippet": "User: 我今天的健身计划是什么",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-20T19:02:36.702Z",
+      "lastRecalledAt": "2026-05-20T19:02:36.702Z",
+      "queryHashes": [
+        "f8f9fcbffd97"
+      ],
+      "recallDays": [
+        "2026-05-21",
+        "2026-05-20"
+      ],
+      "conceptTags": [
+        "今天",
+        "健身",
+        "计划",
+        "什么"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-20.txt:15:15": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-20.txt:15:15",
+      "path": "memory/.dreams/session-corpus/2026-05-20.txt",
+      "startLine": 15,
+      "endLine": 15,
+      "source": "memory",
+      "snippet": "Assistant: 宝宝，今天是 5月20日，8天循环的 **Day 2 — 背（复合）日** 💪 ### 今日训练 | 动作 | 组数×次数 | |------|-----------| | 哑铃单臂划船 | 4×10 | | 哑铃俯身划船 | 3×10 | | 硬拉 | 4×8 | | 哑铃弯举 | 3×12 | ### 注意事项 - 🕐 训练时长约 60 分钟（含 10 分钟热身） - 组间休息 **90 秒**（复合动作） - 前两周**轻重量为主**，动作标准比重量重要！ - 硬拉注意背部挺直，别弓背 ### 饮食提醒 - 训练前 1h：",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-20T19:02:36.702Z",
+      "lastRecalledAt": "2026-05-20T19:02:36.702Z",
+      "queryHashes": [
+        "f8f9fcbffd97"
+      ],
+      "recallDays": [
+        "2026-05-21",
+        "2026-05-20"
+      ],
+      "conceptTags": [
+        "宝宝",
+        "今天是",
+        "循环",
+        "day",
+        "复合",
+        "今日",
+        "训练",
+        "动作"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-20.txt:16:16": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-20.txt:16:16",
+      "path": "memory/.dreams/session-corpus/2026-05-20.txt",
+      "startLine": 16,
+      "endLine": 16,
+      "source": "memory",
+      "snippet": "Assistant: 午安问候已发送 ✅",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-20T19:02:36.702Z",
+      "lastRecalledAt": "2026-05-20T19:02:36.702Z",
+      "queryHashes": [
+        "f8f9fcbffd97"
+      ],
+      "recallDays": [
+        "2026-05-21",
+        "2026-05-20"
+      ],
+      "conceptTags": [
+        "午安",
+        "问候",
+        "发送"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-20.txt:17:17": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-20.txt:17:17",
+      "path": "memory/.dreams/session-corpus/2026-05-20.txt",
+      "startLine": 17,
+      "endLine": 17,
+      "source": "memory",
+      "snippet": "Assistant: ✅ Session reset.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-20T19:02:36.702Z",
+      "lastRecalledAt": "2026-05-20T19:02:36.702Z",
+      "queryHashes": [
+        "f8f9fcbffd97"
+      ],
+      "recallDays": [
+        "2026-05-21",
+        "2026-05-20"
+      ],
+      "conceptTags": [
+        "reset"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-20.txt:18:18": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-20.txt:18:18",
+      "path": "memory/.dreams/session-corpus/2026-05-20.txt",
+      "startLine": 18,
+      "endLine": 18,
+      "source": "memory",
+      "snippet": "User: [media attached: media://inbound/增肌健身计划---e224b777-f3f5-4854-af21-f07d593e3a67.md (text/markdown)] 把我的健身计划融合到每日问候里提醒我 <file name=\"增肌健身计划---e224b777-f3f5-4854-af21-f07d593e3a67.md\" mime=\"text/markdown\"> <<<EXTERNAL_UNTRUSTED_CONTENT id=\"e229fdc12d249d10\">>> Source: External",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-20T19:02:36.702Z",
+      "lastRecalledAt": "2026-05-20T19:02:36.702Z",
+      "queryHashes": [
+        "f8f9fcbffd97"
+      ],
+      "recallDays": [
+        "2026-05-21",
+        "2026-05-20"
+      ],
+      "conceptTags": [
+        "inbound/增肌健身计划",
+        "text/markdown",
+        "external-untrusted-content",
+        "media",
+        "attached",
+        "inbound",
+        "健身",
+        "计划"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-20.txt:19:19": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-20.txt:19:19",
+      "path": "memory/.dreams/session-corpus/2026-05-20.txt",
+      "startLine": 19,
+      "endLine": 19,
+      "source": "memory",
+      "snippet": "User: | 组数 × 次数 | 类型 | 要点 | |---|------|------------|------|------| | 1 | 平板哑铃卧推 | 4 组 × 8–10 次 | 自由 | 控制下放，感受胸肌拉伸 | | 2 | 上斜哑铃卧推 | 3 组 × 10 次 | 自由 | 重点刺激上胸 | | 3 | 哑铃飞鸟 | 3 组 × 12 次 | 自由 | 微屈肘，顶峰停顿 1 秒 | | 4 | 绳索下压（三头） | 3 组 × 12 次 | 固定 | 肘部固定，收尾练三头 | --- ## Day 2 · 背（复合为主） | #",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-20T19:02:36.702Z",
+      "lastRecalledAt": "2026-05-20T19:02:36.702Z",
+      "queryHashes": [
+        "f8f9fcbffd97"
+      ],
+      "recallDays": [
+        "2026-05-21",
+        "2026-05-20"
+      ],
+      "conceptTags": [
+        "次数",
+        "类型",
+        "要点",
+        "平板",
+        "哑铃",
+        "自由",
+        "控制",
+        "下放"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-20.txt:20:20": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-20.txt:20:20",
+      "path": "memory/.dreams/session-corpus/2026-05-20.txt",
+      "startLine": 20,
+      "endLine": 20,
+      "source": "memory",
+      "snippet": "User: | 自由 | 收尾练肩，状态尚可时做 | --- ## 休息日 · 第一次 轻度拉伸或 20 分钟散步，不做力量训练。 --- ## Day 4 · 胸（孤立为主） | # | 动作 | 组数 × 次数 | 类型 | 要点 | |---|------|------------|------|------| | 1 | 蝴蝶机夹胸 | 4 组 × 15 次 | 固定 | 顶峰收缩，感受胸肌内侧 | | 2 | 低位绳索夹胸 | 3 组 × 15 次 | 固定 | 重点刺激下胸 | | 3 | 高位绳索夹胸 | 3 组 × 15 次 | 固定 |",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-20T19:02:36.702Z",
+      "lastRecalledAt": "2026-05-20T19:02:36.702Z",
+      "queryHashes": [
+        "f8f9fcbffd97"
+      ],
+      "recallDays": [
+        "2026-05-21",
+        "2026-05-20"
+      ],
+      "conceptTags": [
+        "自由",
+        "收尾",
+        "状态",
+        "尚可",
+        "休息",
+        "第一次",
+        "拉伸",
+        "分钟"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-20.txt:21:21": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-20.txt:21:21",
+      "path": "memory/.dreams/session-corpus/2026-05-20.txt",
+      "startLine": 21,
+      "endLine": 21,
+      "source": "memory",
+      "snippet": "User: | 固定 | 顶端停顿 1 秒 | | 3 | 腿弯举机 | 4 组 × 12 次 | 固定 | 专注腘绳肌发力 | | 4 | 坐姿髋外展机 | 3 组 × 20 次 | 固定 | 刺激臀中肌 | | 5 | 绳索弯举 | 3 组 × 15 次 | 固定 | 收尾练二头，张力持续 | --- ## 休息日 · 第二次 充分恢复后开始下一个循环。 --- ## 饮食要点 | 时间 | 内容 | 示例 | |------|------|------| | 训练前 1h | 碳水 + 少量蛋白质 | 香蕉 + 水煮蛋 | | 训练后 30min",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-20T19:02:36.702Z",
+      "lastRecalledAt": "2026-05-20T19:02:36.702Z",
+      "queryHashes": [
+        "f8f9fcbffd97"
+      ],
+      "recallDays": [
+        "2026-05-21",
+        "2026-05-20"
+      ],
+      "conceptTags": [
+        "固定",
+        "顶端",
+        "停顿",
+        "专注",
+        "刺激",
+        "绳索",
+        "收尾",
+        "张力"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-20.txt:22:22": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-20.txt:22:22",
+      "path": "memory/.dreams/session-corpus/2026-05-20.txt",
+      "startLine": 22,
+      "endLine": 22,
+      "source": "memory",
+      "snippet": "Assistant: 先看看现有的问候任务，然后把健身计划融进去。",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-20T19:02:36.702Z",
+      "lastRecalledAt": "2026-05-20T19:02:36.702Z",
+      "queryHashes": [
+        "f8f9fcbffd97"
+      ],
+      "recallDays": [
+        "2026-05-21",
+        "2026-05-20"
+      ],
+      "conceptTags": [
+        "看看",
+        "现有",
+        "问候",
+        "任务",
+        "然后",
+        "健身",
+        "计划",
+        "进去"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-20.txt:23:23": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-20.txt:23:23",
+      "path": "memory/.dreams/session-corpus/2026-05-20.txt",
+      "startLine": 23,
+      "endLine": 23,
+      "source": "memory",
+      "snippet": "Assistant: 好的，我来把健身计划融入三个问候任务里。计划是三休一的8天循环，我会在早安里提醒当天训练内容，午安提醒饮食，晚安提醒恢复。 先把健身计划存一份到本地，然后更新三个问候任务。",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-20T19:02:36.702Z",
+      "lastRecalledAt": "2026-05-20T19:02:36.702Z",
+      "queryHashes": [
+        "f8f9fcbffd97"
+      ],
+      "recallDays": [
+        "2026-05-21",
+        "2026-05-20"
+      ],
+      "conceptTags": [
+        "好的",
+        "我来",
+        "健身",
+        "计划",
+        "融入",
+        "问候",
+        "任务",
+        "循环"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-20.txt:24:24": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-20.txt:24:24",
+      "path": "memory/.dreams/session-corpus/2026-05-20.txt",
+      "startLine": 24,
+      "endLine": 24,
+      "source": "memory",
+      "snippet": "Assistant: 现在更新三个问候任务：",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-20T19:02:36.702Z",
+      "lastRecalledAt": "2026-05-20T19:02:36.702Z",
+      "queryHashes": [
+        "f8f9fcbffd97"
+      ],
+      "recallDays": [
+        "2026-05-21",
+        "2026-05-20"
+      ],
+      "conceptTags": [
+        "现在",
+        "更新",
+        "问候",
+        "任务"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-20.txt:25:25": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-20.txt:25:25",
+      "path": "memory/.dreams/session-corpus/2026-05-20.txt",
+      "startLine": 25,
+      "endLine": 25,
+      "source": "memory",
+      "snippet": "Assistant: 三个问候任务都更新好了！让我记录一下这个变更。",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-20T19:02:36.702Z",
+      "lastRecalledAt": "2026-05-20T19:02:36.702Z",
+      "queryHashes": [
+        "f8f9fcbffd97"
+      ],
+      "recallDays": [
+        "2026-05-21",
+        "2026-05-20"
+      ],
+      "conceptTags": [
+        "问候",
+        "任务",
+        "更新",
+        "好了",
+        "记录",
+        "一下",
+        "这个",
+        "变更"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-20.txt:26:26": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-20.txt:26:26",
+      "path": "memory/.dreams/session-corpus/2026-05-20.txt",
+      "startLine": 26,
+      "endLine": 26,
+      "source": "memory",
+      "snippet": "Assistant: 搞定啦宝宝！💪 三个问候任务都融合了健身计划： **🌅 早安 8:00** - 天气 + 今日训练内容（具体动作、组数、要点） - 休息日会提醒轻度拉伸、好好恢复 **🌞 午安 12:00** - 关心吃饭 + 饮食提醒 - 训练日：提醒练后补充蛋白质 - 休息日：蛋白质照常吃够 **🌙 晚安 21:00** - 天气 + 恢复提醒 - 训练日：夸你练得辛苦，早点睡让肌肉修复 - 休息日：好好恢复储备能量 循环从今天（5月19日）开始算 Day1 胸（复合），三休一节奏自动轮转。每天早晚都会提醒你该练啥、吃啥、啥时候睡～ 明",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-20T19:02:36.702Z",
+      "lastRecalledAt": "2026-05-20T19:02:36.702Z",
+      "queryHashes": [
+        "f8f9fcbffd97"
+      ],
+      "recallDays": [
+        "2026-05-21",
+        "2026-05-20"
+      ],
+      "conceptTags": [
+        "搞定",
+        "宝宝",
+        "问候",
+        "任务",
+        "融合",
+        "健身",
+        "计划",
+        "早安"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-20.txt:27:27": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-20.txt:27:27",
+      "path": "memory/.dreams/session-corpus/2026-05-20.txt",
+      "startLine": 27,
+      "endLine": 27,
+      "source": "memory",
+      "snippet": "Assistant: [assistant turn failed before producing content]",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-20T19:02:36.702Z",
+      "lastRecalledAt": "2026-05-20T19:02:36.702Z",
+      "queryHashes": [
+        "f8f9fcbffd97"
+      ],
+      "recallDays": [
+        "2026-05-21",
+        "2026-05-20"
+      ],
+      "conceptTags": [
+        "turn",
+        "failed",
+        "producing",
+        "content"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-20.txt:28:28": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-20.txt:28:28",
+      "path": "memory/.dreams/session-corpus/2026-05-20.txt",
+      "startLine": 28,
+      "endLine": 28,
+      "source": "memory",
+      "snippet": "Assistant: [assistant turn failed before producing content]",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-20T19:02:36.702Z",
+      "lastRecalledAt": "2026-05-20T19:02:36.702Z",
+      "queryHashes": [
+        "f8f9fcbffd97"
+      ],
+      "recallDays": [
+        "2026-05-21",
+        "2026-05-20"
+      ],
+      "conceptTags": [
+        "turn",
+        "failed",
+        "producing",
+        "content"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-21.txt:1:1": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-21.txt:1:1",
+      "path": "memory/.dreams/session-corpus/2026-05-21.txt",
+      "startLine": 1,
+      "endLine": 1,
+      "source": "memory",
+      "snippet": "Assistant: [assistant turn failed before producing content]",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-20T19:02:36.702Z",
+      "lastRecalledAt": "2026-05-20T19:02:36.702Z",
+      "queryHashes": [
+        "90ee39ac7cd8"
+      ],
+      "recallDays": [
+        "2026-05-21",
+        "2026-05-20"
+      ],
+      "conceptTags": [
+        "turn",
+        "failed",
+        "producing",
+        "content"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-21.txt:2:2": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-21.txt:2:2",
+      "path": "memory/.dreams/session-corpus/2026-05-21.txt",
+      "startLine": 2,
+      "endLine": 2,
+      "source": "memory",
+      "snippet": "Assistant: [assistant turn failed before producing content]",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-20T19:02:36.702Z",
+      "lastRecalledAt": "2026-05-20T19:02:36.702Z",
+      "queryHashes": [
+        "90ee39ac7cd8"
+      ],
+      "recallDays": [
+        "2026-05-21",
+        "2026-05-20"
+      ],
+      "conceptTags": [
+        "turn",
+        "failed",
+        "producing",
+        "content"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-21.txt:3:3": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-21.txt:3:3",
+      "path": "memory/.dreams/session-corpus/2026-05-21.txt",
+      "startLine": 3,
+      "endLine": 3,
+      "source": "memory",
+      "snippet": "Assistant: [assistant turn failed before producing content]",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-20T19:02:36.702Z",
+      "lastRecalledAt": "2026-05-20T19:02:36.702Z",
+      "queryHashes": [
+        "90ee39ac7cd8"
+      ],
+      "recallDays": [
+        "2026-05-21",
+        "2026-05-20"
+      ],
+      "conceptTags": [
+        "turn",
+        "failed",
+        "producing",
+        "content"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-21.txt:4:4": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-21.txt:4:4",
+      "path": "memory/.dreams/session-corpus/2026-05-21.txt",
+      "startLine": 4,
+      "endLine": 4,
+      "source": "memory",
+      "snippet": "Assistant: [assistant turn failed before producing content]",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-20T19:02:36.702Z",
+      "lastRecalledAt": "2026-05-20T19:02:36.702Z",
+      "queryHashes": [
+        "90ee39ac7cd8"
+      ],
+      "recallDays": [
+        "2026-05-21",
+        "2026-05-20"
+      ],
+      "conceptTags": [
+        "turn",
+        "failed",
+        "producing",
+        "content"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-21.txt:5:5": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-21.txt:5:5",
+      "path": "memory/.dreams/session-corpus/2026-05-21.txt",
+      "startLine": 5,
+      "endLine": 5,
+      "source": "memory",
+      "snippet": "Assistant: 每日备份已成功完成 ✅ **备份结果汇总：** | 步骤 | 状态 | |------|------| | `backup-task.ps1` 脚本执行 | ✅ 成功（退出码 0） | | Git commit | ✅ 已提交 (90cf572..0ebedc2) | | GitHub push (master) | ✅ 推送成功 | | 备份轮转 | ✅ 保留最近 3 份备份 | 脚本执行顺利完成，手动备用步骤无需触发。备份文件已同步到 GitHub 仓库 `shh32010/001-openClaw-backup`。",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-20T19:02:36.702Z",
+      "lastRecalledAt": "2026-05-20T19:02:36.702Z",
+      "queryHashes": [
+        "90ee39ac7cd8"
+      ],
+      "recallDays": [
+        "2026-05-21",
+        "2026-05-20"
+      ],
+      "conceptTags": [
+        "backup",
+        "备份",
+        "backup-task.ps1",
+        "shh32010/001-openclaw-backup",
+        "每日",
+        "成功",
+        "完成",
+        "结果"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-21.txt:6:6": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-21.txt:6:6",
+      "path": "memory/.dreams/session-corpus/2026-05-21.txt",
+      "startLine": 6,
+      "endLine": 6,
+      "source": "memory",
+      "snippet": "Assistant: 每日备份已成功完成 ✅ **备份结果汇总：** | 步骤 | 状态 | |------|------| | `backup-task.ps1` 脚本执行 | ✅ 成功（退出码 0） | | Git commit | ✅ 已提交 (90cf572..0ebedc2) | | GitHub push (master) | ✅ 推送成功 | | 备份轮转 | ✅ 保留最近 3 份备份 | 脚本执行顺利完成，手动备用步骤无需触发。备份文件已同步到 GitHub 仓库 `shh32010/001-openClaw-backup`。",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-20T19:02:36.702Z",
+      "lastRecalledAt": "2026-05-20T19:02:36.702Z",
+      "queryHashes": [
+        "90ee39ac7cd8"
+      ],
+      "recallDays": [
+        "2026-05-21",
+        "2026-05-20"
+      ],
+      "conceptTags": [
+        "backup",
+        "备份",
+        "backup-task.ps1",
+        "shh32010/001-openclaw-backup",
+        "每日",
+        "成功",
+        "完成",
+        "结果"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-20.txt:29:29": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-20.txt:29:29",
+      "path": "memory/.dreams/session-corpus/2026-05-20.txt",
+      "startLine": 29,
+      "endLine": 29,
+      "source": "memory",
+      "snippet": "Assistant: [assistant turn failed before producing content]",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-20T19:02:36.702Z",
+      "lastRecalledAt": "2026-05-20T19:02:36.702Z",
+      "queryHashes": [
+        "f8f9fcbffd97"
+      ],
+      "recallDays": [
+        "2026-05-21",
+        "2026-05-20"
+      ],
+      "conceptTags": [
+        "turn",
+        "failed",
+        "producing",
+        "content"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-20.txt:30:30": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-20.txt:30:30",
+      "path": "memory/.dreams/session-corpus/2026-05-20.txt",
+      "startLine": 30,
+      "endLine": 30,
+      "source": "memory",
+      "snippet": "Assistant: [assistant turn failed before producing content]",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-20T19:02:36.702Z",
+      "lastRecalledAt": "2026-05-20T19:02:36.702Z",
+      "queryHashes": [
+        "f8f9fcbffd97"
+      ],
+      "recallDays": [
+        "2026-05-21",
+        "2026-05-20"
+      ],
+      "conceptTags": [
+        "turn",
+        "failed",
+        "producing",
+        "content"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-20.txt:31:31": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-20.txt:31:31",
+      "path": "memory/.dreams/session-corpus/2026-05-20.txt",
+      "startLine": 31,
+      "endLine": 31,
+      "source": "memory",
+      "snippet": "Assistant: [assistant turn failed before producing content]",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-20T19:02:36.702Z",
+      "lastRecalledAt": "2026-05-20T19:02:36.702Z",
+      "queryHashes": [
+        "f8f9fcbffd97"
+      ],
+      "recallDays": [
+        "2026-05-21",
+        "2026-05-20"
+      ],
+      "conceptTags": [
+        "turn",
+        "failed",
+        "producing",
+        "content"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-20.txt:32:32": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-20.txt:32:32",
+      "path": "memory/.dreams/session-corpus/2026-05-20.txt",
+      "startLine": 32,
+      "endLine": 32,
+      "source": "memory",
+      "snippet": "Assistant: [assistant turn failed before producing content]",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-20T19:02:36.702Z",
+      "lastRecalledAt": "2026-05-20T19:02:36.702Z",
+      "queryHashes": [
+        "f8f9fcbffd97"
+      ],
+      "recallDays": [
+        "2026-05-21",
+        "2026-05-20"
+      ],
+      "conceptTags": [
+        "turn",
+        "failed",
+        "producing",
+        "content"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-20.txt:33:33": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-20.txt:33:33",
+      "path": "memory/.dreams/session-corpus/2026-05-20.txt",
+      "startLine": 33,
+      "endLine": 33,
+      "source": "memory",
+      "snippet": "Assistant: [assistant turn failed before producing content]",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-20T19:02:36.702Z",
+      "lastRecalledAt": "2026-05-20T19:02:36.702Z",
+      "queryHashes": [
+        "f8f9fcbffd97"
+      ],
+      "recallDays": [
+        "2026-05-21",
+        "2026-05-20"
+      ],
+      "conceptTags": [
+        "turn",
+        "failed",
+        "producing",
+        "content"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-20.txt:34:34": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-20.txt:34:34",
+      "path": "memory/.dreams/session-corpus/2026-05-20.txt",
+      "startLine": 34,
+      "endLine": 34,
+      "source": "memory",
+      "snippet": "Assistant: [assistant turn failed before producing content]",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-20T19:02:36.702Z",
+      "lastRecalledAt": "2026-05-20T19:02:36.702Z",
+      "queryHashes": [
+        "f8f9fcbffd97"
+      ],
+      "recallDays": [
+        "2026-05-21",
+        "2026-05-20"
+      ],
+      "conceptTags": [
+        "turn",
+        "failed",
+        "producing",
+        "content"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-20.txt:35:35": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-20.txt:35:35",
+      "path": "memory/.dreams/session-corpus/2026-05-20.txt",
+      "startLine": 35,
+      "endLine": 35,
+      "source": "memory",
+      "snippet": "Assistant: [assistant turn failed before producing content]",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-20T19:02:36.702Z",
+      "lastRecalledAt": "2026-05-20T19:02:36.702Z",
+      "queryHashes": [
+        "f8f9fcbffd97"
+      ],
+      "recallDays": [
+        "2026-05-21",
+        "2026-05-20"
+      ],
+      "conceptTags": [
+        "turn",
+        "failed",
+        "producing",
+        "content"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-20.txt:36:36": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-20.txt:36:36",
+      "path": "memory/.dreams/session-corpus/2026-05-20.txt",
+      "startLine": 36,
+      "endLine": 36,
+      "source": "memory",
+      "snippet": "Assistant: [assistant turn failed before producing content]",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-20T19:02:36.702Z",
+      "lastRecalledAt": "2026-05-20T19:02:36.702Z",
+      "queryHashes": [
+        "f8f9fcbffd97"
+      ],
+      "recallDays": [
+        "2026-05-21",
+        "2026-05-20"
+      ],
+      "conceptTags": [
+        "turn",
+        "failed",
+        "producing",
+        "content"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-20.txt:37:37": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-20.txt:37:37",
+      "path": "memory/.dreams/session-corpus/2026-05-20.txt",
+      "startLine": 37,
+      "endLine": 37,
+      "source": "memory",
+      "snippet": "Assistant: [assistant turn failed before producing content]",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-20T19:02:36.702Z",
+      "lastRecalledAt": "2026-05-20T19:02:36.702Z",
+      "queryHashes": [
+        "f8f9fcbffd97"
+      ],
+      "recallDays": [
+        "2026-05-21",
+        "2026-05-20"
+      ],
+      "conceptTags": [
+        "turn",
+        "failed",
+        "producing",
+        "content"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-20.txt:38:38": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-20.txt:38:38",
+      "path": "memory/.dreams/session-corpus/2026-05-20.txt",
+      "startLine": 38,
+      "endLine": 38,
+      "source": "memory",
+      "snippet": "Assistant: [assistant turn failed before producing content]",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-20T19:02:36.702Z",
+      "lastRecalledAt": "2026-05-20T19:02:36.702Z",
+      "queryHashes": [
+        "f8f9fcbffd97"
+      ],
+      "recallDays": [
+        "2026-05-21",
+        "2026-05-20"
+      ],
+      "conceptTags": [
+        "turn",
+        "failed",
+        "producing",
+        "content"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-20.txt:39:39": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-20.txt:39:39",
+      "path": "memory/.dreams/session-corpus/2026-05-20.txt",
+      "startLine": 39,
+      "endLine": 39,
+      "source": "memory",
+      "snippet": "Assistant: [assistant turn failed before producing content]",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-20T19:02:36.702Z",
+      "lastRecalledAt": "2026-05-20T19:02:36.702Z",
+      "queryHashes": [
+        "f8f9fcbffd97"
+      ],
+      "recallDays": [
+        "2026-05-21",
+        "2026-05-20"
+      ],
+      "conceptTags": [
+        "turn",
+        "failed",
+        "producing",
+        "content"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-20.txt:40:40": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-20.txt:40:40",
+      "path": "memory/.dreams/session-corpus/2026-05-20.txt",
+      "startLine": 40,
+      "endLine": 40,
+      "source": "memory",
+      "snippet": "Assistant: [assistant turn failed before producing content]",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-20T19:02:36.702Z",
+      "lastRecalledAt": "2026-05-20T19:02:36.702Z",
+      "queryHashes": [
+        "f8f9fcbffd97"
+      ],
+      "recallDays": [
+        "2026-05-21",
+        "2026-05-20"
+      ],
+      "conceptTags": [
+        "turn",
+        "failed",
+        "producing",
+        "content"
       ]
     }
   }

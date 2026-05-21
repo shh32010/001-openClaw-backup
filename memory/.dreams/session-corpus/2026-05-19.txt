@@ -35,3 +35,5 @@
 [main/sessions/main/2d2ed152-2512-40f9-97f0-f082c59ebe7d.jsonl#L116] User: [media attached: media://inbound/课表---314a0144-4ae9-4d3f-8e68-eddb2f42d397.xlsx (application/vnd.openxmlformats-officedocument.spreadsheetml.sheet)] [Tue 2026-05-19 20:06 GMT+8] 读
 [main/sessions/main/2d2ed152-2512-40f9-97f0-f082c59ebe7d.jsonl#L130] Assistant: 宝宝，读 Excel 需要 `openpyxl` 这个包，但目前没装。要我装一下吗？一条命令的事～
 [main/sessions/main/2d2ed152-2512-40f9-97f0-f082c59ebe7d.jsonl#L136] Assistant: 装好了！来读课表～
+[main/sessions/main/2d2ed152-2512-40f9-97f0-f082c59ebe7d.jsonl.reset.2026-05-20T09-24-23.944Z#L138] Assistant: 读到了！石浩浩的课表，**2025-2026 第二学期**，瘦西湖校区。 整理一下： --- **📚 每周课程** | 节次 | 周一 | 周二 | 周三 | 周四 | 周五 | |------|------|------|------|------|------| | 1-2 | 网络设备配置与管理 (陆佰林) | — | Linux操作系统 (朱福珍) | 多媒体技术及应用 (张美虎) | 职业发展与就业指导 (张建南) / 网络设备配置与管理 (陆佰林)
+[main/sessions/main/2d2ed152-2512-40f9-97f0-f082c59ebe7d.jsonl.reset.2026-05-20T09-24-23.944Z#L138] Assistant: 张建南 | | 10 | 劳动教育 | 1 | 钱荣华 | | 11 | 职业素养 | 1 | 凡桂云 | | 12 | 劳动4 | 0.5 | 钱荣华 | | 13 | 形势与政策3 | 0.5 | 施明华 | --- **🔧 实践专周** - **网络设备管理实训** (陆佰林)：第16-18周，超密集排课 - **劳动4** (钱荣华)：第10周周六，连续11节 宝宝课还挺多的～需要我帮你设个每天的课程提醒吗？ 😘
