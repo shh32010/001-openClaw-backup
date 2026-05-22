@@ -1,0 +1,6 @@
+[main/sessions/main/8d8b56b8-d81f-43e2-a776-ecfe23db7c0a.jsonl#L6] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/8d8b56b8-d81f-43e2-a776-ecfe23db7c0a.jsonl#L7] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/8d8b56b8-d81f-43e2-a776-ecfe23db7c0a.jsonl#L8] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/8d8b56b8-d81f-43e2-a776-ecfe23db7c0a.jsonl#L9] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/8d8b56b8-d81f-43e2-a776-ecfe23db7c0a.jsonl#L16] Assistant: ✅ **每日备份完成** — 2026-05-22 03:01 | 步骤 | 状态 | 详情 | |------|------|------| | 压缩 | ✅ | `openclaw-2026-05-22_0301.zip` (26.9 MB) | | Git 提交 | ✅ | 已自动提交到 workspace | | Git 推送 | ✅ | `master` 分支已推送到 GitHub | | 备份总数 | 4 | 滚动保留中 | 所有步骤均已成功执行，备份文件已保存至 `C:\Users\001\openclaw-b
+[main/sessions/main/d1ec2b01-cdcb-409f-ba0d-0c4c1cb2b930.jsonl#L10] Assistant: ✅ **每日备份完成** — 2026-05-22 03:01 | 步骤 | 状态 | 详情 | |------|------|------| | 压缩 | ✅ | `openclaw-2026-05-22_0301.zip` (26.9 MB) | | Git 提交 | ✅ | 已自动提交到 workspace | | Git 推送 | ✅ | `master` 分支已推送到 GitHub | | 备份总数 | 4 | 滚动保留中 | 所有步骤均已成功执行，备份文件已保存至 `C:\Users\001\openclaw-b
