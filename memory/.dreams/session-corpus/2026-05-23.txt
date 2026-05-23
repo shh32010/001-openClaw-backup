@@ -1,0 +1,6 @@
+[main/sessions/main/92b611ae-6187-463d-ab15-8964639c1bfc.jsonl#L6] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/92b611ae-6187-463d-ab15-8964639c1bfc.jsonl#L7] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/92b611ae-6187-463d-ab15-8964639c1bfc.jsonl#L8] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/92b611ae-6187-463d-ab15-8964639c1bfc.jsonl#L9] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/92b611ae-6187-463d-ab15-8964639c1bfc.jsonl#L16] Assistant: ✅ **每日备份完成** — 2026年5月23日 03:01 | 步骤 | 结果 | |------|------| | 压缩备份 | `openclaw-2026-05-23_0301.zip` (27.4 MB) → `C:\Users\001\openclaw-backups` | | Git 提交 | 成功提交 | | GitHub 推送 | 成功推送至 `master` 分支 (`c8dffcf..5434784`) | | 备份总数 | 当前共 5 个备份 | 仅有少量 LF/CRLF 换行符警告，不影响备份完
+[main/sessions/main/d1ec2b01-cdcb-409f-ba0d-0c4c1cb2b930.jsonl#L12] Assistant: ✅ **每日备份完成** — 2026年5月23日 03:01 | 步骤 | 结果 | |------|------| | 压缩备份 | `openclaw-2026-05-23_0301.zip` (27.4 MB) → `C:\Users\001\openclaw-backups` | | Git 提交 | 成功提交 | | GitHub 推送 | 成功推送至 `master` 分支 (`c8dffcf..5434784`) | | 备份总数 | 当前共 5 个备份 | 仅有少量 LF/CRLF 换行符警告，不影响备份完
